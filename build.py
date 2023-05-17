@@ -33,7 +33,7 @@ def main():
         ['python3', "./wii-code-tools/port_symbol_map.py", 
          'symbols_CHN_rem.map', 'C', 'address-map.txt', 'maps',
          '--output-pattern', 'symbols_$VER$_rem_ghidra.map',
-         '--output_format', 'ghidra']
+         '--output-format', 'ghidra']
     )
 
     print('Done!')
