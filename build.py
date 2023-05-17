@@ -7,33 +7,31 @@ def main():
 
     print('Generating JSON symbol map...')
 
-    with open('symbols_CHN.txt') as f:
-        symbols = {}
+    with open('symbols_CHN.map') as f:
+        dem_map = []
         for line in f:
-            addr, name = line.split(' ')
-            symbols[int(addr, 16)] = name.strip()
+            parts = line.strip().split(' ')
+            try:
+                parts[4] = cw_demangler.demangle(parts[4])
+            except:
+                print('Failed to demangle: ' + parts[4])
 
-        # Mangled symbols
-        with open('symbols_CHN.json', 'w') as f:
-            json.dump(symbols, f, indent=4)
+            dem_map.append(' '.join(parts))
 
-        # Demangled symbols
-        for addr in symbols:
-            symbols[addr] = cw_demangler.demangle(symbols[addr])
-        with open('symbols_CHN_rem.json', 'w') as f:
-            json.dump(symbols, f, indent=4)
+        with open('symbols_CHN_rem.map', 'w') as f:
+            f.write('\n'.join(dem_map))
 
     print('Generating symbol map...')
 
     subprocess.check_output(
         ['python3', "./wii-code-tools/port_symbol_map.py", 
-         'symbols_CHN.json', 'C', 'address-map.txt', 'maps',
+         'symbols_CHN.map', 'C', 'address-map.txt', 'maps',
          '--output-pattern', 'symbols_$VER$_dolphin.map']
     )
          
     subprocess.check_output(
         ['python3', "./wii-code-tools/port_symbol_map.py", 
-         'symbols_CHN_rem.json', 'C', 'address-map.txt', 'maps',
+         'symbols_CHN_rem.map', 'C', 'address-map.txt', 'maps',
          '--output-pattern', 'symbols_$VER$_rem_ghidra.map',
          '--output_format', 'ghidra']
     )
