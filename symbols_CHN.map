@@ -17647,6 +17647,8 @@
 8042f400 00000008 8042f400 0 __double_huge
 8042f438 00000001 8042f438 0 @GUARD@drawScreen__3d3dFbbf@c_offset
 8042f440 00000008 8042f440 0 @LOCAL@drawScreen__3d3dFbbf@c_offset
+8042f448 00000001 8042f448 0 @GUARD@drawScreen__3d3dFbbf@c_scale@0
+8042f450 00000008 8042f450 0 @LOCAL@drawScreen__3d3dFbbf@c_scale@0
 8042f45c 00000004 8042f45c 0 m_instance__20dCourseSelectGuide_c
 8042f468 00000004 8042f468 0 m_instance__13dSmallScore_c
 8042f490 00000004 8042f490 0 m_instance__13dWipeCircle_c
@@ -17723,6 +17725,12 @@
 8042f670 00000004 8042f670 0 ms_instance__11dBgTexMng_c
 8042f678 00000004 8042f678 0 m_instance__11dBlockMng_c
 8042f684 00000004 8042f684 0 ms_instance__13dCaptureMng_c
+8042f690 00000001 8042f690 0 @GUARD@drawOpa__16dMakeShadowTex_cFv@c_scale@3
+8042f698 00000008 8042f698 0 @LOCAL@drawOpa__16dMakeShadowTex_cFv@c_scale@3
+8042f6a0 00000001 8042f6a0 0 @GUARD@drawQuad__20dDrawShadowProjMap_cFv@c_offset@2
+8042f6a8 00000008 8042f6a8 0 @LOCAL@drawQuad__20dDrawShadowProjMap_cFv@c_offset@2
+8042f6b0 00000001 8042f6b0 0 @GUARD@drawQuad__20dDrawShadowProjMap_cFv@c_scale@3
+8042f6b8 00000008 8042f6b8 0 @LOCAL@drawQuad__20dDrawShadowProjMap_cFv@c_scale@3
 8042f6c0 00000004 8042f6c0 0 mEntryN__5dCc_c
 8042f6c4 00000004 8042f6c4 0 mEntryB__5dCc_c
 8042f6d0 00000004 8042f6d0 0 m_instance__16dCenterSaveMng_c
