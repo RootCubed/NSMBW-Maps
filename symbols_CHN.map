@@ -227,6 +227,10 @@
 80014250 0000001c 80014250 0 __arraydtor$64535
 800142b0 00000058 800142b0 0 __dt__35sFStateID_c<20dCourseSelectGuide_c>Fv
 80014310 00000088 80014310 0 isSameName__35sFStateID_c<20dCourseSelectGuide_c>CFPCc
+800143a0 0000000c 800143a0 0 __ct__13GXStateSave_cFv
+800143b0 00000040 800143b0 0 __dt__13GXStateSave_cFv
+800143f0 000000f8 800143f0 0 save__13GXStateSave_cFUl
+800144f0 0000012c 800144f0 0 restore__13GXStateSave_cFv
 80014620 0000003c 80014620 0 __ct__15dPanelObjList_cFv
 80014660 00000040 80014660 0 __dt__15dPanelObjList_cFv
 800146a0 00000008 800146a0 0 getValue__15dPanelObjList_cCFv
@@ -3130,6 +3134,8 @@
 80087d80 00000068 80087d80 0 deleteAllPanelAnime__11dBgTexMng_cFv
 80087df0 0000000c 80087df0 0 GetDokanTexBufferSize__11dBgTexMng_cFv
 80087e00 00000040 80087e00 0 GetCopyTexBufferSize__11dBgTexMng_cFii
+80087e40 00000074 80087e40 0 CopyDokanTexture__11dBgTexMng_cFPUs
+80087ec0 00000160 80087ec0 0 CopyPanelTexture__11dBgTexMng_cFPUsPUsiii
 80088020 00000054 80088020 0 SetKoopaStageFlag__11dBgTexMng_cFv
 80088080 00000004 80088080 0 drawXlu__11dBgTexMng_cFv
 80088ee0 00000038 80088ee0 0 calcShake__10dBoatLog_cFv
@@ -4296,6 +4302,7 @@
 800b4800 00000004 800b4800 0 GetLanguageHBM__8dGameComFv
 800b4810 00000064 800b4810 0 AreaLanguageFolder__8dGameComFPCcPc
 800b4880 00000020 800b4880 0 PlayerEnterCheck__8dGameComFi
+800b48a0 000001b4 800b48a0 0 Player1upColor__8dGameComFP12LytTextBox_ci
 800b4a60 00000028 800b4a60 0 MiniGameCannonTitle__8dGameComFv
 800b4a90 00000030 800b4a90 0 MiniGameCannonStart__8dGameComFv
 800b4ac0 0000002c 800b4ac0 0 MiniGameCannonResult__8dGameComFv
@@ -17638,6 +17645,8 @@
 8042f3f8 00000004 8042f3f8 0 __float_nan
 8042f3fc 00000004 8042f3fc 0 __float_huge
 8042f400 00000008 8042f400 0 __double_huge
+8042f438 00000001 8042f438 0 @GUARD@drawScreen__3d3dFbbf@c_offset
+8042f440 00000008 8042f440 0 @LOCAL@drawScreen__3d3dFbbf@c_offset
 8042f45c 00000004 8042f45c 0 m_instance__20dCourseSelectGuide_c
 8042f468 00000004 8042f468 0 m_instance__13dSmallScore_c
 8042f490 00000004 8042f490 0 m_instance__13dWipeCircle_c
