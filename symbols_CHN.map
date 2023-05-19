@@ -4434,6 +4434,7 @@
 800b97c0 00000064 800b97c0 0 createMdl__16dIggyWanKusari_cFv
 800b9830 00000034 800b9830 0 init__16dIggyWanKusari_cFv
 800b9870 00000038 800b9870 0 getLength__16dIggyWanKusari_cCFv
+800b98b0 0000002c 800b98b0 0 setAlphaForKameckMagic__16dIggyWanKusari_cFUc
 800b98e0 000000b4 800b98e0 0 calcTightRate__16dIggyWanKusari_cFv
 800b99a0 000003f0 800b99a0 0 ready__16dIggyWanKusari_cFv
 800b9d90 000003a8 800b9d90 0 normal__16dIggyWanKusari_cFv
