@@ -7241,6 +7241,7 @@
 80148830 00000014 80148830 0 setChukanPowerUpEffect__7dAcPy_cFv
 80148850 0000006c 80148850 0 endPowerUpEffect__7dAcPy_cFv
 801488c0 00000114 801488c0 0 updateItemGetEffect__7dAcPy_cFv
+80148a60 00000114 80148a60 0 searchKinopioNearPlayer__7dAcPy_cFPf
 80148b80 00000260 80148b80 0 managePropelFukidashi__7dAcPy_cFv
 80148de0 000000d4 80148de0 0 isDrawingFukidashi__7dAcPy_cFv
 80148ec0 00000060 80148ec0 0 isDrawingCarryFukidashi__7dAcPy_cFv
