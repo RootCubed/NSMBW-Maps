@@ -7445,6 +7445,8 @@
 80153710 00000038 80153710 0 initStampReduction__9daYoshi_cFv
 80153750 00000058 80153750 0 calcJumpDaiReductionScale__9daYoshi_cFii
 801537b0 00000038 801537b0 0 setReductionBoyon__9daYoshi_cFv
+801537f0 00000098 801537f0 0 getTongueTipMtx__9daYoshi_cFP6mMtx_c
+80153890 00000038 80153890 0 getMouthMtx__9daYoshi_cFP6mMtx_c
 801538d0 00000040 801538d0 0 isStar__9daYoshi_cCFv
 801539b0 00000038 801539b0 0 endStar__9daYoshi_cFv
 801539f0 00000048 801539f0 0 setVirusStar__9daYoshi_cFP10daPlBase_c
