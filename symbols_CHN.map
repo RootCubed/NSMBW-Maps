@@ -4749,7 +4749,13 @@
 800cb780 0000001c 800cb780 0 __ct__7dMask_cFv
 800cb8c0 00000018 800cb8c0 0 execute__7dMask_cFv
 800cb8e0 00000058 800cb8e0 0 draw__7dMask_cFv
+800cbaf0 00000004 800cbaf0 0 drawOpa__13texMaskCave_cFv
+800cbb00 00000004 800cbb00 0 drawOpa__18texMaskCaveColor_cFv
+800cbb10 00000004 800cbb10 0 drawXlu__13texMaskDark_cFv
 800cbb20 00000090 800cbb20 0 __draw__9texMask_cFv
+800cbbb0 00000240 800cbbb0 0 loadMaterial__13texMaskCave_cFv
+800cbdf0 00000240 800cbdf0 0 loadMaterial__18texMaskCaveColor_cFv
+800cc030 00000240 800cc030 0 loadMaterial__13texMaskDark_cFv
 800cc270 0000003c 800cc270 0 __ct__11dDarkMask_cFv
 800cc2b0 000000a4 800cc2b0 0 create__11dDarkMask_cFP12mAllocator_cii
 800cc360 0000003c 800cc360 0 drawXlu__11dDarkMask_cFv
@@ -4764,7 +4770,10 @@
 800cc900 00000060 800cc900 0 __dt__11dDarkMask_cFv
 800cc960 00000040 800cc960 0 __dt__7dMask_cFv
 800cc9a0 00000004 800cc9a0 0 drawOpa__9texMask_cFv
+800cc9b0 00000064 800cc9b0 0 __dt__13texMaskDark_cFv
 800cca20 00000004 800cca20 0 drawXlu__9texMask_cFv
+800cca30 00000064 800cca30 0 __dt__18texMaskCaveColor_cFv
+800ccaa0 00000064 800ccaa0 0 __dt__13texMaskCave_cFv
 800ccb10 00000008 800ccb10 0 getType__8spline_cFv
 800ccb20 00000040 800ccb20 0 __dt__8spline_cFv
 800ccb60 00000008 800ccb60 0 getType__6quad_cFv
@@ -15546,6 +15555,9 @@
 8031c268 00000020 8031c268 0 __vt__18dDarkSettingMask_c
 8031c288 00000020 8031c288 0 __vt__11dDarkMask_c
 8031c2a8 0000000c 8031c2a8 0 __vt__7dMask_c
+8031c2b4 00000024 8031c2b4 0 __vt__13texMaskDark_c
+8031c2d8 00000024 8031c2d8 0 __vt__18texMaskCaveColor_c
+8031c2fc 00000024 8031c2fc 0 __vt__13texMaskCave_c
 8031c320 0000001c 8031c320 0 __vt__8spline_c
 8031c33c 0000001c 8031c33c 0 __vt__6quad_c
 8031c370 00000018 8031c370 0 __vt__16dHandLightMask_c
