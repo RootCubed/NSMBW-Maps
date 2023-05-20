@@ -649,6 +649,10 @@
 8001e110 00000004 8001e110 0 revengeHitSE__10daBullet_cFv
 8001e120 00000050 8001e120 0 checkPlayerDamage__10daBullet_cFP5dCc_cP5dCc_c
 8001e170 00000050 8001e170 0 checkYoshiDamage__10daBullet_cFP5dCc_cP5dCc_c
+8001e230 00000120 8001e230 0 hitProc_Star__10daBullet_cFP5dCc_c
+8001e350 00000120 8001e350 0 hitProc_Shell__10daBullet_cFP5dCc_c
+8001e470 00000120 8001e470 0 hitProc_YoshiBullet__10daBullet_cFP5dCc_c
+8001e590 00000080 8001e590 0 hitProc_Reflect__10daBullet_cFP5dCc_c
 8001e610 00000054 8001e610 0 setEatTongue__10daBullet_cFP8dActor_c
 8001e670 000000d8 8001e670 0 setEatSpitOut__10daBullet_cFP8dActor_c
 8001e750 00000004 8001e750 0 setSpitOutMove__10daBullet_cFP8dActor_c
@@ -1364,6 +1368,7 @@
 80035a40 00000004 80035a40 0 removeHIO__13daEnNetNoko_cFv
 80035a50 00000124 80035a50 0 calcMdl__13daEnNetNoko_cFv
 80035b80 00000098 80035b80 0 setColor__13daEnNetNoko_cFv
+80035c20 000000b4 80035c20 0 wireBgCheck__13daEnNetNoko_cFRC7mVec2_c
 80035ce0 00000030 80035ce0 0 PlDamageCheck__13daEnNetNoko_cFP5dCc_cP5dCc_c
 80035d10 000000b4 80035d10 0 setEatSpitOut__13daEnNetNoko_cFP8dActor_c
 80035dd0 00000060 80035dd0 0 MameFumiJumpSet__13daEnNetNoko_cFP8dActor_c
@@ -2262,6 +2267,7 @@
 80056e30 000000d8 80056e30 0 calcTimerProc__10daPlBase_cFv
 80056f10 0000000c 80056f10 0 getModel__10daPlBase_cFv
 80056f20 00000378 80056f20 0 calcPlayerSpeedXY__10daPlBase_cFv
+800574d0 00000258 800574d0 0 posMoveAnglePlayer__10daPlBase_cF7mVec3_c
 80057730 0000004c 80057730 0 getSpeedData__10daPlBase_cFv
 80057780 000000b4 80057780 0 setZPosition__10daPlBase_cFv
 80057840 00000070 80057840 0 setZPosition__10daPlBase_cFf
@@ -4908,6 +4914,7 @@
 800cff00 00000048 800cff00 0 createInstance__7dNext_cFPQ23EGG4Heap
 800cff50 0000001c 800cff50 0 deleteInstance__7dNext_cFv
 800cff70 0000001c 800cff70 0 initialize__7dNext_cFv
+800cfff0 000000dc 800cfff0 0 setOwnNextData__7dNext_cFUcUc
 800d0300 00000018 800d0300 0 simpleChangeScene__7dNext_cFUcQ28dFader_c12fader_type_e
 800d0320 000000cc 800d0320 0 simpleChangeScene__7dNext_cFUcUcQ28dFader_c12fader_type_e
 800d03f0 00000170 800d03f0 0 changeScene__7dNext_cFv
@@ -5810,6 +5817,7 @@
 800fc860 0000009c 800fc860 0 hasKoopaShipStop__6dWmLibFv
 800fc900 00000050 800fc900 0 getEnemyRevivalCount__6dWmLibFii
 800fc950 0000005c 800fc950 0 setEnemyRevivalCount__6dWmLibFiii
+800fc9b0 000000d4 800fc9b0 0 getPointDir__6dWmLibFRC7mVec3_cRC7mVec3_c
 800fcb30 00000014 800fcb30 0 isSpecialWorld__6dWmLibFv
 800fcb50 00000070 800fcb50 0 getMaxCollectionCoinNum__6dWmLibFi
 800fcc30 00000004 800fcc30 0 isSpecialWorldCourseOpen__6dWmLibFi
@@ -5837,6 +5845,7 @@
 800fdcf0 00000070 800fdcf0 0 __sinit_\d_wm_lib_cpp
 800fdd60 0000001c 800fdd60 0 __arraydtor$53530
 800fdd80 000000a0 800fdd80 0 initialize__13dWmMaterial_cFRCQ23m3d5mdl_c
+800fde20 000000e4 800fde20 0 MakeMatNameList__13dWmMaterial_cFRCQ23m3d5mdl_c
 800fdf10 00000028 800fdf10 0 GetMatName__13dWmMaterial_cFi
 800fdf40 00000084 800fdf40 0 isMaterialExist__13dWmMaterial_cFPCc
 800fdfd0 00000014 800fdfd0 0 GetOpenStatus__13dWmObjActor_cFv
@@ -6507,6 +6516,7 @@
 8011c0f0 00000090 8011c0f0 0 killcheck_Bg__19daFireBall_Player_cFv
 8011c180 00000058 8011c180 0 killcheck_Ride__19daFireBall_Player_cFv
 8011c1e0 0000000c 8011c1e0 0 boundCheck__19daFireBall_Player_cFv
+8011c1f0 00000084 8011c1f0 0 setSakaSpeed__19daFireBall_Player_cFUcUc
 8011c2d0 000000a4 8011c2d0 0 __dt__19daFireBall_Player_cFv
 8011c380 00000124 8011c380 0 __sinit_\d_a_fireball_player_cpp
 8011c4b0 00000058 8011c4b0 0 __dt__34sFStateID_c<19daFireBall_Player_c>Fv
@@ -6533,6 +6543,7 @@
 8011d670 00000314 8011d670 0 initCollision__7daIce_cFv
 8011dab0 0000015c 8011dab0 0 checkPlayerIn__7daIce_cFv
 8011dc10 000001d8 8011dc10 0 checkBgIn__7daIce_cFv
+8011ddf0 000001e4 8011ddf0 0 calcLandLine__7daIce_cFRf
 8011dfe0 00000230 8011dfe0 0 finalUpdate__7daIce_cFv
 8011e210 00000198 8011e210 0 isQuakeDamage__7daIce_cFv
 8011e3b0 000000ac 8011e3b0 0 quakeDamage__7daIce_cFv
