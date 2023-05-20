@@ -2293,6 +2293,7 @@
 80058120 00000008 80058120 0 holdSound__Q26dAudio13SndObjctPly_cFUlsUl
 800581f0 00000060 800581f0 0 startFootSoundPlayer__10daPlBase_cFUl
 80058250 00000018 80058250 0 setItemCompleteVoice__10daPlBase_cFv
+80058270 00000004 80058270 0 setStar__10daPlBase_cFQ210daPlBase_c9StarSet_ei
 80058280 0000000c 80058280 0 clearTreadCount__10daPlBase_cFv
 80058290 00000020 80058290 0 calcTreadCount__10daPlBase_cFi
 800582b0 0000000c 800582b0 0 clearStarCount__10daPlBase_cFv
@@ -5902,7 +5903,10 @@
 800ffb10 0000026c 800ffb10 0 timingB__Q211dYoshiMdl_c14nodeCallback_cFUlPQ34nw4r3g3d13WorldMtxManipQ34nw4r3g3d6ResMdl
 800ffd80 000000c8 800ffd80 0 getJointMtx__11dYoshiMdl_cFP6mMtx_ci
 800ffe50 00000014 800ffe50 0 getTonguePos__11dYoshiMdl_cFv
+800ffe70 00000020 800ffe70 0 getTongueTipMtx__11dYoshiMdl_cFv
+800ffe90 00000008 800ffe90 0 setTongueJointMtx__11dYoshiMdl_cFiPC6mMtx_c
 800ffea0 00000008 800ffea0 0 getTongueJointMtx__11dYoshiMdl_cFi
+800ffeb0 0000006c 800ffeb0 0 setTongueJointMtxBuf__11dYoshiMdl_cFiPC6mMtx_c
 800fff20 00000010 800fff20 0 getTongueJointMtxBuf__11dYoshiMdl_cFi
 800fff30 0000030c 800fff30 0 setTongueBendCalc__11dYoshiMdl_cFv
 80100240 000001f0 80100240 0 updateTongueMtx__11dYoshiMdl_cFv
@@ -7224,6 +7228,8 @@
 80146ce0 0000002c 80146ce0 0 getModelScaleBase__7dAcPy_cFv
 80146d10 000000a8 80146d10 0 getModelScale__7dAcPy_cFv
 80146dc0 00000058 80146dc0 0 draw__7dAcPy_cFv
+80146eb0 00000080 80146eb0 0 setStar__7dAcPy_cFQ210daPlBase_c9StarSet_ei
+80146f30 00000080 80146f30 0 setStarBase__7dAcPy_cFQ210daPlBase_c9StarSet_ei
 80146fb0 00000068 80146fb0 0 endStar__7dAcPy_cFv
 80147020 0000012c 80147020 0 calcStarTimer__7dAcPy_cFv
 80147150 00000050 80147150 0 setVirusStar__7dAcPy_cFP10daPlBase_c
@@ -7459,6 +7465,7 @@
 801537f0 00000098 801537f0 0 getTongueTipMtx__9daYoshi_cFP6mMtx_c
 80153890 00000038 80153890 0 getMouthMtx__9daYoshi_cFP6mMtx_c
 801538d0 00000040 801538d0 0 isStar__9daYoshi_cCFv
+80153910 00000094 80153910 0 setStar__9daYoshi_cFQ210daPlBase_c9StarSet_ei
 801539b0 00000038 801539b0 0 endStar__9daYoshi_cFv
 801539f0 00000048 801539f0 0 setVirusStar__9daYoshi_cFP10daPlBase_c
 80153a40 00000038 80153a40 0 clearStarCount__9daYoshi_cFv
