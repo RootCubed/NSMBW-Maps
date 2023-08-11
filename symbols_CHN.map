@@ -841,6 +841,8 @@
 800241f0 00000004 800241f0 0 removeHIO__14daEnBrosBase_cFv
 80024200 00000128 80024200 0 calcMdl__14daEnBrosBase_cFv
 80024330 00000078 80024330 0 calcJntMtx__14daEnBrosBase_cFv
+800243b0 000000f4 800243b0 0 Normal_VsPlHitCheck__14daEnBrosBase_cFP5dCc_cP5dCc_c
+800244b0 00000084 800244b0 0 Normal_VsYoshiHitCheck__14daEnBrosBase_cFP5dCc_cP5dCc_c
 80024540 000000a0 80024540 0 hitCallback_Ice__14daEnBrosBase_cFP5dCc_cP5dCc_c
 800245e0 00000010 800245e0 0 setIceAnm__14daEnBrosBase_cFv
 800245f0 00000018 800245f0 0 returnState_Ice__14daEnBrosBase_cFv
@@ -1248,8 +1250,10 @@
 80031650 00000010 80031650 0 drawModel__16daEnKuriboBase_cFv
 80031660 00000140 80031660 0 calcModel__16daEnKuriboBase_cFv
 800317f0 00000004 800317f0 0 setTurnByEnemyHit__16daEnKuriboBase_cFv
+80031800 000000d4 80031800 0 Normal_VsPlHitCheck__16daEnKuriboBase_cFP5dCc_cP5dCc_c
 800318e0 00000008 800318e0 0 reactSpinFumiProc__16daEnKuriboBase_cFP8dActor_c
 800318f0 00000008 800318f0 0 isDamageInvalid__16daEnKuriboBase_cFv
+80031900 000000b0 80031900 0 Normal_VsYoshiHitCheck__16daEnKuriboBase_cFP5dCc_cP5dCc_c
 800319b0 00000004 800319b0 0 reactYoshiFumiProc__16daEnKuriboBase_cFP8dActor_c
 800319c0 00000040 800319c0 0 reactFumiProc__16daEnKuriboBase_cFP8dActor_c
 80031a00 00000004 80031a00 0 reactMameFumiProc__16daEnKuriboBase_cFP8dActor_c
@@ -1304,8 +1308,10 @@
 80033530 00000030 80033530 0 draw__17daEnLkuriboBase_cFv
 80033560 00000158 80033560 0 calcMdl__17daEnLkuriboBase_cFv
 800336c0 000000e4 800336c0 0 calcJnt__17daEnLkuriboBase_cFv
+80033860 0000011c 80033860 0 Normal_VsPlHitCheck__17daEnLkuriboBase_cFP5dCc_cP5dCc_c
 80033980 0000004c 80033980 0 splitSE__17daEnLkuriboBase_cFv
 800339d0 00000004 800339d0 0 splitEffect__17daEnLkuriboBase_cFv
+800339e0 000000c0 800339e0 0 Normal_VsYoshiHitCheck__17daEnLkuriboBase_cFP5dCc_cP5dCc_c
 80033aa0 000001c8 80033aa0 0 hitCallback_Fire__17daEnLkuriboBase_cFP5dCc_cP5dCc_c
 80033c70 0000004c 80033c70 0 firehitSE__17daEnLkuriboBase_cFv
 80033cc0 000000f0 80033cc0 0 hitCallback_HipAttk__17daEnLkuriboBase_cFP5dCc_cP5dCc_c
@@ -1372,6 +1378,8 @@
 80035ce0 00000030 80035ce0 0 PlDamageCheck__13daEnNetNoko_cFP5dCc_cP5dCc_c
 80035d10 000000b4 80035d10 0 setEatSpitOut__13daEnNetNoko_cFP8dActor_c
 80035dd0 00000060 80035dd0 0 MameFumiJumpSet__13daEnNetNoko_cFP8dActor_c
+80035e30 000000bc 80035e30 0 Normal_VsPlHitCheck__13daEnNetNoko_cFP5dCc_cP5dCc_c
+80035ef0 00000084 80035ef0 0 Normal_VsYoshiHitCheck__13daEnNetNoko_cFP5dCc_cP5dCc_c
 80035f80 00000074 80035f80 0 initializeState_DieFumi__13daEnNetNoko_cFv
 80036000 00000004 80036000 0 finalizeState_DieFumi__13daEnNetNoko_cFv
 80036010 000000b8 80036010 0 executeState_DieFumi__13daEnNetNoko_cFv
@@ -1445,9 +1453,11 @@
 80038840 00000030 80038840 0 drawShell__11daEnShell_cFv
 80038870 00000024 80038870 0 EtcDamageCheck__11daEnShell_cFP5dCc_cP5dCc_c
 80038a40 00000004 80038a40 0 setEnemyTurn__11daEnShell_cFv
+80038a50 000005ec 80038a50 0 Normal_VsPlHitCheck__11daEnShell_cFP5dCc_cP5dCc_c
 80039040 00000014 80039040 0 isItemKinopio__7dAcPy_cFv
 80039060 00000008 80039060 0 isFumiInvalid__11daEnShell_cCFv
 80039070 00000008 80039070 0 specialFumiProc__11daEnShell_cFP8dActor_c
+80039080 000002a0 80039080 0 Normal_VsYoshiHitCheck__11daEnShell_cFP5dCc_cP5dCc_c
 80039320 00000010 80039320 0 specialFumiProc_Yoshi__11daEnShell_cFP8dActor_c
 80039330 0000002c 80039330 0 checkComboClap__11daEnShell_cFi
 80039360 000000ac 80039360 0 FumiJumpSet__11daEnShell_cFP8dActor_c
@@ -3433,6 +3443,9 @@
 80095950 000000d4 80095950 0 Bound__5dEn_cFfff
 80095a30 000000b8 80095a30 0 checkDispIn__5dEn_cFv
 80095af0 000002b8 80095af0 0 normal_collcheck__5dEn_cFP5dCc_cP5dCc_c
+80095db0 00000004 80095db0 0 Normal_VsEnHitCheck__5dEn_cFP5dCc_cP5dCc_c
+80095dc0 0000005c 80095dc0 0 Normal_VsPlHitCheck__5dEn_cFP5dCc_cP5dCc_c
+80095e20 0000005c 80095e20 0 Normal_VsYoshiHitCheck__5dEn_cFP5dCc_cP5dCc_c
 80095e80 0000004c 80095e80 0 EnDamageCheck__5dEn_cFP5dCc_cP5dCc_c
 80095ed0 00000218 80095ed0 0 PlDamageCheck__5dEn_cFP5dCc_cP5dCc_c
 800960f0 00000104 800960f0 0 YoshiDamageCheck__5dEn_cFP5dCc_cP5dCc_c
@@ -3526,8 +3539,10 @@
 80098a10 000000a8 80098a10 0 preExecute__9dEnBoss_cFv
 80098ae0 000001d0 80098ae0 0 postExecute__9dEnBoss_cFQ27fBase_c12MAIN_STATE_e
 80098cb0 00000084 80098cb0 0 isQuakeDamage__9dEnBoss_cFv
+80098d40 0000012c 80098d40 0 Normal_VsPlHitCheck__9dEnBoss_cFP5dCc_cP5dCc_c
 80098e70 00000008 80098e70 0 isFumiInvalid__9dEnBoss_cCFv
 80098e80 00000008 80098e80 0 isFumiDmgInvalid__9dEnBoss_cCFv
+80098e90 000000d0 80098e90 0 Normal_VsYoshiHitCheck__9dEnBoss_cFP5dCc_cP5dCc_c
 80098f60 0000000c 80098f60 0 deadAllKill__9dEnBoss_cFv
 80098f70 000001dc 80098f70 0 fumiProc__9dEnBoss_cFP8dActor_c
 80099150 00000004 80099150 0 damageRev__14dBossLifeInf_cFi
@@ -3831,6 +3846,9 @@
 800a29f0 00000030 800a29f0 0 executeState__19sFStateID_c<5dEn_c>CFR5dEn_c
 800a2a20 00000030 800a2a20 0 finalizeState__19sFStateID_c<5dEn_c>CFR5dEn_c
 800a2a50 00000150 800a2a50 0 operate__14dEnFumiCheck_cFR12FumiCcInfo_ci
+800a2ba0 00000054 800a2ba0 0 operate__13dEnFumiProc_cFR12FumiCcInfo_ci
+800a2c00 000000f8 800a2c00 0 vsPlayerCheck__13dEnFumiProc_cFR12FumiCcInfo_ci
+800a2d00 00000050 800a2d00 0 vsYoshiCheck__13dEnFumiProc_cFR12FumiCcInfo_ci
 800a2d50 0000000c 800a2d50 0 baseID_DemoWait<10sStateID_c>__Fv_RC12sStateIDIf_c
 800a2d60 0000000c 800a2d60 0 baseID_DemoAwake<10sStateID_c>__Fv_RC12sStateIDIf_c
 800a2d70 0000000c 800a2d70 0 baseID_Move<10sStateID_c>__Fv_RC12sStateIDIf_c
