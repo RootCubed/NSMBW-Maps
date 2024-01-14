@@ -17994,6 +17994,12 @@
 8042fc2c 00000004 8042fc2c 0 sUnloadCallback__7fBase_c
 8042fc30 00000004 8042fc30 0 m_StopProcInf__10fManager_c
 8042fc40 00000004 8042fc40 0 l_allocator__3m2d
+8042fc48 00000004 8042fc48 0 l_allocator_p__Q23m3d8internal
+8042fc4c 00000004 8042fc4c 0 l_scnRoot_p__Q23m3d8internal
+8042fc50 00000004 8042fc50 0 l_numLightMgr__Q23m3d8internal
+8042fc54 00000004 8042fc54 0 l_lightMgr_pp__Q23m3d8internal
+8042fc58 00000004 8042fc58 0 l_numFogMgr__Q23m3d8internal
+8042fc5c 00000004 8042fc5c 0 l_fogMgr_pp__Q23m3d8internal
 8042fc68 00000004 8042fc68 0 m_instance__21mAllocatorDummyHeap_c
 8042fc70 00000006 8042fc70 0 Zero__7mAng3_c
 8042fc78 00000006 8042fc78 0 Ex__7mAng3_c
