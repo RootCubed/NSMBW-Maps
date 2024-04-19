@@ -281,6 +281,7 @@
 80015b40 00000124 80015b40 0 DispWait__13dSmallScore_cFv
 80015c70 00000004 80015c70 0 GoalScoreDisp__13dSmallScore_cFv
 80015c80 000000d0 80015c80 0 PositionSet__13dSmallScore_cFv
+80015d50 00000060 80015d50 0 CreateSmallScore__13dSmallScore_cFRC7mVec3_cii
 80015db0 00000014 80015db0 0 PosSet__13dSmallScore_cFRC7mVec3_c
 80015dd0 000000cc 80015dd0 0 __ct__17dWarningBattery_cFv
 80015ea0 00000004 80015ea0 0 __ct__7mVec3_cFv
@@ -4320,6 +4321,10 @@
 800b31e0 000000c0 800b31e0 0 calcXY__8dGameComFffs
 800b32a0 0000001c 800b32a0 0 getDispCenterX__8dGameComFv
 800b32c0 0000001c 800b32c0 0 getDispCenterY__8dGameComFv
+800b36f0 00000030 800b36f0 0 CreateRedNumber__8dGameComFRC7mVec3_ci
+800b3720 00000068 800b3720 0 CreateSmallScore__8dGameComFRC7mVec3_ciib
+800b3790 00000014 800b3790 0 CreateSmallAll1up__8dGameComFRC7mVec3_c
+800b37b0 00000030 800b37b0 0 GoalScoreExecute__8dGameComFRC7mVec3_ci
 800b3c00 0000000c 800b3c00 0 clearGameStop__8dGameComFv
 800b3c10 000000f0 800b3c10 0 setGameStop__8dGameComFv
 800b3d00 00000024 800b3d00 0 isWarning__17dWarningManager_cFv
@@ -6268,6 +6273,11 @@
 8010dbe0 0000009c 8010dbe0 0 execute__20dSmallScoreManager_cFv
 8010dc80 0000007c 8010dc80 0 draw__20dSmallScoreManager_cFv
 8010dd00 000000b4 8010dd00 0 doDelete__20dSmallScoreManager_cFv
+8010ddc0 00000018 8010ddc0 0 CreateBlueNumber__20dSmallScoreManager_cFRC7mVec3_cii
+8010dde0 00000020 8010dde0 0 CreateRedNumber__20dSmallScoreManager_cFRC7mVec3_ci
+8010de00 000000b0 8010de00 0 CreateSmallScore__20dSmallScoreManager_cFRC7mVec3_cii
+8010deb0 000000ac 8010deb0 0 CreateGoalScore__20dSmallScoreManager_cFRC7mVec3_cii
+8010df60 000000a0 8010df60 0 GoalScoreExecute__20dSmallScoreManager_cFRC7mVec3_ci
 8010e000 00000070 8010e000 0 __sinit_\d_SmallScoreManager_cpp
 8010e070 00000030 8010e070 0 dWarningManager_c_classInit__Fv
 8010e0a0 00000010 8010e0a0 0 CreateWarningManager__17dWarningManager_cFv
