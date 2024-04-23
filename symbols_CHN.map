@@ -15081,6 +15081,7 @@
 802f4e78 00000048 802f4e78 0 l_panel_no
 802f5358 00000024 802f5358 0 l_wand_cc
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
+802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
 802f7f18 00000100 802f7f18 0 smc_demo_default_clr__11dCsSeqMng_c
 802f8018 00000068 802f8018 0 smc_demo_default_fail__11dCsSeqMng_c
 802f8080 00000098 802f8080 0 smc_demo_enemy_clr__11dCsSeqMng_c
@@ -17326,6 +17327,7 @@
 8042a0a0 00000030 8042a0a0 0 spBufferSet__Q23EGG8StateEfb
 8042a0d0 00000018 8042a0d0 0 sWorkSpaceV__Q23EGG8StateEfb
 8042a0e8 00000018 8042a0e8 0 sWorkSpaceHideV__Q23EGG8StateEfb
+8042a140 00000014 8042a140 0 s_cacheGX__Q23EGG7StateGX
 8042a170 00000200 8042a170 0 spBufferTable__Q23EGG13TextureBuffer
 8042a370 0000002c 8042a370 0 scReverbHiParam__Q23EGG10AudioFxMgr
 8042a39c 0000002c 8042a39c 0 scReverbHiDpl2Param__Q23EGG10AudioFxMgr
@@ -17731,6 +17733,7 @@
 8042f3b8 00000004 8042f3b8 0 sDrawFlag__Q23EGG7ModelEx
 8042f3c0 00000004 8042f3c0 0 sFlag__Q23EGG8StateEfb
 8042f3c4 00000004 8042f3c4 0 sWorkBuffer__Q23EGG8StateEfb
+8042f3c8 00000004 8042f3c8 0 s_tmem_layout__Q23EGG7StateGX
 8042f3d8 00000001 8042f3d8 0 sAudioRmtSpeakerWpadVolume__Q23EGG18AudioRmtSpeakerMgr
 8042f3e0 00000004 8042f3e0 0 sHBFadeframe__Q33EGG12AudioUtility3HBM
 8042f3e8 00000004 8042f3e8 0 fragmentID
@@ -17738,6 +17741,7 @@
 8042f3f8 00000004 8042f3f8 0 __float_nan
 8042f3fc 00000004 8042f3fc 0 __float_huge
 8042f400 00000008 8042f400 0 __double_huge
+8042f420 00000004 8042f420 0 ms_res_allocator__Q23d2d18ResAccMultLoader_c
 8042f438 00000001 8042f438 0 @GUARD@drawScreen__3d3dFbbf@c_offset
 8042f440 00000008 8042f440 0 @LOCAL@drawScreen__3d3dFbbf@c_offset
 8042f448 00000001 8042f448 0 @GUARD@drawScreen__3d3dFbbf@c_scale@0
@@ -17917,6 +17921,7 @@
 8042f964 00000004 8042f964 0 l_rayoutAspect__6mVideo
 8042f970 00000004 8042f970 0 m_instance__16dWaterEntryMng_c
 8042f9fc 00000004 8042f9fc 0 m_instance__9daWmMap_c
+8042fa0e 00000002 8042fa0e 0 ms_StarVar__12daWmPlayer_c
 8042fa10 00000004 8042fa10 0 ms_instance__12daWmPlayer_c
 8042fa1c 00000004 8042fa1c 0 ms_instance__11dCsSeqMng_c
 8042fa20 00000001 8042fa20 0 m_isDispOff__10dScCrsin_c
