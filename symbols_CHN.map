@@ -15071,6 +15071,7 @@
 802f3240 0000000c 802f3240 0 smc_toge_head__16daEnTogezoBase_c
 802f3250 00000010 802f3250 0 smc_toge_foot__16daEnTogezoBase_c
 802f3260 00000010 802f3260 0 smc_toge_wall__16daEnTogezoBase_c
+802f3270 00000010 802f3270 0 smc_sakasa_toge_foot__16daEnTogezoBase_c
 802f3280 0000000c 802f3280 0 smc_pipo_head__16daEnTogezoBase_c
 802f3290 00000010 802f3290 0 smc_pipo_foot__16daEnTogezoBase_c
 802f32a0 00000010 802f32a0 0 smc_pipo_wall__16daEnTogezoBase_c
