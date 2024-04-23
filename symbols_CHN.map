@@ -2622,6 +2622,7 @@
 80064030 00000030 80064030 0 initializeState__32sFStateID_c<17daSpinChildBase_c>CFR17daSpinChildBase_c
 80064060 00000030 80064060 0 executeState__32sFStateID_c<17daSpinChildBase_c>CFR17daSpinChildBase_c
 80064090 00000030 80064090 0 finalizeState__32sFStateID_c<17daSpinChildBase_c>CFR17daSpinChildBase_c
+80064170 000000d4 80064170 0 execute__16daZoomPipeBase_cFv
 80064250 0000019c 80064250 0 __ct__8dActor_cFv
 800643f0 00000094 800643f0 0 __dt__8dActor_cFv
 80064490 0000002c 80064490 0 preCreate__8dActor_cFv
