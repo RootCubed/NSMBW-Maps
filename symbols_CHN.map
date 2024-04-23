@@ -4912,6 +4912,10 @@
 800ce880 00000004 800ce880 0 __ct__13dMj2dHeader_cFv
 800ce890 00000068 800ce890 0 initialize__13dMj2dHeader_cFv
 800ce900 00000008 800ce900 0 setSelectFileNo__13dMj2dHeader_cFSc
+800ce910 00000018 800ce910 0 getPlayCountFreeMode__13dMj2dHeader_cCFii
+800ce930 00000018 800ce930 0 setPlayCountFreeMode__13dMj2dHeader_cFiii
+800ce950 00000018 800ce950 0 getPlayCountCoinBattle__13dMj2dHeader_cCFii
+800ce970 00000018 800ce970 0 setPlayCountCoinBattle__13dMj2dHeader_cFiii
 800ce990 0000001c 800ce990 0 onMultiWorldOpenFlag__13dMj2dHeader_cFi
 800ce9b0 00000020 800ce9b0 0 isMultiWorldOpenFlag__13dMj2dHeader_cFi
 800ce9d0 00000040 800ce9d0 0 versionUpdate__13dMj2dHeader_cFv
