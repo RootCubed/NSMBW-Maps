@@ -15065,6 +15065,16 @@
 802f30a8 00000024 802f30a8 0 l_kuribo_cc
 802f30f0 00000024 802f30f0 0 l_kuribo_cc
 802f3158 00000024 802f3158 0 l_noko_cc
+802f317c 0000000c 802f317c 0 smc_noko_head__13daEnNetNoko_c
+802f3188 0000000c 802f3188 0 smc_noko_foot__13daEnNetNoko_c
+802f3194 0000000c 802f3194 0 smc_noko_wall__13daEnNetNoko_c
+802f3240 0000000c 802f3240 0 smc_toge_head__16daEnTogezoBase_c
+802f3250 00000010 802f3250 0 smc_toge_foot__16daEnTogezoBase_c
+802f3260 00000010 802f3260 0 smc_toge_wall__16daEnTogezoBase_c
+802f3280 0000000c 802f3280 0 smc_pipo_head__16daEnTogezoBase_c
+802f3290 00000010 802f3290 0 smc_pipo_foot__16daEnTogezoBase_c
+802f32a0 00000010 802f32a0 0 smc_pipo_wall__16daEnTogezoBase_c
+802f32b0 00000024 802f32b0 0 smc_toge_cc__16daEnTogezoBase_c
 802f32e0 0000000c 802f32e0 0 l_fireball_foot
 802f32ec 0000000c 802f32ec 0 l_fireball_head
 802f32f8 0000000c 802f32f8 0 l_fireball_wall
