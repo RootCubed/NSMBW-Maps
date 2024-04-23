@@ -4323,6 +4323,7 @@
 800b31e0 000000c0 800b31e0 0 calcXY__8dGameComFffs
 800b32a0 0000001c 800b32a0 0 getDispCenterX__8dGameComFv
 800b32c0 0000001c 800b32c0 0 getDispCenterY__8dGameComFv
+800b36b0 00000038 800b36b0 0 CreateBlueNumber__8dGameComFRC7mVec3_cii
 800b36f0 00000030 800b36f0 0 CreateRedNumber__8dGameComFRC7mVec3_ci
 800b3720 00000068 800b3720 0 CreateSmallScore__8dGameComFRC7mVec3_ciib
 800b3790 00000014 800b3790 0 CreateSmallAll1up__8dGameComFRC7mVec3_c
