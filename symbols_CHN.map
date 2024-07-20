@@ -5464,6 +5464,7 @@
 800e5550 00000024 800e5550 0 myDylinkInitPhase_4__22@unnamed@d_system_cpp@FPv
 800e5580 00000168 800e5580 0 execute__6dSys_cFv
 800e56f0 000000b0 800e56f0 0 createEffectManagerPhase1__7dSystemFPv
+800e57a0 00000064 800e57a0 0 createEffectManagerPhase2__7dSystemFPv
 800e5810 00000040 800e5810 0 createFontManagerPhase__7dSystemFPv
 800e5850 0000008c 800e5850 0 createMessageManagerPhase__7dSystemFPv
 800e58e0 0000005c 800e58e0 0 fixArena__7dSystemFv
