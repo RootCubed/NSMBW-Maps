@@ -1289,6 +1289,7 @@
 80032870 00000008 80032870 0 isFunsui__16daEnKuriboBase_cCFv
 80032880 00000044 80032880 0 endFunsui__16daEnKuriboBase_cFv
 800328d0 00000054 800328d0 0 beginFunsui__16daEnKuriboBase_cFv
+80032930 0000006c 80032930 0 fumidamageSE__16daEnKuriboBase_cFRC7mVec3_ci
 800329a0 000000fc 800329a0 0 __dt__16daEnKuriboBase_cFv
 80032aa0 00000078 80032aa0 0 __dt__Q23mEf16levelOneEffect_cFv
 80032b20 00000378 80032b20 0 __sinit_\d_a_en_kuribo_base_cpp
@@ -3463,6 +3464,7 @@
 800960f0 00000104 800960f0 0 YoshiDamageCheck__5dEn_cFP5dCc_cP5dCc_c
 80096200 000001d0 80096200 0 EtcDamageCheck__5dEn_cFP5dCc_cP5dCc_c
 800963d0 00000004 800963d0 0 hitYoshiEat__5dEn_cFP5dCc_cP5dCc_c
+800964e0 00000028 800964e0 0 CeilCheck__5dEn_cFfP5dCc_c
 80096510 00000074 80096510 0 carry_check__5dEn_cFP8dActor_c
 80096640 00000040 80096640 0 __dt__12FumiCcInfo_cFv
 80096680 0000025c 80096680 0 Enfumi_check__5dEn_cFP5dCc_cP5dCc_ci
