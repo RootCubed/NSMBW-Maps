@@ -3400,6 +3400,7 @@
 80092b90 000000e0 80092b90 0 createWaterSplashEff__14dEffActorMng_cFR7mVec3_cUlSc7mVec3_c
 80092c70 00000110 80092c70 0 createWanChainEff__14dEffActorMng_cFR7mVec3_cUlSc
 80092d80 00000014 80092d80 0 __sinit_\d_effactor_mng_cpp
+80092da0 0000009c 80092da0 0 create__17dEffectProcBase_cFP12mAllocator_ciii
 80092e40 00000004 80092e40 0 drawOpa__15dWmEffectProc_cFv
 80092e50 0000009c 80092e50 0 drawXlu__15dWmEffectProc_cFv
 80092ef0 00000044 80092ef0 0 create__15dScEffectProc_cFP12mAllocator_ciii
