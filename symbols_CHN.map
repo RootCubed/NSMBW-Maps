@@ -1908,6 +1908,7 @@
 80047800 00000004 80047800 0 initializeState_Walk__10daPlBase_cFv
 80047810 00000008 80047810 0 finalizeState_Walk__10daPlBase_cFv
 80047820 00000044 80047820 0 executeState_Walk__10daPlBase_cFv
+80047990 0000007c 80047990 0 calcAccOnIceLift__10daPlBase_cFv
 80047a10 00000060 80047a10 0 initializeState_Jump__10daPlBase_cFv
 80047a70 000000bc 80047a70 0 finalizeState_Jump__10daPlBase_cFv
 80047b30 000000ac 80047b30 0 executeState_Jump__10daPlBase_cFv
@@ -2265,6 +2266,7 @@
 80055700 000000d0 80055700 0 setBgDamage__10daPlBase_cFv
 800557d0 000000e4 800557d0 0 checkSinkSand__10daPlBase_cFv
 800558c0 00000024 800558c0 0 checkBGCrossWall__10daPlBase_cFUc
+800558f0 000000ec 800558f0 0 checkSideViewLemit__10daPlBase_cFv
 800559e0 000000fc 800559e0 0 revSideLimitCommon__10daPlBase_cFf
 80055ae0 00000070 80055ae0 0 calcSideLimitMultL__10daPlBase_cFf
 80055b50 00000070 80055b50 0 calcSideLimitMultR__10daPlBase_cFf
@@ -3896,6 +3898,7 @@
 800a39d0 000002c8 800a39d0 0 calcPropEffect__16dEnJrClownBase_cFv
 800a3ca0 00000010 800a3ca0 0 getPropOffsetY__16dEnJrClownBase_cCFv
 800a3cb0 00000010 800a3cb0 0 getPropEffScale__16dEnJrClownBase_cCFv
+800a3cc0 00000198 800a3cc0 0 calcPropEffectOnlyFollow__16dEnJrClownBase_cFv
 800a3e60 00000078 800a3e60 0 doDelete__16dEnJrClownBase_cFv
 800a3ee0 00000030 800a3ee0 0 draw__16dEnJrClownBase_cFv
 800a3f10 0000017c 800a3f10 0 calcPropellerRot__16dEnJrClownBase_cFv
