@@ -782,6 +782,7 @@
 80021fc0 00000124 80021fc0 0 multi_eggitem_set__15daEnBlockMain_cFUl
 800220f0 00000078 800220f0 0 player_set__15daEnBlockMain_cFii
 800221e0 00000008 800221e0 0 isStar__10daPlBase_cCFv
+800221f0 00000060 800221f0 0 player_bigmario_check__15daEnBlockMain_cFSc
 80022400 00000030 80022400 0 playernumber_set__15daEnBlockMain_cFv
 80022430 000000d0 80022430 0 YoshiEggCreateCheck__15daEnBlockMain_cFi
 80022e30 000000a0 80022e30 0 block_scale_set__15daEnBlockMain_cFUc
@@ -2264,6 +2265,9 @@
 80055700 000000d0 80055700 0 setBgDamage__10daPlBase_cFv
 800557d0 000000e4 800557d0 0 checkSinkSand__10daPlBase_cFv
 800558c0 00000024 800558c0 0 checkBGCrossWall__10daPlBase_cFUc
+800559e0 000000fc 800559e0 0 revSideLimitCommon__10daPlBase_cFf
+80055ae0 00000070 80055ae0 0 calcSideLimitMultL__10daPlBase_cFf
+80055b50 00000070 80055b50 0 calcSideLimitMultR__10daPlBase_cFf
 80055e90 00000128 80055e90 0 underOverCheck__10daPlBase_cFv
 80055fc0 00000004 80055fc0 0 setFallDownDemo__10daPlBase_cFv
 80055fd0 00000100 80055fd0 0 checkDispOver__10daPlBase_cFv
