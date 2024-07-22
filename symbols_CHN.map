@@ -2270,6 +2270,7 @@
 800559e0 000000fc 800559e0 0 revSideLimitCommon__10daPlBase_cFf
 80055ae0 00000070 80055ae0 0 calcSideLimitMultL__10daPlBase_cFf
 80055b50 00000070 80055b50 0 calcSideLimitMultR__10daPlBase_cFf
+80055bc0 00000214 80055bc0 0 checkDispSideLemit__10daPlBase_cFv
 80055e90 00000128 80055e90 0 underOverCheck__10daPlBase_cFv
 80055fc0 00000004 80055fc0 0 setFallDownDemo__10daPlBase_cFv
 80055fd0 00000100 80055fd0 0 checkDispOver__10daPlBase_cFv
