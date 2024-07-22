@@ -1911,6 +1911,7 @@
 80047800 00000004 80047800 0 initializeState_Walk__10daPlBase_cFv
 80047810 00000008 80047810 0 finalizeState_Walk__10daPlBase_cFv
 80047820 00000044 80047820 0 executeState_Walk__10daPlBase_cFv
+80047870 00000118 80047870 0 calcSpeedOnIceLift__10daPlBase_cFv
 80047990 0000007c 80047990 0 calcAccOnIceLift__10daPlBase_cFv
 80047a10 00000060 80047a10 0 initializeState_Jump__10daPlBase_cFv
 80047a70 000000bc 80047a70 0 finalizeState_Jump__10daPlBase_cFv
