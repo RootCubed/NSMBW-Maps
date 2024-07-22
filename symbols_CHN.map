@@ -4577,6 +4577,7 @@
 800bd9d0 00000004 800bd9d0 0 updateBonusCap__12dPyMdlBase_cFv
 800bd9e0 00000010 800bd9e0 0 offStarEffect__12dPyMdlBase_cFv
 800bd9f0 00000010 800bd9f0 0 onStarEffect__12dPyMdlBase_cFv
+800bda10 0000001c 800bda10 0 getLegLengthP__12dPlayerMdl_cFUc
 800bda30 00000008 800bda30 0 setPropelScale__12dPlayerMdl_cFf
 800bda40 00000008 800bda40 0 getPropelRollAngle__12dPlayerMdl_cCFv
 800bda50 00000008 800bda50 0 setPropelRollAngle__12dPlayerMdl_cFs
@@ -5103,6 +5104,7 @@
 800d6ca0 00000078 800d6ca0 0 setLinkAnm__12dPyMdlBase_cFifff
 800d6d20 0000007c 800d6d20 0 calcStoopOffset__12dPyMdlBase_cFv
 800d6da0 00000150 800d6da0 0 isFootStepTiming__12dPyMdlBase_cFv
+800d6ef0 00000008 800d6ef0 0 getLegLengthP__12dPyMdlBase_cFUc
 800d6f00 00000004 800d6f00 0 setPropelScale__12dPyMdlBase_cFf
 800d6f10 00000008 800d6f10 0 getPropelRollAngle__12dPyMdlBase_cCFv
 800d6f20 00000004 800d6f20 0 setPropelRollAngle__12dPyMdlBase_cFs
