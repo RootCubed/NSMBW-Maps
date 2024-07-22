@@ -1267,6 +1267,8 @@
 800319b0 00000004 800319b0 0 reactYoshiFumiProc__16daEnKuriboBase_cFP8dActor_c
 800319c0 00000040 800319c0 0 reactFumiProc__16daEnKuriboBase_cFP8dActor_c
 80031a00 00000004 80031a00 0 reactMameFumiProc__16daEnKuriboBase_cFP8dActor_c
+80031a10 00000090 80031a10 0 checkRyusa__16daEnKuriboBase_cFv
+80031aa0 00000078 80031aa0 0 ryusaEffect__16daEnKuriboBase_cFv
 80031b20 0000007c 80031b20 0 setDamage__16daEnKuriboBase_cFP8dActor_c
 80031ba0 0000003c 80031ba0 0 setLayerPos__16daEnKuriboBase_cFv
 80031be0 00000150 80031be0 0 setDeathInfo_Hasami__16daEnKuriboBase_cFv
@@ -1615,6 +1617,8 @@
 8003e330 0000002c 8003e330 0 setAfterSleepState__16daEnTogezoBase_cFv
 8003e360 00000044 8003e360 0 specialFumiProc__16daEnTogezoBase_cFP8dActor_c
 8003e3b0 00000010 8003e3b0 0 specialFumiProc_Yoshi__16daEnTogezoBase_cFP8dActor_c
+8003e3c0 00000090 8003e3c0 0 checkRyusa__16daEnTogezoBase_cFv
+8003e450 00000078 8003e450 0 ryusaEffect__16daEnTogezoBase_cFv
 8003e4d0 000000c8 8003e4d0 0 setPlayerDamage__16daEnTogezoBase_cFP8dActor_c
 8003e5a0 00000088 8003e5a0 0 turnProc__16daEnTogezoBase_cFv
 8003e630 00000120 8003e630 0 setEatSpitOut__16daEnTogezoBase_cFP8dActor_c
