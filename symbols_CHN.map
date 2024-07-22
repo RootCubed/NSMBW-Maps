@@ -922,6 +922,9 @@
 80026bc0 00000030 80026bc0 0 executeState__29sFStateID_c<14daEnBrosBase_c>CFR14daEnBrosBase_c
 80026bf0 00000030 80026bf0 0 finalizeState__29sFStateID_c<14daEnBrosBase_c>CFR14daEnBrosBase_c
 80026c20 0000000c 80026c20 0 baseID_Carry<10sStateID_c>__Fv_RC12sStateIDIf_c
+80026c30 00000040 80026c30 0 acmIsCarryEnemy__11daEnCarry_cFP8dActor_c
+80026c70 00000098 80026c70 0 acmShellPlayerNo__11daEnCarry_cCFP8dActor_c
+80026d10 000000e4 80026d10 0 shellDamageEffect__11daEnCarry_cFP5dCc_cP8dActor_c
 80026e00 00000004 80026e00 0 initializeState_Carry__11daEnCarry_cFv
 80026e10 00000004 80026e10 0 finalizeState_Carry__11daEnCarry_cFv
 80026e20 00000004 80026e20 0 executeState_Carry__11daEnCarry_cFv
