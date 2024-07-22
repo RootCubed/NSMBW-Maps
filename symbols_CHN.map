@@ -2266,6 +2266,7 @@
 800545c0 00000004 800545c0 0 checkBgCrossSub__10daPlBase_cFv
 800545d0 000009ec 800545d0 0 checkBgCross__10daPlBase_cFv
 80054fc0 00000008 80054fc0 0 getWallBgPointData__10daPlBase_cFv
+80054fd0 0000008c 80054fd0 0 isCarryObjBgCarried__10daPlBase_cFUc
 80055060 00000334 80055060 0 postBgCross__10daPlBase_cFv
 800553a0 00000008 800553a0 0 getSandSinkRate__10daPlBase_cFv
 800553b0 00000054 800553b0 0 getWaterCheckPosY__10daPlBase_cFv
