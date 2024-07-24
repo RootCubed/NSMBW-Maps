@@ -1366,6 +1366,7 @@
 80034c80 00000058 80034c80 0 executeState_DieFall__17daEnLkuriboBase_cFv
 80034ce0 00000034 80034ce0 0 finalUpdate__17daEnLkuriboBase_cFv
 80034d20 00000004 80034d20 0 setTurnByEnemyHit__17daEnLkuriboBase_cFv
+80034d30 0000006c 80034d30 0 fumidamageSE__17daEnLkuriboBase_cFRC7mVec3_ci
 80034da0 00000010 80034da0 0 hitCallback_YoshiHipAttk__17daEnLkuriboBase_cFP5dCc_cP5dCc_c
 80034db0 000000c8 80034db0 0 __dt__17daEnLkuriboBase_cFv
 80034e80 00000510 80034e80 0 __sinit_\d_a_en_lkuribo_base_cpp
