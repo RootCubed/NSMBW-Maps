@@ -15822,6 +15822,9 @@
 80320a08 00000070 80320a08 0 __vt__14dWmDemoActor_c
 80320a78 0000000c 80320a78 0 __vt__11dWmEnPath_c
 80320a88 00000024 80320a88 0 sc_ForceList__6dWmLib
+80320aac 00000024 80320aac 0 smc_PathPointA__10dWmEnemy_c
+80320ad0 00000024 80320ad0 0 smc_PathPointB__10dWmEnemy_c
+80320af4 00000024 80320af4 0 smc_PathPointC__10dWmEnemy_c
 80320b18 000000f8 80320b18 0 __vt__10dWmEnemy_c
 80320c40 0000000c 80320c40 0 sc_KinokoTypeName__6dWmLib
 80320c4c 00000024 80320c4c 0 sc_ForceList__6dWmLib
@@ -16944,6 +16947,7 @@
 8037aa00 00000030 8037aa00 0 StateID_Melt__12daEnemyIce_c
 8037aa40 00000030 8037aa40 0 StateID_Break__12daEnemyIce_c
 8037aa80 00000100 8037aa80 0 m_HIO__9daFarBG_c
+8037ab80 00000010 8037ab80 0 sm_FireBallCnt__19daFireBall_Player_c
 8037abac 00000034 8037abac 0 StateID_Move__19daFireBall_Player_c
 8037ac38 00000030 8037ac38 0 StateID_Freeze__7daIce_c
 8037ac78 00000030 8037ac78 0 StateID_Cover__7daIce_c
@@ -16964,6 +16968,7 @@
 8037b038 00000030 8037b038 0 StateID_Throw__7daIce_c
 8037b078 00000030 8037b078 0 StateID_Drop__7daIce_c
 8037b0b8 00000030 8037b0b8 0 StateID_Melt_Normal__7daIce_c
+8037b0e8 00000010 8037b0e8 0 sm_IceBallCount__11daIceBall_c
 8037b118 00000030 8037b118 0 StateID_FireMove__11daIceBall_c
 8037b158 00000030 8037b158 0 StateID_Move__11daIceBall_c
 8037b198 00000030 8037b198 0 StateID_EatIn__11daIceBall_c
