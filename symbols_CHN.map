@@ -17830,6 +17830,7 @@
 8042f4a0 00000004 8042f4a0 0 m_instance__12dWipeKuppa_c
 8042f4a8 00000004 8042f4a8 0 m_instance__12dWipeMario_c
 8042f4f4 00000004 8042f4f4 0 mspInstance__13daPyDemoMng_c
+8042f4f8 00000004 8042f4f8 0 ms_num_of_instance__17dAcPy_HIO_Speed_c
 8042f500 00000004 8042f500 0 mNum__9daPyMng_c
 8042f504 00000004 8042f504 0 mCtrlPlrNo__9daPyMng_c
 8042f508 00000001 8042f508 0 mActPlayerInfo__9daPyMng_c
