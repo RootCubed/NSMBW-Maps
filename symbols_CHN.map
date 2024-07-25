@@ -2993,6 +2993,7 @@
 80070e10 00000198 80070e10 0 checkRidePlayer__5dBc_cFP8dActor_cUl
 80070fb0 00000080 80070fb0 0 checkBgPlrUD__5dBc_cFP8dActor_c
 80071030 00000168 80071030 0 checkBgPlrLR__5dBc_cFP8dActor_c
+800711a0 000001ac 800711a0 0 checkBgMameBlockPlr__5dBc_cFUc
 80071350 00000198 80071350 0 checkBgPlr__5dBc_cFP8dActor_c
 800714f0 00000118 800714f0 0 checkRideAgain__5dBc_cFP8dActor_cUl
 80071610 000002cc 80071610 0 checkDokanDown__5dBc_cFP7mVec3_cPi
@@ -3084,6 +3085,7 @@
 8007a800 000004b0 8007a800 0 calcScroll__5dBg_cFRC7mVec3_ci
 8007acb0 000000c4 8007acb0 0 calcMultiScroll__5dBg_cFi
 8007c030 000008e0 8007c030 0 initScroll__5dBg_cFv
+8007e220 00000088 8007e220 0 getAreaUpLimitScroll__5dBg_cFv
 8007e2b0 0000000c 8007e2b0 0 __sinit_\d_bg_cpp
 8007e2c0 00000050 8007e2c0 0 __ct__17dBgActorManager_cFv
 8007e310 000000ec 8007e310 0 __dt__17dBgActorManager_cFv
