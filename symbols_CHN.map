@@ -15136,6 +15136,7 @@
 802f76e8 00000010 802f76e8 0 smc_speed_data__21dPosGoAndComeExeFrm_c
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
 802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
+802f7ee0 0000001c 802f7ee0 0 sc_KinokoHouseCourseNo__6dWmLib
 802f7f18 00000100 802f7f18 0 smc_demo_default_clr__11dCsSeqMng_c
 802f8018 00000068 802f8018 0 smc_demo_default_fail__11dCsSeqMng_c
 802f8080 00000098 802f8080 0 smc_demo_enemy_clr__11dCsSeqMng_c
@@ -16919,6 +16920,7 @@
 80379810 00000010 80379810 0 m_replayPlay_p__10dScStage_c
 80379830 00000690 80379830 0 m_CourseType__9dScWMap_c
 80379ec0 00000028 80379ec0 0 m_CourseNumInWorld__9dScWMap_c
+80379ee8 00000028 80379ee8 0 m_SceneNumInWorld__9dScWMap_c
 8037a2d0 00000030 8037a2d0 0 StateID_StartWait__14dGoalManager_c
 8037a310 00000030 8037a310 0 StateID_KiMePose__14dGoalManager_c
 8037a350 00000030 8037a350 0 StateID_KiMePoseStartWait__14dGoalManager_c
@@ -17654,6 +17656,7 @@
 8042eca8 00000004 8042eca8 0 m_rootUniqueID__7fBase_c
 8042ecb0 00000004 8042ecb0 0 m_nowLoopProc__10fManager_c
 8042ecc0 00000001 8042ecc0 0 l_DefaultDirection__4mDvd
+8042ecc4 00000004 8042ecc4 0 l_StreamReadBufferSize__4mDvd
 8042ece8 00000001 8042ece8 0 g_DefaultGameHeapId__5mHeap
 8042ecf8 00000004 8042ecf8 0 __AIVersion
 8042ed08 00000004 8042ed08 0 __AXVersion
@@ -18028,6 +18031,7 @@
 8042fa9e 00000001 8042fa9e 0 m_isReplayGoal__10dScStage_c
 8042fa9f 00000001 8042fa9f 0 m_KoopaJrEscape__10dScStage_c
 8042faa0 00000004 8042faa0 0 changePos__10dScStage_c
+8042faa4 00000004 8042faa4 0 m_pReplayDataHeap__10dScStage_c
 8042faac 00000004 8042faac 0 m_instance__9dScWMap_c
 8042fab0 00000008 8042fab0 0 m_camera__9dScWMap_c
 8042fab8 00000006 8042fab8 0 mWmArcName__9dScWMap_c
@@ -18036,6 +18040,7 @@
 8042fac6 00000001 8042fac6 0 m_SceneNo__9dScWMap_c
 8042fac7 00000001 8042fac7 0 m_IsCourseInfoInitialized__9dScWMap_c
 8042fac8 00000004 8042fac8 0 m_PrevCollectionCoinNum__9dScWMap_c
+8042facc 00000004 8042facc 0 ms_IsPreExecuteFinished__9dScWMap_c
 8042fad0 00000001 8042fad0 0 m_GameOver__9dScWMap_c
 8042fad1 00000001 8042fad1 0 m_KinokoHouseUsed__9dScWMap_c
 8042fad2 00000001 8042fad2 0 m_KinokoMessaged__9dScWMap_c
@@ -18078,6 +18083,7 @@
 8042fbfc 00000004 8042fbfc 0 sDvdFile__20DynamicModuleControl
 8042fc00 00000004 8042fc00 0 sDvdCommand
 8042fc04 00000004 8042fc04 0 sDylinkHeap__20DynamicModuleControl
+8042fc0c 00000004 8042fc0c 0 sHeapMinTotalFreeSize__20DynamicModuleControl
 8042fc10 00000004 8042fc10 0 s_rnd
 8042fc14 00000004 8042fc14 0 s_rnd2
 8042fc18 00000002 8042fc18 0 m_tmpCtProfName__7fBase_c
@@ -18099,6 +18105,8 @@
 8042fc78 00000006 8042fc78 0 Ex__7mAng3_c
 8042fc80 00000006 8042fc80 0 Ey__7mAng3_c
 8042fc88 00000006 8042fc88 0 Ez__7mAng3_c
+8042fc90 00000004 8042fc90 0 s_UncompressInfoTable_begin__4mDvd
+8042fc94 00000004 8042fc94 0 s_UncompressInfoTable_end__4mDvd
 8042fc98 00000004 8042fc98 0 l_OSThread__4mDvd
 8042fc9c 00000004 8042fc9c 0 l_MyThread__4mDvd
 8042fca0 00000004 8042fca0 0 l_CommandHeap__4mDvd
@@ -18769,6 +18777,10 @@
 804310e4 00000004 804310e4 0 sc_MaxFallSpeed__10daPlBase_c
 804310e8 00000004 804310e8 0 sc_MaxFallSpeed_Foot__10daPlBase_c
 804310ec 00000004 804310ec 0 sc_MaxFallDownSpeed__10daPlBase_c
+804310f0 00000004 804310f0 0 scTurnPowerUpRate__10daPlBase_c
+804311c0 00000004 804311c0 0 scDokanInSpeedX__10daPlBase_c
+804311c4 00000004 804311c4 0 scDokanInWidthX__10daPlBase_c
+804311c8 00000004 804311c8 0 scDokanInMoveSpeed__10daPlBase_c
 804318c8 00000008 804318c8 0 DynamicNameTable
 80431a24 00000004 80431a24 0 l_base_angleY
 80432360 00000004 80432360 0 smc_move_type__21dPosGoAndComeExeFrm_c
