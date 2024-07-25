@@ -1274,6 +1274,7 @@
 80031be0 00000150 80031be0 0 setDeathInfo_Hasami__16daEnKuriboBase_cFv
 80031d30 00000130 80031d30 0 setCcLine__16daEnKuriboBase_cFv
 80031e60 000000c4 80031e60 0 setWalkAnm__16daEnKuriboBase_cFv
+80031f30 000000cc 80031f30 0 setTurnByPlayerHit__16daEnKuriboBase_cFP8dActor_c
 80032000 00000004 80032000 0 setWalkSpeed__16daEnKuriboBase_cFv
 80032010 000000e0 80032010 0 landonEffect__16daEnKuriboBase_cFv
 80032130 000000a0 80032130 0 initializeState_Walk__16daEnKuriboBase_cFv
@@ -1338,6 +1339,7 @@
 80034190 00000014 80034190 0 nonBoyoProc__17daEnLkuriboBase_cFv
 800341b0 00000114 800341b0 0 fireBoyoProc__17daEnLkuriboBase_cFv
 800342d0 00000084 800342d0 0 setAnm__17daEnLkuriboBase_cFPcQ23m3d10playMode_ef
+800343f0 000000cc 800343f0 0 setTurnByPlayerHit__17daEnLkuriboBase_cFP8dActor_c
 800344c0 00000004 800344c0 0 setWalkSpeed__17daEnLkuriboBase_cFv
 800344d0 00000058 800344d0 0 FumiJumpSet__17daEnLkuriboBase_cFP8dActor_c
 80034530 0000005c 80034530 0 pressAttach__17daEnLkuriboBase_cFv
