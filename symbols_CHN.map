@@ -2426,6 +2426,9 @@
 8005d7b0 00000094 8005d7b0 0 setEnemyStageClearDemo__13daPyDemoMng_cFi
 8005d850 00000070 8005d850 0 __sinit_\d_a_player_demo_manager_cpp
 8005d8c0 0000001c 8005d8c0 0 __arraydtor$72504
+8005d8e0 00000048 8005d8e0 0 __ct__17dAcPy_HIO_Speed_cFv
+8005d930 0000004c 8005d930 0 __dt__17dAcPy_HIO_Speed_cFv
+8005d980 00000274 8005d980 0 init__17dAcPy_HIO_Speed_cFi
 8005dc00 000000dc 8005dc00 0 __ct__16dPyMdlBase_HIO_cFv
 8005dce0 00000040 8005dce0 0 __dt__16dPyMdlBase_HIO_cFv
 8005dd20 00000014 8005dd20 0 changeHioType__16dPyMdlBase_HIO_cFUc
