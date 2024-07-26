@@ -2524,6 +2524,7 @@
 800600f0 00000058 800600f0 0 getEntryNum__9daPyMng_cFv
 80060150 00000074 80060150 0 getItemKinopioNum__9daPyMng_cFv
 800601d0 00000074 800601d0 0 getItemKinopio__9daPyMng_cFv
+800602b0 00000064 800602b0 0 changeItemKinopioPlrNo__9daPyMng_cFRi
 80060320 00000014 80060320 0 getCourseInListPlrNo__9daPyMng_cFi
 80060340 00000050 80060340 0 getCoinAll__9daPyMng_cFv
 80060390 00000208 80060390 0 incCoin__9daPyMng_cFi
@@ -3160,6 +3161,8 @@
 80082080 00000110 80082080 0 OnlyOneSetUp__14dBgParameter_cFv
 80082190 0000007c 80082190 0 OnlyOneDestroy__14dBgParameter_cFv
 800822a0 00000018 800822a0 0 clrSwData__14dBgParameter_cFv
+800822c0 00000054 800822c0 0 setNowScrollDir_X__14dBgParameter_cFv
+80082320 00000054 80082320 0 setNowScrollDir_Y__14dBgParameter_cFv
 80082450 00000058 80082450 0 __ct__7bgTex_cFv
 800824b0 00000098 800824b0 0 __dt__7bgTex_cFv
 80082550 00000150 80082550 0 create__7bgTex_cFUsUsUsUsiiPQ23EGG4HeapUs
@@ -5640,11 +5643,14 @@
 800f0570 0000003c 800f0570 0 GetTranslateV__13dWmMapModel_cFPCc
 800f05b0 000000c4 800f05b0 0 __GetTranslateV__13dWmMapModel_cFPCc
 800f0680 000000dc 800f0680 0 SetTranslateV__13dWmMapModel_cFPCcf
+800f0760 00000080 800f0760 0 PlayMaskAnime__13dWmMapModel_cFPCcf
 800f08c0 00000034 800f08c0 0 IsMaskAnimeFinish__13dWmMapModel_cFPCc
+800f0900 00000104 800f0900 0 calcMaskRouteAnim__13dWmMapModel_cFPCcf
 800f0a10 000000b8 800f0a10 0 SetRouteClrAnim__13dWmMapModel_cFPCci
 800f0ad0 000000b8 800f0ad0 0 SetRouteTexSrtAnim__13dWmMapModel_cFPCci
 800f0b90 000000d0 800f0b90 0 SetRouteChrAnim__13dWmMapModel_cFPCci
 800f0c60 00000070 800f0c60 0 getChrAnmIndex__13dWmMapModel_cFPCc
+800f0cd0 000000a4 800f0cd0 0 SetRouteMaskAnim__13dWmMapModel_cFPCcf
 800f0e80 000000c8 800f0e80 0 isStop_ChrAnm__13dWmMapModel_cFv
 800f0f50 00000060 800f0f50 0 isStop_ChrAnm__13dWmMapModel_cFPCc
 800f0fb0 00000178 800f0fb0 0 playCharaAnimSe__13dWmMapModel_cFPCc
