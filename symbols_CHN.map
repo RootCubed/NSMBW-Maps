@@ -783,6 +783,7 @@
 800220f0 00000078 800220f0 0 player_set__15daEnBlockMain_cFii
 800221e0 00000008 800221e0 0 isStar__10daPlBase_cCFv
 800221f0 00000060 800221f0 0 player_bigmario_check__15daEnBlockMain_cFSc
+800223e0 00000018 800223e0 0 propeller_kinoko_check__15daEnBlockMain_cFiSc
 80022400 00000030 80022400 0 playernumber_set__15daEnBlockMain_cFv
 80022430 000000d0 80022430 0 YoshiEggCreateCheck__15daEnBlockMain_cFi
 80022e30 000000a0 80022e30 0 block_scale_set__15daEnBlockMain_cFUc
@@ -5764,6 +5765,7 @@
 800f6ae0 0000007c 800f6ae0 0 procJumpBase__14dWmDemoActor_cFv
 800f6b60 000000a8 800f6b60 0 setDirection__14dWmDemoActor_cFRC7mVec3_c
 800f6c50 000000b8 800f6c50 0 checkArriveTargetXYZ__14dWmDemoActor_cFRC7mVec3_cRC7mVec3_c
+800f6d10 00000148 800f6d10 0 checkArriveTargetXZ__14dWmDemoActor_cFRC7mVec3_cRC7mVec3_c
 800f6f60 000000fc 800f6f60 0 CalcShadow__14dWmDemoActor_cFffff
 800f7060 0000000c 800f7060 0 CalcShadow__14dWmDemoActor_cFff
 800f7070 00000020 800f7070 0 DrawShadow__14dWmDemoActor_cFb
@@ -5849,6 +5851,7 @@
 800f97e0 000000b8 800f97e0 0 isAllEnemyMoveEnd__10dWmEnemy_cFv
 800f98a0 00000018 800f98a0 0 isWaitWalkEnd__10dWmEnemy_cFv
 800f98c0 00000008 800f98c0 0 GetMoveRate__10dWmEnemy_cFv
+800f98d0 00000020 800f98d0 0 calcBlowOffPos__10dWmEnemy_cFf
 800f98f0 00000008 800f98f0 0 GetNextIndex__10dWmEnemy_cFv
 800f9900 00000008 800f9900 0 GetActorType__10dWmEnemy_cFv
 800f9910 00000008 800f9910 0 doDelete__10dWmEnemy_cFv
@@ -5960,6 +5963,8 @@
 800fe240 00000068 800fe240 0 __ct__9dWmPath_cFv
 800fe2b0 00000068 800fe2b0 0 __dt__9dWmPath_cFv
 800fe320 000000f4 800fe320 0 checkArriveSimple__15dWmPlayerBase_cFRC7mVec3_ci
+800fe450 00000004 800fe450 0 checkWalkArriveTarget__15dWmPlayerBase_cFRC7mVec3_cRC7mVec3_c
+800fe460 00000004 800fe460 0 checkJumpArriveTarget__15dWmPlayerBase_cFRC7mVec3_cRC7mVec3_c
 800fe470 00000068 800fe470 0 deleteEffect__15dWmPlayerBase_cFv
 800fe4e0 00000044 800fe4e0 0 deleteSound__15dWmPlayerBase_cFv
 800fe550 000001ac 800fe550 0 procDemoLose__15dWmPlayerBase_cFv
@@ -6074,6 +6079,7 @@
 80102ca0 00000034 80102ca0 0 ReplayEnd__10dScStage_cFv
 80103040 00000020 80103040 0 calcTitleSwitchCount__10dScStage_cFv
 80103060 00000020 80103060 0 calcTitleCount__10dScStage_cFv
+80103080 00000010 80103080 0 setTitleReplayRandomTable__10dScStage_cFv
 80103090 00000070 80103090 0 __sinit_\d_s_stage_static_cpp
 80103100 0000001c 80103100 0 __arraydtor$78728
 80103120 00000010 80103120 0 setCamera__9dScWMap_cFiP10dWCamera_c
@@ -7127,6 +7133,7 @@
 8013a920 0000007c 8013a920 0 finalizeState_IceDamage__7dAcPy_cFv
 8013a9a0 00000078 8013a9a0 0 executeState_IceDamage__7dAcPy_cFv
 8013aa20 0000010c 8013aa20 0 setRideOffPlayerJump__7dAcPy_cFff
+8013ab30 00000174 8013ab30 0 setRideOffYoshiJump__7dAcPy_cFP10daPlBase_c
 8013acb0 00000048 8013acb0 0 getRideYoshi__7dAcPy_cFv
 8013ad00 00000064 8013ad00 0 setRideOnYoshi__7dAcPy_cFP9daYoshi_c
 8013ad70 0000007c 8013ad70 0 initializeState_RideYoshi__7dAcPy_cFv
@@ -7535,6 +7542,7 @@
 80151a60 00000058 80151a60 0 setEatTongueOffCall__9daYoshi_cFP8dActor_c
 80151ac0 00000058 80151ac0 0 setEatMouthCall__9daYoshi_cFP8dActor_c
 80151b20 0000006c 80151b20 0 setEatSpitOutCall__9daYoshi_cFP8dActor_c
+80151b90 0000006c 80151b90 0 setEatGlupDownCall__9daYoshi_cFP8dActor_c
 80151c00 00000204 80151c00 0 executeMain__9daYoshi_cFv
 80151e10 000000c4 80151e10 0 selectAction__9daYoshi_cFv
 80151ee0 0000014c 80151ee0 0 executeLastPlayer__9daYoshi_cFv
@@ -8354,6 +8362,7 @@
 8016db60 00000058 8016db60 0 __dt__15mDvd_callback_cFv
 8016dbc0 00000064 8016dbc0 0 __ct__15mDvd_callback_cFPFPv_PvPv
 8016dc30 00000078 8016dc30 0 create__15mDvd_callback_cFPFPv_PvPv
+8016dcb0 00000004 8016dcb0 0 createOrDie__15mDvd_callback_cFPFPv_PvPv
 8016dcc0 00000054 8016dcc0 0 execute__15mDvd_callback_cFv
 8016dd20 00000058 8016dd20 0 __dt__22mDvd_mountMemArchive_cFv
 8016dd80 00000074 8016dd80 0 __ct__22mDvd_mountMemArchive_cFUc
@@ -8465,6 +8474,7 @@
 80171580 000001e4 80171580 0 beginPad__4mPadFv
 80171770 00000014 80171770 0 endPad__4mPadFv
 80171790 00000024 80171790 0 setCurrentChannel__4mPadFQ24mPad4CH_e
+801717c0 00000030 801717c0 0 getBatteryLevel_ch__4mPadFQ24mPad4CH_e
 80171860 00000044 80171860 0 clearWPADInfo__4mPadFQ24mPad4CH_e
 801718b0 0000003c 801718b0 0 initWPADInfo__4mPadFv
 801718f0 0000003c 801718f0 0 getWPADInfoCb
