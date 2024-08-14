@@ -2306,6 +2306,7 @@
 80056e30 000000d8 80056e30 0 calcTimerProc__10daPlBase_cFv
 80056f10 0000000c 80056f10 0 getModel__10daPlBase_cFv
 80056f20 00000378 80056f20 0 calcPlayerSpeedXY__10daPlBase_cFv
+800572a0 00000228 800572a0 0 posMoveAnglePenguin__10daPlBase_cF7mVec3_cUs
 800574d0 00000258 800574d0 0 posMoveAnglePlayer__10daPlBase_cF7mVec3_c
 80057730 0000004c 80057730 0 getSpeedData__10daPlBase_cFv
 80057780 000000b4 80057780 0 setZPosition__10daPlBase_cFv
