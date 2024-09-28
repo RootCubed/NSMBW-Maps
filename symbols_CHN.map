@@ -6090,6 +6090,7 @@
 80102bc0 00000064 80102bc0 0 play__10dScStage_cFv
 80102c30 00000018 80102c30 0 isNowReplay__10dScStage_cFv
 80102ca0 00000034 80102ca0 0 ReplayEnd__10dScStage_cFv
+80102f60 000000d8 80102f60 0 createReplayPath__10dScStage_cFPcPCciii
 80103040 00000020 80103040 0 calcTitleSwitchCount__10dScStage_cFv
 80103060 00000020 80103060 0 calcTitleCount__10dScStage_cFv
 80103080 00000010 80103080 0 setTitleReplayRandomTable__10dScStage_cFv
