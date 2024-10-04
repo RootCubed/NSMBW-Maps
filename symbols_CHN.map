@@ -16784,6 +16784,7 @@
 8035b30c 00000034 8035b30c 0 StateID_Move__15daRotObjsBase_c
 8035b350 00000030 8035b350 0 StateID_SearchID__17daSpinChildBase_c
 8035b390 00000030 8035b390 0 StateID_Move__17daSpinChildBase_c
+8035b3c0 00000024 8035b3c0 0 @LOCAL@slideComboSE__8dActor_cFib@cs_combo_se
 8035b3f4 00000034 8035b3f4 0 StateID_Gegneric__13dActorState_c
 8035b434 00000034 8035b434 0 StateID_GegnericMulti__18dActorMultiState_c
 8035b478 00000010 8035b478 0 g_pNonPosSndObjPly__6dAudio
@@ -17884,6 +17885,7 @@
 8042f55c 00000004 8042f55c 0 mSearchNearPlayerFunc__8dActor_c
 8042f560 00000004 8042f560 0 mGetTrgToSrcDirFunc__8dActor_c
 8042f570 00000001 8042f570 0 m_tmpCtLayerNo__8dActor_c
+8042f589 00000001 8042f589 0 @GUARD@slideComboSE__8dActor_cFib@cs_combo_se
 8042f590 00000004 8042f590 0 m_instance__18dActorGroupIdMng_c
 8042f598 00000008 8042f598 0 ms_linkManager__18dActorGroupIdMng_c
 8042f5a0 00000004 8042f5a0 0 m_instance__11dActorMng_c
