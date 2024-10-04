@@ -17884,6 +17884,7 @@
 8042f55b 00000001 8042f55b 0 mDrawStop__8dActor_c
 8042f55c 00000004 8042f55c 0 mSearchNearPlayerFunc__8dActor_c
 8042f560 00000004 8042f560 0 mGetTrgToSrcDirFunc__8dActor_c
+8042f568 00000008 8042f568 0 smc_FUKIDASHI_RANGE__8dActor_c
 8042f570 00000001 8042f570 0 m_tmpCtLayerNo__8dActor_c
 8042f589 00000001 8042f589 0 @GUARD@slideComboSE__8dActor_cFib@cs_combo_se
 8042f590 00000004 8042f590 0 m_instance__18dActorGroupIdMng_c
