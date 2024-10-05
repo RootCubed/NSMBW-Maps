@@ -18151,6 +18151,7 @@
 8042fca0 00000004 8042fca0 0 l_CommandHeap__4mDvd
 8042fca4 00000004 8042fca4 0 l_ArchiveHeap__4mDvd
 8042fca8 00000001 8042fca8 0 l_IsAutoStreamDecomp__4mDvd
+8042fca9 00000001 8042fca9 0 @GUARD@loadToMainRAM__4mDvdFlPUcPQ23EGG4HeapQ33EGG9DvdRipper15EAllocDirectionUlPUlPUlUl@dvdFile
 8042fcac 00000004 8042fcac 0 mInstance__12mDvd_param_c
 8042fcb0 00000004 8042fcb0 0 l_effectResource__3mEf
 8042fcb4 00000004 8042fcb4 0 l_callbackHeap__3mEf
