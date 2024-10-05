@@ -15158,6 +15158,8 @@
 802f3b58 00000030 802f3b58 0 scStoopOffset
 802f3b88 00000060 802f3b88 0 scYoshiOffset
 802f3be8 00000030 802f3be8 0 scCloudOffset
+802f3dc8 0000000c 802f3dc8 0 @LOCAL@setSearchNearPlayerFunc__8dActor_cFi@searchFunc
+802f3dd4 0000000c 802f3dd4 0 @LOCAL@setGetTrgToSrcDirFunc__8dActor_cFi@getdirFunc
 802f3e90 00000098 802f3e90 0 l_saka_data
 802f3f28 00000098 802f3f28 0 l_head_saka_data
 802f3fc0 00000013 802f3fc0 0 l_saka_type
