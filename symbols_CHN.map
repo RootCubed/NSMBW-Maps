@@ -17139,6 +17139,7 @@
 8037d388 0000000c 8037d388 0 s_UncompressInfoLRC__4mDvd
 8037d394 0000000c 8037d394 0 s_UncompressInfoRL__4mDvd
 8037d3a0 00000030 8037d3a0 0 l_param__4mDvd
+8037d3e0 000000d0 8037d3e0 0 @LOCAL@loadToMainRAM__4mDvdFlPUcPQ23EGG4HeapQ33EGG9DvdRipper15EAllocDirectionUlPUlPUlUl@dvdFile
 8037d4b0 0000000c 8037d4b0 0 l_levelList__3mEf
 8037d4bc 0000000c 8037d4bc 0 l_callbackList__3mEf
 8037d4c8 0000000c 8037d4c8 0 g_gameHeaps__5mHeap
