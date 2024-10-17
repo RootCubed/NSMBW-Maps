@@ -274,6 +274,7 @@
 80015280 0000019c 80015280 0 setPlayer1000Color__13dSmallScore_cFi
 80015420 00000130 80015420 0 setPlayer100Color__13dSmallScore_cFi
 80015550 0000009c 80015550 0 chgColor__13dSmallScore_cFv
+800155f0 00000130 800155f0 0 setNormalOrBlueColor__13dSmallScore_cFv
 80015720 000000c8 80015720 0 ScissorMaskSet__13dSmallScore_cFv
 800157f0 000000d8 800157f0 0 BigSmallAnime__13dSmallScore_cFv
 800158d0 000001e8 800158d0 0 MakeStart__13dSmallScore_cFv
@@ -17858,6 +17859,10 @@
 8042f450 00000008 8042f450 0 @LOCAL@drawScreen__3d3dFbbf@c_scale@0
 8042f45c 00000004 8042f45c 0 m_instance__20dCourseSelectGuide_c
 8042f468 00000004 8042f468 0 m_instance__13dSmallScore_c
+8042f46f 00000001 8042f46f 0 @GUARD@setNormalOrBlueColor__13dSmallScore_cFv@UP_COLOR_DATA_TBL
+8042f470 00000008 8042f470 0 @LOCAL@setNormalOrBlueColor__13dSmallScore_cFv@UP_COLOR_DATA_TBL
+8042f478 00000001 8042f478 0 @GUARD@setNormalOrBlueColor__13dSmallScore_cFv@DOWN_COLOR_DATA_TBL@0
+8042f480 00000008 8042f480 0 @LOCAL@setNormalOrBlueColor__13dSmallScore_cFv@DOWN_COLOR_DATA_TBL@0
 8042f490 00000004 8042f490 0 m_instance__13dWipeCircle_c
 8042f498 00000004 8042f498 0 m_instance__12dWipeDokan_c
 8042f4a0 00000004 8042f4a0 0 m_instance__12dWipeKuppa_c
