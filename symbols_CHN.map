@@ -15430,6 +15430,8 @@
 803031dc 0000005c 803031dc 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@GROUP_NAME_DT@0
 803032f4 0000002c 803032f4 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@NPANE_NAME_DT@2
 803033b8 00000024 803033b8 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@T_PANE_NAME_TBL@3
+8030340c 0000000c 8030340c 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@T_PANE_FIXED_NAME_TBL@4
+803034c0 00000030 803034c0 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@P_PANE_NAME_TBL@6
 80303568 0000000c 80303568 0 __vt__20dCourseSelectGuide_c
 80303578 00000030 80303578 0 __vt__59sFStateMgr_c<20dCourseSelectGuide_c,20sStateMethodUsr_FI_c>
 803035a8 00000030 803035a8 0 __vt__89sStateMgr_c<20dCourseSelectGuide_c,20sStateMethodUsr_FI_c,12sFStateFct_c,13sStateIDChk_c>
