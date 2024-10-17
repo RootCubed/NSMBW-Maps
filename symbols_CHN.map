@@ -4633,6 +4633,8 @@
 800c1810 00000018 800c1810 0 SetBaseSpeed__10dLineMng_cFf
 800c1830 00000024 800c1830 0 acm_angle__10dLineMng_cCFv
 800c1880 00000178 800c1880 0 start_line_move__10dLineMng_cFv
+800c1a00 00000038 800c1a00 0 is_unit_circle2x2__10dLineMng_cFUl
+800c1a40 00000038 800c1a40 0 is_unit_circle4x4__10dLineMng_cFUl
 800c1a80 0000001c 800c1a80 0 change_dir__10dLineMng_cFv
 800c1aa0 00000068 800c1aa0 0 getLineUnitNo__10dLineMng_cFff
 800c1bb0 00000124 800c1bb0 0 check_term__10dLineMng_cFv
