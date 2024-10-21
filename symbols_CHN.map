@@ -5498,6 +5498,7 @@
 800e4230 0000037c 800e4230 0 init2__16dSwitchFlagMng_cFUc
 800e45b0 000000ec 800e45b0 0 clearTime__16dSwitchFlagMng_cFv
 800e46a0 000001ac 800e46a0 0 execute__16dSwitchFlagMng_cFv
+800e4b00 000000d4 800e4b00 0 switchBittoNo__16dSwitchFlagMng_cFUx
 800e4cf0 00000018 800e4cf0 0 beginRender__6dSys_cFv
 800e4d10 00000054 800e4d10 0 endRender__6dSys_cFv
 800e4d70 000000f8 800e4d70 0 beginFrame__6dSys_cFv
