@@ -18020,6 +18020,11 @@
 8042f6e0 00000006 8042f6e0 0 m_shapeAngle__7dCoin_c
 8042f6e8 00000006 8042f6e8 0 m_h_shapeAngle__7dCoin_c
 8042f6ee 00000001 8042f6ee 0 m_frame__7dCoin_c
+8042f6ef 00000001 8042f6ef 0 m_ptn_no__7dCoin_c
+8042f6f0 00000001 8042f6f0 0 m_h_ptn_no__7dCoin_c
+8042f6f1 00000001 8042f6f1 0 m_h_ptn_time__7dCoin_c
+8042f6f2 00000001 8042f6f2 0 m_b_ptn_no__7dCoin_c
+8042f6f3 00000001 8042f6f3 0 m_b_ptn_time__7dCoin_c
 8042f6f8 00000004 8042f6f8 0 m_instance__5dCd_c
 8042f700 00000004 8042f700 0 m_instance__13dCurtainMng_c
 8042f708 00000004 8042f708 0 m_DoneCallback__Q24dDvd8loader_c
