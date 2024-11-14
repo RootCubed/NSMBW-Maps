@@ -6060,6 +6060,7 @@
 80100f90 00000014 80100f90 0 GetNodePos__9daWmMap_cFlR7mVec3_c
 80100fb0 00000014 80100fb0 0 GetNodePos__9daWmMap_cFPCcR7mVec3_c
 80100fd0 00000014 80100fd0 0 CheckNode__9daWmMap_cFPCc
+80101100 000000a8 80101100 0 __sinit_\d_a_wm_Map_static_cpp
 801011b0 0000001c 801011b0 0 __arraydtor$57873
 801011d0 0000003c 801011d0 0 checkWalkPlayers__12daWmPlayer_cFv
 80101210 00000030 80101210 0 getSubPlayerNum__12daWmPlayer_cFv
@@ -6074,10 +6075,12 @@
 80101ab0 00000044 80101ab0 0 endStarSound__12daWmPlayer_cFv
 80101bc0 000000b4 80101bc0 0 attackMapEnemy__12daWmPlayer_cFb
 80101c80 00000138 80101c80 0 isWalkToAttackPoint__12daWmPlayer_cFv
+80101dc0 00000150 80101dc0 0 __sinit_\d_a_wm_player_static_cpp
 80101f10 0000001c 80101f10 0 __arraydtor$62843
 80101f30 00000034 80101f30 0 GetCutDataP__11dCsSeqMng_cFv
 80101f70 0000004c 80101f70 0 GetCutName__11dCsSeqMng_cFv
 80101fc0 00000034 80101fc0 0 GetCutArg0__11dCsSeqMng_cFv
+801020b0 00000070 801020b0 0 __sinit_\d_cs_seq_mng_static_cpp
 80102120 0000001c 80102120 0 __arraydtor$62900
 80102140 00000014 80102140 0 dProf_getName__FUs
 80102160 000001d4 80102160 0 startTitle__17dScRestartCrsin_cFUcb
