@@ -18197,6 +18197,7 @@
 8042fb60 00000004 8042fb60 0 l_cursor__11dAcCursor_c
 8042fb64 00000001 8042fb64 0 l_alpha__11dAcCursor_c
 8042fb68 00000008 8042fb68 0 l_pos__11dAcCursor_c
+8042fb88 00000004 8042fb88 0 msc_JUMP_SPEED__7dAcPy_c
 8042fb98 00000004 8042fb98 0 m_instance__19dfukidashiManager_c
 8042fba0 00000004 8042fba0 0 m_instance__14dGameDisplay_c
 8042fbb4 00000004 8042fbb4 0 m_instance__13Pausewindow_c
