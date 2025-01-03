@@ -16869,6 +16869,7 @@
 8035c930 00000150 8035c930 0 m_loader_breff__15EffectManager_c
 8035ca90 00000150 8035ca90 0 m_loader_breft__15EffectManager_c
 8035cbec 0000003c 8035cbec 0 m_capture__15EffectManager_c
+8035cc28 00000024 8035cc28 0 @LOCAL@fumiSE__5dEn_cFP8dActor_c@cs_combo_se
 8035cca4 00000034 8035cca4 0 StateID_DemoWait__9dEnBoss_c
 8035cce4 00000034 8035cce4 0 StateID_DieFumi__9dEnBoss_c
 8035cd24 00000034 8035cd24 0 StateID_DieFire__9dEnBoss_c
@@ -18050,6 +18051,7 @@
 8042f748 00000004 8042f748 0 m_instance__14dEffActorMng_c
 8042f750 00000008 8042f750 0 ms_linkManager__14dEffActorMng_c
 8042f759 00000001 8042f759 0 m_firstCalc__15EffectManager_c
+8042f760 00000001 8042f760 0 @GUARD@fumiSE__5dEn_cFP8dActor_c@cs_combo_se
 8042f770 00000004 8042f770 0 m_instance__11dEnemyMng_c
 8042f778 00000004 8042f778 0 mColorFader__8dFader_c
 8042f77c 00000004 8042f77c 0 mWipeFader__8dFader_c
