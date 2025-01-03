@@ -3540,6 +3540,7 @@
 80097aa0 000000ec 80097aa0 0 Area_XY_check__5dEn_cFff
 80097b90 0000006c 80097b90 0 PlayerCarryCheck__5dEn_cFP8dActor_c
 80097c00 00000108 80097c00 0 calcCarryPos__5dEn_cFRC7mVec3_c
+80097d10 00000054 80097d10 0 turnangle_calc__5dEn_cFPCsPCs
 80097d70 000000ac 80097d70 0 slipBound__5dEn_cFP8dActor_c
 80097e20 0000006c 80097e20 0 setEatTongue__5dEn_cFP8dActor_c
 80097e90 00000078 80097e90 0 setEatTongueOff__5dEn_cFP8dActor_c
