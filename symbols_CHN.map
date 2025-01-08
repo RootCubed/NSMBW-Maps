@@ -14045,6 +14045,7 @@
 802bbd20 00000074 802bbd20 0 adjust__Q23EGG7ExpHeapFv
 802bbda0 00000004 802bbda0 0 getSizeForMBlock__Q23EGG7ExpHeapFPCv
 802bbdb0 00000010 802bbdb0 0 initAllocator__Q23EGG7ExpHeapFPQ23EGG9Allocatorl
+802bbdc0 00000010 802bbdc0 0 free_all_visitor__Q23EGG7ExpHeapFPvP12MEMiHeapHeadUl
 802bbdd0 00000040 802bbdd0 0 freeAll__Q23EGG7ExpHeapFv
 802bbe10 00000008 802bbe10 0 getHeapKind__Q23EGG7ExpHeapCFv
 802bbe20 0000003c 802bbe20 0 __ct__Q23EGG7FrmHeapFP12MEMiHeapHead
