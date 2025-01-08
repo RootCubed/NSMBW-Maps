@@ -15285,6 +15285,8 @@
 802f9b90 00000010 802f9b90 0 l_cc_data_super_sit
 802f9ba0 00000010 802f9ba0 0 l_cc_data_normal_swim
 802f9bb0 00000010 802f9bb0 0 l_cc_data_super_swim
+802f9bc0 00000010 802f9bc0 0 l_cc_data_normal_waterwalk
+802f9bd0 00000010 802f9bd0 0 l_cc_data_super_waterwalk
 802f9be0 00000010 802f9be0 0 l_cc_data_penguin_slid
 802f9c0c 00000024 802f9c0c 0 scCcData
 802f9c30 00000024 802f9c30 0 scAtCcData
