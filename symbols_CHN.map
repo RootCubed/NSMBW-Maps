@@ -15381,6 +15381,8 @@
 802fd228 00000010 802fd228 0 TYPE_NAME__Q34nw4r3g3d9AnmObjShp
 802fd238 0000000c 802fd238 0 TYPE_NAME__Q34nw4r3g3d6G3dObj
 802fd248 0000000c 802fd248 0 TYPE_NAME__Q34nw4r3g3d6AnmObj
+802fd258 000003c0 802fd258 0 scaaaTexRegionAddr
+802fd618 000003c0 802fd618 0 scaaaTexRegionSize
 802fd9d8 00000030 802fd9d8 0 @LOCAL@EnvironmentMapping__Q44nw4r3g3d6detail19ScnDependentMtxFuncFPQ34nw4r4math5MTX34ScSc@envMtx
 802fda18 0000001c 802fda18 0 bbFunc__Q34nw4r3g3d26@unnamed@g3d_calcview_cpp@
 802fda38 0000001c 802fda38 0 @LOCAL@CalcTexMtx_Maya__Q44nw4r3g3d6detail3dccFPQ34nw4r4math5MTX34bRCQ34nw4r3g3d6TexSrtQ44nw4r3g3d6TexSrt4Flag@funcTable
