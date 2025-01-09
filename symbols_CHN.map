@@ -18159,6 +18159,8 @@
 8042f8e8 00000004 8042f8e8 0 s_MainThread
 8042f8f0 00000004 8042f8f0 0 ms_RootHeapMem1__6dSys_c
 8042f8f4 00000004 8042f8f4 0 ms_RootHeapMem2__6dSys_c
+8042f900 00000008 8042f900 0 @LOCAL@beginFrame__6dSys_cFv@lastTime
+8042f908 00000001 8042f908 0 @GUARD@beginFrame__6dSys_cFv@lastTime
 8042f910 00000008 8042f910 0 myDylinkInitPhase__22@unnamed@d_system_cpp@
 8042f918 00000004 8042f918 0 l_breffCommand__7dSystem
 8042f91c 00000004 8042f91c 0 l_breftCommand__7dSystem
