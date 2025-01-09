@@ -17023,6 +17023,7 @@
 8035e990 00000030 8035e990 0 StateID_Circle4x4LeftUp__10dLineMng_c
 8035e9d0 00000030 8035e9d0 0 StateID_Circle4x4LeftDown__10dLineMng_c
 8035ea10 00000030 8035ea10 0 StateID_Circle4x4RightDown__10dLineMng_c
+8035eb38 00000400 8035eb38 0 @LOCAL@setText__12LytTextBox_cFPCwlP16__va_list_structP8MsgRes_c@Buffer
 8035ef38 00000318 8035ef38 0 mainThread__5dMain
 8035f250 00000030 8035f250 0 l_quad_data
 8035f2a0 00000020 8035f2a0 0 l_dMessage_obj
