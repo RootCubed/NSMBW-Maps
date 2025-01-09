@@ -15315,6 +15315,7 @@
 802fa954 00000004 802fa954 0 scDvdThreadPrio__Q210homebutton10HomeButton
 802fa998 00000008 802fa998 0 DefaultBlackColor
 802fa9a0 00000008 802fa9a0 0 DefaultWhiteColor
+802fb5d8 00000040 802fb5d8 0 @LOCAL@OSCalcCRC32__FPCvUl@crc32_table
 802fb628 0000001c 802fb628 0 __DVDErrorMessageDefault
 802fb644 0000001c 802fb644 0 __DVDErrorMessageEurope
 802fb660 0000001c 802fb660 0 __DVDDeviceErrorMessage
@@ -17823,6 +17824,10 @@
 8042edb8 00000004 8042edb8 0 __SIVersion
 8042edc0 00000004 8042edc0 0 __VIVersion
 8042edc4 00000004 8042edc4 0 @LOCAL@OnShutdown__FiUl@first
+8042edc8 00000004 8042edc8 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@old_dtvStatus
+8042edcc 00000004 8042edcc 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@old_tvtype@0
+8042edd0 00000004 8042edd0 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@__VIDimmingFlag_Enable_old@1
+8042edd4 00000004 8042edd4 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@__VIDVDStopFlag_Enable_old@2
 8042ede0 00000004 8042ede0 0 __i2c_ident_flag
 8042ede8 00000004 8042ede8 0 __tvType
 8042edec 00000001 8042edec 0 __wd0
@@ -18486,6 +18491,8 @@
 80430090 00000004 80430090 0 FBSet
 80430094 00000004 80430094 0 timingExtra
 80430098 00000004 80430098 0 @LOCAL@OnShutdown__FiUl@count@0
+8043009c 00000004 8043009c 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@DimmingON_Pending@3
+804300a0 00000004 804300a0 0 @LOCAL@__VIRetraceHandler__FsP9OSContext@DimmingOFF_Pending@4
 804300a4 00000004 804300a4 0 @LOCAL@PrintDebugPalCaution__Fv@message
 804300a8 00000004 804300a8 0 CurrBufAddr
 804300ac 00000004 804300ac 0 NextBufAddr
