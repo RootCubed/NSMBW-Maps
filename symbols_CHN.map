@@ -15296,6 +15296,7 @@
 802fa490 00000010 802fa490 0 @LOCAL@createLayout__14dGameDisplay_cFv@MESSAGE_DATA_TBL@6
 802fa528 0000002c 802fa528 0 @LOCAL@create__13Pausewindow_cFv@ANIME_INDEX_TBL@1
 802fa588 0000000c 802fa588 0 s_GameHeapNames__5mHeap
+802fa5ac 00000004 802fa5ac 0 cubeScale$8924
 802fa5c0 00000013 802fa5c0 0 WT_FILENAME__24@unnamed@HBMAxSound_cpp@
 802fa5d4 00000014 802fa5d4 0 PCM_FILENAME__24@unnamed@HBMAxSound_cpp@
 802fa600 00000060 802fa600 0 scAnmTable__10homebutton
@@ -15315,6 +15316,7 @@
 802fa954 00000004 802fa954 0 scDvdThreadPrio__Q210homebutton10HomeButton
 802fa998 00000008 802fa998 0 DefaultBlackColor
 802fa9a0 00000008 802fa9a0 0 DefaultWhiteColor
+802fa9e4 00000004 802fa9e4 0 invAlpha$8122
 802fb5d8 00000040 802fb5d8 0 @LOCAL@OSCalcCRC32__FPCvUl@crc32_table
 802fb628 0000001c 802fb628 0 __DVDErrorMessageDefault
 802fb644 0000001c 802fb644 0 __DVDErrorMessageEurope
@@ -16183,6 +16185,7 @@
 803309a0 00000014 803309a0 0 __vt__Q36nw4hbm3lyt16ResourceAccessor
 803309bc 00000074 803309bc 0 __vt__Q36nw4hbm3lyt7TextBox
 80330a60 00000008 80330a60 0 __RTTI__Q36nw4hbm3lyt7TextBox
+80330a68 0000003c 80330a68 0 flipInfos$7762
 80330aa4 0000007c 80330aa4 0 __vt__Q36nw4hbm3lyt6Window
 80330b48 00000008 80330b48 0 __RTTI__Q36nw4hbm3lyt6Window
 80330b50 00001010 80330b50 0 sSinCosTbl__Q36nw4hbm4math29@unnamed@math_triangular_cpp@
