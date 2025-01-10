@@ -4621,6 +4621,11 @@
 800bda70 00000008 800bda70 0 setPropelRollSpeed__12dPlayerMdl_cFs
 800bda80 00000008 800bda80 0 getAnmResFile__12dPlayerMdl_cCFv
 800bda90 00000008 800bda90 0 getFaceJointIdx__12dPlayerMdl_cCFv
+800be300 00000340 800be300 0 texset__18daLiftAllHitDraw_cFv
+800be640 00000050 800be640 0 init__18daLiftAllHitDraw_cFv
+800be690 000001b4 800be690 0 move__18daLiftAllHitDraw_cFR7mVec3_c
+800be850 00000094 800be850 0 draw__18daLiftAllHitDraw_cFv
+800be8f0 00000094 800be8f0 0 doDelete__18daLiftAllHitDraw_cFv
 800c0de0 00000110 800c0de0 0 Init__6dLightFv
 800c1070 00000108 800c1070 0 __ct__10dLineMng_cFv
 800c1180 0000008c 800c1180 0 __dt__77sFStateStateMgr_c<10dLineMng_c,20sStateMethodUsr_FI_c,20sStateMethodUsr_FI_c>Fv
