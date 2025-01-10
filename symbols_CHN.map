@@ -15214,6 +15214,7 @@
 802f4010 00000026 802f4010 0 l_head_saka_angle
 802f4e78 00000048 802f4e78 0 l_panel_no
 802f5358 00000024 802f5358 0 l_wand_cc
+802f5df0 000018e4 802f5df0 0 scPyAnmData__12dPyMdlBase_c
 802f76e8 00000010 802f76e8 0 smc_speed_data__21dPosGoAndComeExeFrm_c
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
 802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
