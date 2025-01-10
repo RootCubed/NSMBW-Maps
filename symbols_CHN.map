@@ -15218,6 +15218,7 @@
 802f4010 00000026 802f4010 0 l_head_saka_angle
 802f4e78 00000048 802f4e78 0 l_panel_no
 802f5358 00000024 802f5358 0 l_wand_cc
+802f5cf0 000000e0 802f5cf0 0 scTexAnmData__12dPlayerMdl_c
 802f5df0 000018e4 802f5df0 0 scPyAnmData__12dPyMdlBase_c
 802f76e8 00000010 802f76e8 0 smc_speed_data__21dPosGoAndComeExeFrm_c
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
@@ -15276,6 +15277,7 @@
 802f92d8 00000068 802f92d8 0 smc_demo_Stock_Menu__11dCsSeqMng_c
 802f9340 00000068 802f9340 0 smc_demo_WorldSelect_Menu__11dCsSeqMng_c
 802f93a8 000000e0 802f93a8 0 smc_demo_KoopaCastleAppear__11dCsSeqMng_c
+802f9538 00000028 802f9538 0 sc_CannonNextWorld__6dWmLib
 802f9668 00000050 802f9668 0 s_someCheckData__19daEnHatenaBalloon_c
 802f96c8 00000024 802f96c8 0 l_cc_data
 802f96f0 00000010 802f96f0 0 l_create_diff
@@ -17827,6 +17829,11 @@
 8042eab0 00000008 8042eab0 0 g_profile_LOGO_SCREEN
 8042eab8 00000008 8042eab8 0 g_profile_NV_SCREEN
 8042eac0 00000008 8042eac0 0 g_profile_ANTI_ADDICTION_SCREEN
+8042eac8 00000004 8042eac8 0 sm_hio_gravity__19daEnHatenaBalloon_c
+8042eacc 00000004 8042eacc 0 sm_hio_base_fly_timer_x__19daEnHatenaBalloon_c
+8042ead0 00000004 8042ead0 0 sm_hio_fly_yspeed__19daEnHatenaBalloon_c
+8042ead4 00000004 8042ead4 0 sm_hio_mask_size__19daEnHatenaBalloon_c
+8042ead8 00000004 8042ead8 0 sm_hio_mask_y_diff__19daEnHatenaBalloon_c
 8042ebb0 00000008 8042ebb0 0 g_profile_LASTACTOR
 8042ebf8 00000008 8042ebf8 0 g_profile_BG_GM
 8042ec00 00000004 8042ec00 0 @LOCAL@createLayout__14dGameDisplay_cFv@AnmNameTbl
