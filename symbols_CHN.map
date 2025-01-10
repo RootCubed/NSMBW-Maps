@@ -15745,6 +15745,7 @@
 80318ba0 000005e4 80318ba0 0 __vt__18dEnTorideKokoopa_c
 80319a70 00000034 80319a70 0 __vt__40sFStateVirtualID_c<18dEnTorideKokoopa_c>
 80319aa4 00000034 80319aa4 0 __vt__33sFStateID_c<18dEnTorideKokoopa_c>
+80319b78 00000010 80319b78 0 FONT_NAME_TBL__10dFontMng_c
 80319e98 0000000c 80319e98 0 __vt__16dfukidashiInfo_c
 80319ea8 00000030 80319ea8 0 __vt__55sFStateMgr_c<16dfukidashiInfo_c,20sStateMethodUsr_FI_c>
 80319ed8 00000030 80319ed8 0 __vt__85sStateMgr_c<16dfukidashiInfo_c,20sStateMethodUsr_FI_c,12sFStateFct_c,13sStateIDChk_c>
@@ -17035,6 +17036,7 @@
 8035e990 00000030 8035e990 0 StateID_Circle4x4LeftUp__10dLineMng_c
 8035e9d0 00000030 8035e9d0 0 StateID_Circle4x4LeftDown__10dLineMng_c
 8035ea10 00000030 8035ea10 0 StateID_Circle4x4RightDown__10dLineMng_c
+8035ea70 000000c8 8035ea70 0 s_TagPrc__9LytBase_c
 8035eb38 00000400 8035eb38 0 @LOCAL@setText__12LytTextBox_cFPCwlP16__va_list_structP8MsgRes_c@Buffer
 8035ef38 00000318 8035ef38 0 mainThread__5dMain
 8035f250 00000030 8035f250 0 l_quad_data
