@@ -4626,6 +4626,12 @@
 800be690 000001b4 800be690 0 move__18daLiftAllHitDraw_cFR7mVec3_c
 800be850 00000094 800be850 0 draw__18daLiftAllHitDraw_cFv
 800be8f0 00000094 800be8f0 0 doDelete__18daLiftAllHitDraw_cFv
+800c0610 00000124 800c0610 0 modelset__23daLiftNormalModelDraw_cFv
+800c0740 000000f4 800c0740 0 repeat_set__23daLiftNormalModelDraw_cFv
+800c0840 0000002c 800c0840 0 center_pos_set__23daLiftNormalModelDraw_cFv
+800c09c0 0000008c 800c09c0 0 init__23daLiftNormalModelDraw_cFv
+800c0a50 00000060 800c0a50 0 move__23daLiftNormalModelDraw_cFRC7mVec3_cf
+800c0ab0 0000032c 800c0ab0 0 draw__23daLiftNormalModelDraw_cFv
 800c0de0 00000110 800c0de0 0 Init__6dLightFv
 800c1070 00000108 800c1070 0 __ct__10dLineMng_cFv
 800c1180 0000008c 800c1180 0 __dt__77sFStateStateMgr_c<10dLineMng_c,20sStateMethodUsr_FI_c,20sStateMethodUsr_FI_c>Fv
