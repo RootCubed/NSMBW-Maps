@@ -15182,6 +15182,7 @@
 802f2f5c 0000000c 802f2f5c 0 l_objcoinft_foot
 802f2f68 0000000c 802f2f68 0 l_objcoinft_head
 802f2f74 0000000c 802f2f74 0 l_objcoinft_wall
+802f2f80 00000010 802f2f80 0 l_bound_yspd__14daEnCoinMain_c
 802f2fb0 00000024 802f2fb0 0 smc_cc_dat__17daEnDpakkunBase_c
 802f3044 00000024 802f3044 0 l_pakkun_cc
 802f30a8 00000024 802f30a8 0 l_kuribo_cc
