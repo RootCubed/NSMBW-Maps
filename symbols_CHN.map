@@ -15186,6 +15186,7 @@
 802f2ab8 0000000c 802f2ab8 0 @LOCAL@createLayout__15dWarningOther_cFv@ANIME_INDEX_TBL@1
 802f2ac8 0000000c 802f2ac8 0 @LOCAL@createLayout__14dWarningYoKo_cFv@ANIME_INDEX_TBL@1
 802f2b00 00000010 802f2b00 0 @LOCAL@createLayout__12dWipeDokan_cFv@ANIME_INDEX_TBL@1
+802f2d90 00000018 802f2d90 0 @LOCAL@player_set__15daEnBlockMain_cFii@l_player_mode
 802f2e50 0000000c 802f2e50 0 l_bros_foot
 802f2e5c 0000000c 802f2e5c 0 l_bros_wall
 802f2e68 00000024 802f2e68 0 l_bros_cc
