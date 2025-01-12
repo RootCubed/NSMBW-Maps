@@ -4461,8 +4461,10 @@
 800b6f20 00000124 800b6f20 0 createMdl__11dHanaHead_cFP16mHeapAllocator_c
 800b7050 000000a0 800b7050 0 calcJntPos__11dHanaHead_cFv
 800b70f0 00000060 800b70f0 0 noseBreath__11dHanaHead_cFv
+800b7150 000000a0 800b7150 0 moveProc__11dHanaHead_cFP15dHanaBodyBase_cf
 800b7250 00000174 800b7250 0 createMdl__11dHanaBody_cFP16mHeapAllocator_c
 800b73d0 00000014 800b73d0 0 getDist__11dHanaBody_cCFv
+800b73f0 00000198 800b73f0 0 moveProc__11dHanaBody_cFP15dHanaBodyBase_cf
 800b7810 00000014 800b7810 0 calcSakaAngle__14dHanaBigHead_cFs
 800b7830 00000144 800b7830 0 createMdl__14dHanaBigHead_cFP16mHeapAllocator_c
 800b7980 00000058 800b7980 0 alldeathSmoke__14dHanaBigHead_cFv
@@ -4488,6 +4490,7 @@
 800b7f50 000000b4 800b7f50 0 __dt__11dHanaBody_cFv
 800b8010 000000a0 800b8010 0 __dt__15dHanaBodyBase_cFv
 800b80b0 000000f0 800b80b0 0 __dt__11dHanaHead_cFv
+800b81b0 00000004 800b81b0 0 moveProc__15dHanaBodyBase_cFP15dHanaBodyBase_cf
 800b81c0 00000004 800b81c0 0 setAngryColor__15dHanaBodyBase_cFv
 800b81d0 00000004 800b81d0 0 setNormalColor__15dHanaBodyBase_cFv
 800b81e0 00000004 800b81e0 0 removeColorAnm__15dHanaBodyBase_cFv
