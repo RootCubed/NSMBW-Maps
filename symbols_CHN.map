@@ -4452,6 +4452,7 @@
 800b6830 00000144 800b6830 0 calcMdl__15dHanaBodyBase_cFRC7mVec3_c
 800b6980 00000004 800b6980 0 calcJntPos__15dHanaBodyBase_cFv
 800b6990 00000058 800b6990 0 alldeathSmoke__15dHanaBodyBase_cFv
+800b6b30 000000fc 800b6b30 0 setPosAngle__15dHanaBodyBase_cFRC7mVec3_cRC7mAng3_cf
 800b6c30 000000b8 800b6c30 0 calcPosAngle__15dHanaBodyBase_cFv
 800b6cf0 00000078 800b6cf0 0 setAnm__15dHanaBodyBase_cFPcf
 800b6d70 00000008 800b6d70 0 setAnimFrame__15dHanaBodyBase_cFf
