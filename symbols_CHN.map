@@ -4913,6 +4913,9 @@
 800cd5d0 0000006c 800cd5d0 0 isCaveMask__8dMaskMngFv
 800cd640 00000014 800cd640 0 GetCaveMaskColor__8dMaskMngFv
 800cd660 00000010 800cd660 0 GetAlpha__8dMaskMngFv
+800cd670 00000010 800cd670 0 GetWalkDarkMaskScale__8dMaskMngFv
+800cd680 00000010 800cd680 0 GetDashDarkMaskScale__8dMaskMngFv
+800cd690 00000010 800cd690 0 GetDarkMaskScaleResetTime__8dMaskMngFv
 800cd6a0 00000044 800cd6a0 0 __ct__10dMaskMng_cFv
 800cd6f0 00000088 800cd6f0 0 __dt__10dMaskMng_cFv
 800cd780 000000a8 800cd780 0 initialize__10dMaskMng_cFv
