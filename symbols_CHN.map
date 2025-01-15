@@ -18281,6 +18281,7 @@
 8042f964 00000004 8042f964 0 l_rayoutAspect__6mVideo
 8042f968 00000002 8042f968 0 smc_ANGLE_DIST_RATE__12dWanKusari_c
 8042f970 00000004 8042f970 0 m_instance__16dWaterEntryMng_c
+8042f9d4 00000001 8042f9d4 0 s_IsKinopioChukanOld__6dWmLib
 8042f9fc 00000004 8042f9fc 0 m_instance__9daWmMap_c
 8042fa0e 00000002 8042fa0e 0 ms_StarVar__12daWmPlayer_c
 8042fa10 00000004 8042fa10 0 ms_instance__12daWmPlayer_c
@@ -18373,6 +18374,7 @@
 8042fbfc 00000004 8042fbfc 0 sDvdFile__20DynamicModuleControl
 8042fc00 00000004 8042fc00 0 sDvdCommand
 8042fc04 00000004 8042fc04 0 sDylinkHeap__20DynamicModuleControl
+8042fc08 00000004 8042fc08 0 sHeapMinAllocatableSize__20DynamicModuleControl
 8042fc0c 00000004 8042fc0c 0 sHeapMinTotalFreeSize__20DynamicModuleControl
 8042fc10 00000004 8042fc10 0 s_rnd
 8042fc14 00000004 8042fc14 0 s_rnd2
