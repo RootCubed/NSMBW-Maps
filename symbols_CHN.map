@@ -5659,6 +5659,7 @@
 800ebb60 000000a8 800ebb60 0 model_anmplay__12dWaterDraw_cFv
 800ebc10 00000100 800ebc10 0 WaterEntryInital__16dWaterEntryMng_cFv
 800ebd90 00000068 800ebd90 0 square_check__16dWaterEntryMng_cFP7mVec2_ci
+800ebe00 0000002c 800ebe00 0 getPosDistancetoAngle__16dWaterEntryMng_cFP7mVec2_c
 800ecb00 0000072c 800ecb00 0 waveDecoExecute__12dWaterWave_cFv
 800ed230 0000132c 800ed230 0 waveExecute__12dWaterWave_cFv
 800ee560 00000098 800ee560 0 draw__12dWaterWave_cFv
