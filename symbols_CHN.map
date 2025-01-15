@@ -3808,6 +3808,8 @@
 8009eb80 00000030 8009eb80 0 initializeState__35sFStateID_c<20dEnBossKoopaJrBase_c>CFR20dEnBossKoopaJrBase_c
 8009ebb0 00000030 8009ebb0 0 executeState__35sFStateID_c<20dEnBossKoopaJrBase_c>CFR20dEnBossKoopaJrBase_c
 8009ebe0 00000030 8009ebe0 0 finalizeState__35sFStateID_c<20dEnBossKoopaJrBase_c>CFR20dEnBossKoopaJrBase_c
+8009ec10 00000014 8009ec10 0 begin__12dEnBoyoMng_cFif
+8009ec30 00000094 8009ec30 0 execute__12dEnBoyoMng_cFv
 8009ecd0 0000000c 8009ecd0 0 baseID_Carry<10sStateID_c>__Fv_RC12sStateIDIf_c
 8009ece0 0000000c 8009ece0 0 baseID_Throw<10sStateID_c>__Fv_RC12sStateIDIf_c
 8009ecf0 0000003c 8009ecf0 0 __ct__13dEnemyCarry_cFv
