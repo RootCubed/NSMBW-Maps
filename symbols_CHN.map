@@ -15279,6 +15279,10 @@
 802f5cf0 000000e0 802f5cf0 0 scTexAnmData__12dPlayerMdl_c
 802f5df0 000018e4 802f5df0 0 scPyAnmData__12dPyMdlBase_c
 802f76e8 00000010 802f76e8 0 smc_speed_data__21dPosGoAndComeExeFrm_c
+802f7a78 0000000f 802f7a78 0 sc_EffectManagerHeap1Name__7dSystem
+802f7a88 00000013 802f7a88 0 sc_EffectManagerHeap2Name__7dSystem
+802f7a9c 0000000d 802f7a9c 0 sc_FontManagerHeapName__7dSystem
+802f7ac4 0000000f 802f7ac4 0 sc_MessageManagerHeapName__7dSystem
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
 802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
 802f7ee0 0000001c 802f7ee0 0 sc_KinokoHouseCourseNo__6dWmLib
@@ -17161,6 +17165,9 @@
 8037a808 00000030 8037a808 0 StateID_Escape__19daEnHatenaBalloon_c
 8037a848 00000030 8037a848 0 StateID_HipAttack__19daEnHatenaBalloon_c
 8037a888 00000030 8037a888 0 StateID_SearchSpace__19daEnHatenaBalloon_c
+8037a8b8 0000000c 8037a8b8 0 sm_bg_check_size_mame__19daEnHatenaBalloon_c
+8037a8c4 0000000c 8037a8c4 0 sm_bg_check_size_normal__19daEnHatenaBalloon_c
+8037a8d0 0000000c 8037a8d0 0 sm_bg_check_size_super__19daEnHatenaBalloon_c
 8037a8e0 0000000c 8037a8e0 0 smc_ICE_DEFSIZE_SQUARE__12daEnemyIce_c
 8037a8ec 0000000c 8037a8ec 0 smc_ICE_DEFSIZE_TATE__12daEnemyIce_c
 8037a8f8 0000000c 8037a8f8 0 smc_ICE_DEFSIZE_YOKO__12daEnemyIce_c
@@ -17877,7 +17884,12 @@
 8042df9c 00000001 8042df9c 0 m_isAutoFadeIn__8dScene_c
 8042dfa8 00000008 8042dfa8 0 l_stage_list__6dStage
 8042dfb0 00000004 8042dfb0 0 l_AspectRatio__6mVideo
+8042dfd0 00000004 8042dfd0 0 sc_AnimeRootNodeName__6dWmLib
+8042dfdc 00000004 8042dfdc 0 sc_LoopAnimeRootNodeName__6dWmLib
+8042dfe8 00000004 8042dfe8 0 sc_SoundAnimeRootNodeName__6dWmLib
+8042dff4 00000004 8042dff4 0 sc_ZoromeShadowName__6dWmLib
 8042e000 00000004 8042e000 0 sc_AnchorShadowName__6dWmLib
+8042e120 00000004 8042e120 0 sc_AnimeRootNodeName__6dWmLib
 8042e468 00000008 8042e468 0 dStage_Field_Data
 8042e470 00000004 8042e470 0 dStage_Field
 8042e478 00000008 8042e478 0 l_world_tbl
@@ -19158,6 +19170,8 @@
 80431e50 00000004 80431e50 0 smc_PARTS_DIST__15dHanaBodyBase_c
 80431f50 00000004 80431f50 0 smc_LENGTH__21dIggyWanKusariPiece_c
 804320c0 00000004 804320c0 0 smc_UNIT_SIZE_X__10dLineMng_c
+804322b8 00000004 804322b8 0 scPropelRollBaseSpeed__12dPlayerMdl_c
+804322f8 00000004 804322f8 0 scWaterCrouchAnmSpeed__12dPyMdlBase_c
 804322fc 00000004 804322fc 0 scFireShootFrame__12dPyMdlBase_c
 80432360 00000004 80432360 0 smc_move_type__21dPosGoAndComeExeFrm_c
 80432510 00000004 80432510 0 smc_SCORE_X__11dScoreMng_c
