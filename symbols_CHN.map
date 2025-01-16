@@ -16768,6 +16768,8 @@
 80357378 00000030 80357378 0 StateID_ScrollGuideOnStageAnimeEndCheck__20dCourseSelectGuide_c
 803573b8 00000030 803573b8 0 StateID_ScrollGuideDisp__20dCourseSelectGuide_c
 803573f8 00000030 803573f8 0 StateID_ScrollGuideExitAnimeEndCheck__20dCourseSelectGuide_c
+80357428 00000014 80357428 0 @LOCAL@setPlayer1000Color__13dSmallScore_cFi@UP_COLOR_DATA_TBL
+8035743c 00000014 8035743c 0 @LOCAL@setPlayer1000Color__13dSmallScore_cFi@DOWN_COLOR_DATA_TBL@0
 80357478 00000030 80357478 0 StateID_DispWait__17dWarningBattery_c
 803574b8 00000030 803574b8 0 StateID_OpenAnimeEndWait__17dWarningBattery_c
 803574f8 00000030 803574f8 0 StateID_LowBatteryAnimeEndWait__17dWarningBattery_c
@@ -18095,6 +18097,8 @@
 8042f450 00000008 8042f450 0 @LOCAL@drawScreen__3d3dFbbf@c_scale@0
 8042f45c 00000004 8042f45c 0 m_instance__20dCourseSelectGuide_c
 8042f468 00000004 8042f468 0 m_instance__13dSmallScore_c
+8042f46c 00000001 8042f46c 0 @GUARD@setPlayer1000Color__13dSmallScore_cFi@UP_COLOR_DATA_TBL
+8042f46d 00000001 8042f46d 0 @GUARD@setPlayer1000Color__13dSmallScore_cFi@DOWN_COLOR_DATA_TBL@0
 8042f46f 00000001 8042f46f 0 @GUARD@setNormalOrBlueColor__13dSmallScore_cFv@UP_COLOR_DATA_TBL
 8042f470 00000008 8042f470 0 @LOCAL@setNormalOrBlueColor__13dSmallScore_cFv@UP_COLOR_DATA_TBL
 8042f478 00000001 8042f478 0 @GUARD@setNormalOrBlueColor__13dSmallScore_cFv@DOWN_COLOR_DATA_TBL@0
