@@ -16969,6 +16969,8 @@
 8035b488 0000000c 8035b488 0 checkObjFoot__5dBc_c
 8035b494 0000000c 8035b494 0 checkObjHead__5dBc_c
 8035b4a0 0000000c 8035b4a0 0 checkObjWall__5dBc_c
+8035b580 00000020 8035b580 0 @LOCAL@create__18dEffBigBlockFrag_cFv@l_posdiff_dt
+8035b5a0 00000040 8035b5a0 0 @LOCAL@create__18dEffBigBlockFrag_cFv@l_speed_tbl@0
 8035b65c 00000114 8035b65c 0 m_coin_effect
 8035b77c 00000114 8035b77c 0 m_blue_coin_effect
 8035b89c 00000114 8035b89c 0 m_icemisshit_effect
@@ -18209,6 +18211,8 @@
 8042f720 00000004 8042f720 0 cCc_frmHeap__4dDyl
 8042f724 00000004 8042f724 0 Initialized__4dDyl
 8042f728 00000004 8042f728 0 DVD__4dDyl
+8042f730 00000001 8042f730 0 @GUARD@create__18dEffBigBlockFrag_cFv@l_posdiff_dt
+8042f731 00000001 8042f731 0 @GUARD@create__18dEffBigBlockFrag_cFv@l_speed_tbl@0
 8042f748 00000004 8042f748 0 m_instance__14dEffActorMng_c
 8042f750 00000008 8042f750 0 ms_linkManager__14dEffActorMng_c
 8042f759 00000001 8042f759 0 m_firstCalc__15EffectManager_c
