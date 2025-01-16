@@ -17217,6 +17217,8 @@
 8037b198 00000030 8037b198 0 StateID_EatIn__11daIceBall_c
 8037b1d8 00000030 8037b1d8 0 StateID_EatNow__11daIceBall_c
 8037b218 00000030 8037b218 0 StateID_Kill__11daIceBall_c
+8037b248 0000000c 8037b248 0 @LOCAL@calcDarkHandLight__8daMask_cFv@l_flashlightA
+8037b254 0000000c 8037b254 0 @LOCAL@calcDarkHandLight__8daMask_cFv@l_flashlightB@0
 8037b26c 00000034 8037b26c 0 StateID_Walk__7dAcPy_c
 8037b2ac 00000034 8037b2ac 0 StateID_Jump__7dAcPy_c
 8037b2ec 00000034 8037b2ec 0 StateID_Fall__7dAcPy_c
@@ -18379,6 +18381,8 @@
 8042fb60 00000004 8042fb60 0 l_cursor__11dAcCursor_c
 8042fb64 00000001 8042fb64 0 l_alpha__11dAcCursor_c
 8042fb68 00000008 8042fb68 0 l_pos__11dAcCursor_c
+8042fb80 00000001 8042fb80 0 @GUARD@calcDarkHandLight__8daMask_cFv@l_flashlightA
+8042fb81 00000001 8042fb81 0 @GUARD@calcDarkHandLight__8daMask_cFv@l_flashlightB@0
 8042fb88 00000004 8042fb88 0 msc_JUMP_SPEED__7dAcPy_c
 8042fb98 00000004 8042fb98 0 m_instance__19dfukidashiManager_c
 8042fba0 00000004 8042fba0 0 m_instance__14dGameDisplay_c
