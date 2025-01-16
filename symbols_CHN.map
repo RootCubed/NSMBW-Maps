@@ -5044,6 +5044,7 @@
 800cff00 00000048 800cff00 0 createInstance__7dNext_cFPQ23EGG4Heap
 800cff50 0000001c 800cff50 0 deleteInstance__7dNext_cFv
 800cff70 0000001c 800cff70 0 initialize__7dNext_cFv
+800cff90 00000058 800cff90 0 setChangeSceneNextDat__7dNext_cFUcUcQ28dFader_c12fader_type_e
 800cfff0 000000dc 800cfff0 0 setOwnNextData__7dNext_cFUcUc
 800d0300 00000018 800d0300 0 simpleChangeScene__7dNext_cFUcQ28dFader_c12fader_type_e
 800d0320 000000cc 800d0320 0 simpleChangeScene__7dNext_cFUcUcQ28dFader_c12fader_type_e
