@@ -17058,6 +17058,9 @@
 8035ddb4 00000034 8035ddb4 0 StateID_DemoIkaku_Wait__18dEnTorideKokoopa_c
 8035ddf4 00000034 8035ddf4 0 StateID_DemoEscape_St__18dEnTorideKokoopa_c
 8035de38 000000e0 8035de38 0 l_dFontMng_obj
+8035df18 00000010 8035df18 0 @LOCAL@ColorSet__16dfukidashiInfo_cFv@UP_COLOR_DATA_TBL
+8035df28 00000010 8035df28 0 @LOCAL@ColorSet__16dfukidashiInfo_cFv@DOWN_COLOR_DATA_TBL@0
+8035df38 00000010 8035df38 0 @LOCAL@ColorSet__16dfukidashiInfo_cFv@COLOR_DATA_TBL@1
 8035df58 00000030 8035df58 0 StateID_StartWait__16dfukidashiInfo_c
 8035df98 00000030 8035df98 0 StateID_OnStageStart__16dfukidashiInfo_c
 8035dfd8 00000030 8035dfd8 0 StateID_Move__16dfukidashiInfo_c
@@ -18213,6 +18216,9 @@
 8042f78c 00000004 8042f78c 0 mWipeCircle__8dFader_c
 8042f790 00000004 8042f790 0 m_instance__11dFlagCtrl_c
 8042f798 00000004 8042f798 0 m_instance__16dfukidashiInfo_c
+8042f79c 00000001 8042f79c 0 @GUARD@ColorSet__16dfukidashiInfo_cFv@UP_COLOR_DATA_TBL
+8042f79d 00000001 8042f79d 0 @GUARD@ColorSet__16dfukidashiInfo_cFv@DOWN_COLOR_DATA_TBL@0
+8042f79e 00000001 8042f79e 0 @GUARD@ColorSet__16dfukidashiInfo_cFv@COLOR_DATA_TBL@1
 8042f7a4 00000004 8042f7a4 0 m_rnd__8dGameCom
 8042f7a8 00000004 8042f7a8 0 l_gameStop__8dGameCom
 8042f7b0 00000004 8042f7b0 0 m_instance__10dGameKey_c
