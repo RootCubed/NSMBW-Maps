@@ -17112,6 +17112,8 @@
 8035f2a0 00000020 8035f2a0 0 l_dMessage_obj
 80376310 00000080 80376310 0 m_ex__Q24dPad4ex_c
 803763a0 00000950 803763a0 0 m_hio__11dPyMdlMng_c
+80376cf0 00000010 80376cf0 0 @LOCAL@update__18dPlayerOrchestra_cFv@scPressOneButton
+80376d00 00000010 80376d00 0 @LOCAL@update__18dPlayerOrchestra_cFv@scPressTwoButton@0
 80376d20 00000030 80376d20 0 StateID_Accel__21dPosGoAndComeExeFrm_c
 80376d60 00000030 80376d60 0 StateID_Move__21dPosGoAndComeExeFrm_c
 80376da0 00000030 80376da0 0 StateID_Decel__21dPosGoAndComeExeFrm_c
@@ -18246,6 +18248,8 @@
 8042f848 00000004 8042f848 0 mEntryN__11dPole_ctr_c
 8042f84c 00000004 8042f84c 0 mEntryB__11dPole_ctr_c
 8042f850 00000004 8042f850 0 mspInstance__14dPyEffectMng_c
+8042f858 00000001 8042f858 0 @GUARD@update__18dPlayerOrchestra_cFv@scPressOneButton
+8042f859 00000001 8042f859 0 @GUARD@update__18dPlayerOrchestra_cFv@scPressTwoButton@0
 8042f860 00000004 8042f860 0 ms_instance__13dPSwManager_c
 8042f868 00000004 8042f868 0 m_instance__8dQuake_c
 8042f870 00000004 8042f870 0 mSavePosY__5dRc_c
