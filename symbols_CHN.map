@@ -16107,6 +16107,7 @@
 80329be8 00000050 80329be8 0 __vt__12dLastActor_c
 80329c38 0000000c 80329c38 0 g_profile_MASK
 80329c44 000000d4 80329c44 0 __vt__8daMask_c
+80329d40 00000018 80329d40 0 @LOCAL@jump_common__7dAcPy_cFv@l_JumpActionProc
 8032a438 00000018 8032a438 0 @LOCAL@setChange__7dAcPy_cFi@l_changeInitProc
 8032a450 00000018 8032a450 0 @LOCAL@updateChange__7dAcPy_cFv@l_changeActionProc
 8032a468 0000002c 8032a468 0 l_cc_size_data
