@@ -5046,6 +5046,7 @@
 800cff70 0000001c 800cff70 0 initialize__7dNext_cFv
 800cff90 00000058 800cff90 0 setChangeSceneNextDat__7dNext_cFUcUcQ28dFader_c12fader_type_e
 800cfff0 000000dc 800cfff0 0 setOwnNextData__7dNext_cFUcUc
+800d0190 00000164 800d0190 0 searchNextNum__7dNext_cFUcffPi
 800d0300 00000018 800d0300 0 simpleChangeScene__7dNext_cFUcQ28dFader_c12fader_type_e
 800d0320 000000cc 800d0320 0 simpleChangeScene__7dNext_cFUcUcQ28dFader_c12fader_type_e
 800d03f0 00000170 800d03f0 0 changeScene__7dNext_cFv
