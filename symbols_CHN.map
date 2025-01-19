@@ -7584,6 +7584,7 @@
 80150990 00000210 80150990 0 setEatAction_Success__9daYoshi_cFi
 80150ba0 00000164 80150ba0 0 EatAction_SuccessEat__9daYoshi_cFv
 80150d10 00000114 80150d10 0 EatAction_SuccessDrink__9daYoshi_cFv
+80150e30 000000e4 80150e30 0 eatDrinkBigCommonAction__9daYoshi_cFv
 80150f20 00000090 80150f20 0 EatAction_SuccessDrinkBig__9daYoshi_cFv
 80150fb0 0000006c 80150fb0 0 setEatAction_Fail__9daYoshi_cFv
 80151020 0000009c 80151020 0 EatAction_Fail__9daYoshi_cFv
