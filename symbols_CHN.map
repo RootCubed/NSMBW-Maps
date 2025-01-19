@@ -1342,6 +1342,7 @@
 80034190 00000014 80034190 0 nonBoyoProc__17daEnLkuriboBase_cFv
 800341b0 00000114 800341b0 0 fireBoyoProc__17daEnLkuriboBase_cFv
 800342d0 00000084 800342d0 0 setAnm__17daEnLkuriboBase_cFPcQ23m3d10playMode_ef
+80034360 00000090 80034360 0 setTexAnm__17daEnLkuriboBase_cFPcQ23m3d10playMode_e
 800343f0 000000cc 800343f0 0 setTurnByPlayerHit__17daEnLkuriboBase_cFP8dActor_c
 800344c0 00000004 800344c0 0 setWalkSpeed__17daEnLkuriboBase_cFv
 800344d0 00000058 800344d0 0 FumiJumpSet__17daEnLkuriboBase_cFP8dActor_c
