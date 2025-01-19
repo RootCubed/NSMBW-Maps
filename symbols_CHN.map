@@ -17220,6 +17220,7 @@
 8037b078 00000030 8037b078 0 StateID_Drop__7daIce_c
 8037b0b8 00000030 8037b0b8 0 StateID_Melt_Normal__7daIce_c
 8037b0e8 00000010 8037b0e8 0 sm_IceBallCount__11daIceBall_c
+8037b0f8 00000010 8037b0f8 0 sm_IceBallAliveCount__11daIceBall_c
 8037b118 00000030 8037b118 0 StateID_FireMove__11daIceBall_c
 8037b158 00000030 8037b158 0 StateID_Move__11daIceBall_c
 8037b198 00000030 8037b198 0 StateID_EatIn__11daIceBall_c
