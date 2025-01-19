@@ -15258,6 +15258,7 @@
 802f3290 00000010 802f3290 0 smc_pipo_foot__16daEnTogezoBase_c
 802f32a0 00000010 802f32a0 0 smc_pipo_wall__16daEnTogezoBase_c
 802f32b0 00000024 802f32b0 0 smc_toge_cc__16daEnTogezoBase_c
+802f32d4 0000000c 802f32d4 0 @LOCAL@createIceActor__16daEnTogezoBase_cFv@cs_offset_tbl
 802f32e0 0000000c 802f32e0 0 l_fireball_foot
 802f32ec 0000000c 802f32ec 0 l_fireball_head
 802f32f8 0000000c 802f32f8 0 l_fireball_wall
@@ -16897,6 +16898,7 @@
 803593a4 00000034 803593a4 0 StateID_Wakeup__16daEnTogezoBase_c
 803593e4 00000034 803593e4 0 StateID_WakeupTurn__16daEnTogezoBase_c
 80359424 00000034 80359424 0 StateID_WakeupReverse__16daEnTogezoBase_c
+80359458 00000024 80359458 0 @LOCAL@createIceActor__16daEnTogezoBase_cFv@cs_size_tbl@0
 8035948c 00000034 8035948c 0 StateID_Move__17daFireBall_Base_c
 803594cc 00000034 803594cc 0 StateID_Kill__17daFireBall_Base_c
 8035950c 00000034 8035950c 0 StateID_EatIn__17daFireBall_Base_c
@@ -18118,6 +18120,7 @@
 8042f498 00000004 8042f498 0 m_instance__12dWipeDokan_c
 8042f4a0 00000004 8042f4a0 0 m_instance__12dWipeKuppa_c
 8042f4a8 00000004 8042f4a8 0 m_instance__12dWipeMario_c
+8042f4d0 00000001 8042f4d0 0 @GUARD@createIceActor__16daEnTogezoBase_cFv@cs_size_tbl@0
 8042f4d8 00000004 8042f4d8 0 smc_CURVE_LINE_LEN__12daMovePipe_c
 8042f4f4 00000004 8042f4f4 0 mspInstance__13daPyDemoMng_c
 8042f4f8 00000004 8042f4f8 0 ms_num_of_instance__17dAcPy_HIO_Speed_c
