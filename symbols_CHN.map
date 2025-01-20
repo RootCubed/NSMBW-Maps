@@ -16935,6 +16935,10 @@
 80359b5c 00000034 80359b5c 0 StateID_Cloud__10daPlBase_c
 80359b9c 00000034 80359b9c 0 StateID_AnimePlay__10daPlBase_c
 80359bdc 00000034 80359bdc 0 StateID_WaitJump__10daPlBase_c
+80359c10 00000034 80359c10 0 @LOCAL@setLandSE__10daPlBase_cFv@scLandSeID
+80359c44 00000034 80359c44 0 @LOCAL@setSlipSE__10daPlBase_cFv@scSlipSeID
+80359c78 00000034 80359c78 0 @LOCAL@setTurnSmokeEffect__10daPlBase_cFv@scTurnSeID
+80359cac 00000034 80359cac 0 @LOCAL@setFootSound__10daPlBase_cFv@scFootSeID
 80359cec 00000034 80359cec 0 StateID_DemoNone__10daPlBase_c
 80359d2c 00000034 80359d2c 0 StateID_DemoStartWait__10daPlBase_c
 80359d6c 00000034 80359d6c 0 StateID_DemoWait__10daPlBase_c
@@ -16985,6 +16989,8 @@
 8035b4a0 0000000c 8035b4a0 0 checkObjWall__5dBc_c
 8035b580 00000020 8035b580 0 @LOCAL@create__18dEffBigBlockFrag_cFv@l_posdiff_dt
 8035b5a0 00000040 8035b5a0 0 @LOCAL@create__18dEffBigBlockFrag_cFv@l_speed_tbl@0
+8035b5e0 00000040 8035b5e0 0 @LOCAL@initSpeed__13dEffIceFrag_cFv@cs_speed_tbl
+8035b620 00000030 8035b620 0 @LOCAL@initSpeed__14dEffWanChain_cFv@cs_speed_tbl
 8035b65c 00000114 8035b65c 0 m_coin_effect
 8035b77c 00000114 8035b77c 0 m_blue_coin_effect
 8035b89c 00000114 8035b89c 0 m_icemisshit_effect
@@ -18133,6 +18139,10 @@
 8042f4d0 00000001 8042f4d0 0 @GUARD@createIceActor__16daEnTogezoBase_cFv@cs_size_tbl@0
 8042f4d8 00000004 8042f4d8 0 smc_CURVE_LINE_LEN__12daMovePipe_c
 8042f4e0 00000001 8042f4e0 0 @GUARD@draw__15daObjPipeBase_cFv@sc_scale
+8042f4e8 00000001 8042f4e8 0 @GUARD@setLandSE__10daPlBase_cFv@scLandSeID
+8042f4e9 00000001 8042f4e9 0 @GUARD@setSlipSE__10daPlBase_cFv@scSlipSeID
+8042f4ea 00000001 8042f4ea 0 @GUARD@setTurnSmokeEffect__10daPlBase_cFv@scTurnSeID
+8042f4eb 00000001 8042f4eb 0 @GUARD@setFootSound__10daPlBase_cFv@scFootSeID
 8042f4f4 00000004 8042f4f4 0 mspInstance__13daPyDemoMng_c
 8042f4f8 00000004 8042f4f8 0 ms_num_of_instance__17dAcPy_HIO_Speed_c
 8042f500 00000004 8042f500 0 mNum__9daPyMng_c
@@ -18236,6 +18246,8 @@
 8042f728 00000004 8042f728 0 DVD__4dDyl
 8042f730 00000001 8042f730 0 @GUARD@create__18dEffBigBlockFrag_cFv@l_posdiff_dt
 8042f731 00000001 8042f731 0 @GUARD@create__18dEffBigBlockFrag_cFv@l_speed_tbl@0
+8042f738 00000001 8042f738 0 @GUARD@initSpeed__13dEffIceFrag_cFv@cs_speed_tbl
+8042f740 00000001 8042f740 0 @GUARD@initSpeed__14dEffWanChain_cFv@cs_speed_tbl
 8042f748 00000004 8042f748 0 m_instance__14dEffActorMng_c
 8042f750 00000008 8042f750 0 ms_linkManager__14dEffActorMng_c
 8042f759 00000001 8042f759 0 m_firstCalc__15EffectManager_c
