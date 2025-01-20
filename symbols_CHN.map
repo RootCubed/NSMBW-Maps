@@ -7038,6 +7038,7 @@
 8012f550 0000016c 8012f550 0 setSpinLiftUpReserve__7dAcPy_cFv
 8012f870 00000090 8012f870 0 cancelCarry__7dAcPy_cFP8dActor_c
 8012f900 000000ac 8012f900 0 releaseCarryActor__7dAcPy_cFv
+8012f9b0 00000088 8012f9b0 0 setCarryOffFall__7dAcPy_cFPC7dAcPy_c
 8012fa40 0000007c 8012fa40 0 checkEnableThrow__7dAcPy_cFv
 8012fac0 000000bc 8012fac0 0 checkCarryThrow__7dAcPy_cFv
 8012fb80 00000114 8012fb80 0 initializeThrowCommonBase__7dAcPy_cFv
@@ -16840,6 +16841,7 @@
 8035846c 00000034 8035846c 0 StateID_Disappear__14daEnDfpakkun_c
 803584ac 00000034 803584ac 0 StateID_DieVanish__14daEnDfpakkun_c
 803584ec 00000034 803584ec 0 StateID_DieIceBreak__14daEnDfpakkun_c
+80358520 00000020 80358520 0 @LOCAL@setMoveSpeed__14daEnDfpakkun_cFi@cs_move_speed
 80358550 00000030 80358550 0 StateID_Search__10daEnDoor_c
 80358590 00000030 80358590 0 StateID_Open__10daEnDoor_c
 803585d0 00000030 803585d0 0 StateID_Close__10daEnDoor_c
@@ -16849,6 +16851,7 @@
 803586cc 00000034 803586cc 0 StateID_Appear__13daEnDpakkun_c
 8035870c 00000034 8035870c 0 StateID_Attack__13daEnDpakkun_c
 8035874c 00000034 8035874c 0 StateID_Disappear__13daEnDpakkun_c
+80358780 00000020 80358780 0 @LOCAL@setMoveSpeed__13daEnDpakkun_cFi@cs_move_speed
 803587a0 00000020 803587a0 0 l_hole_offset
 803587cc 00000034 803587cc 0 StateID_Wait__17daEnDpakkunBase_c
 8035880c 00000034 8035880c 0 StateID_Appear__17daEnDpakkunBase_c
@@ -16856,6 +16859,7 @@
 8035888c 00000034 8035888c 0 StateID_Disappear__17daEnDpakkunBase_c
 803588cc 00000034 803588cc 0 StateID_DieIceBreak__17daEnDpakkunBase_c
 8035890c 00000034 8035890c 0 StateID_DieVanish__17daEnDpakkunBase_c
+80358940 00000020 80358940 0 @LOCAL@checkQuakeDeath__17daEnDpakkunBase_cFv@cs_check_ofs
 8035896c 00000034 8035896c 0 StateID_DieOther__21daEnJimenPakkunBase_c
 803589ac 00000034 803589ac 0 StateID_DieIceBreak__21daEnJimenPakkunBase_c
 803589ec 00000034 803589ec 0 StateID_Attack__21daEnJimenPakkunBase_c
@@ -16912,6 +16916,7 @@
 803596cc 00000034 803596cc 0 StateID_StillForever__18daLiftDownOnBase_c
 8035970c 00000034 8035970c 0 StateID_NetWait__12daNetEnemy_c
 8035974c 00000034 8035974c 0 StateID_NetMove__12daNetEnemy_c
+80359780 0000000c 80359780 0 @LOCAL@draw__15daObjPipeBase_cFv@sc_scale
 8035979c 00000034 8035979c 0 StateID_None__10daPlBase_c
 803597dc 00000034 803597dc 0 StateID_Walk__10daPlBase_c
 8035981c 00000034 8035981c 0 StateID_Jump__10daPlBase_c
@@ -18122,8 +18127,12 @@
 8042f498 00000004 8042f498 0 m_instance__12dWipeDokan_c
 8042f4a0 00000004 8042f4a0 0 m_instance__12dWipeKuppa_c
 8042f4a8 00000004 8042f4a8 0 m_instance__12dWipeMario_c
+8042f4b8 00000001 8042f4b8 0 @GUARD@setMoveSpeed__14daEnDfpakkun_cFi@cs_move_speed
+8042f4c0 00000001 8042f4c0 0 @GUARD@setMoveSpeed__13daEnDpakkun_cFi@cs_move_speed
+8042f4c8 00000001 8042f4c8 0 @GUARD@checkQuakeDeath__17daEnDpakkunBase_cFv@cs_check_ofs
 8042f4d0 00000001 8042f4d0 0 @GUARD@createIceActor__16daEnTogezoBase_cFv@cs_size_tbl@0
 8042f4d8 00000004 8042f4d8 0 smc_CURVE_LINE_LEN__12daMovePipe_c
+8042f4e0 00000001 8042f4e0 0 @GUARD@draw__15daObjPipeBase_cFv@sc_scale
 8042f4f4 00000004 8042f4f4 0 mspInstance__13daPyDemoMng_c
 8042f4f8 00000004 8042f4f8 0 ms_num_of_instance__17dAcPy_HIO_Speed_c
 8042f500 00000004 8042f500 0 mNum__9daPyMng_c
