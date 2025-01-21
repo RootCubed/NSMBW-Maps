@@ -7125,9 +7125,11 @@
 80135c50 00000094 80135c50 0 setPoleShakeJump__7dAcPy_cFv
 80135cf0 00000114 80135cf0 0 executeState_Pole__7dAcPy_cFv
 80135e10 0000005c 80135e10 0 finalizeState_Pole__7dAcPy_cFv
+80135e70 000000b0 80135e70 0 setKaniActionInitHangHand__7dAcPy_cFv
 80135f20 000000c0 80135f20 0 setKaniHangAction__7dAcPy_cFv
 80135fe0 000000a8 80135fe0 0 setKaniWalkEffect__7dAcPy_cFv
 80136090 000000a8 80136090 0 setKaniHangEffect__7dAcPy_cFv
+80136140 000000e4 80136140 0 setKaniCliffCatchEffect__7dAcPy_cFv
 80136230 0000010c 80136230 0 initializeState_Kani__7dAcPy_cFv
 80136340 00000090 80136340 0 finalizeState_Kani__7dAcPy_cFv
 801363d0 00000104 801363d0 0 setKaniMoveSpeed__7dAcPy_cFb
@@ -16114,6 +16116,7 @@
 80329c38 0000000c 80329c38 0 g_profile_MASK
 80329c44 000000d4 80329c44 0 __vt__8daMask_c
 80329d40 00000018 80329d40 0 @LOCAL@jump_common__7dAcPy_cFv@l_JumpActionProc
+8032a068 00000030 8032a068 0 @LOCAL@executeState_Swim__7dAcPy_cFv@l_SwimActionProc
 8032a438 00000018 8032a438 0 @LOCAL@setChange__7dAcPy_cFi@l_changeInitProc
 8032a450 00000018 8032a450 0 @LOCAL@updateChange__7dAcPy_cFv@l_changeActionProc
 8032a468 0000002c 8032a468 0 l_cc_size_data
