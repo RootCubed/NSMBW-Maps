@@ -4638,6 +4638,8 @@
 800be690 000001b4 800be690 0 move__18daLiftAllHitDraw_cFR7mVec3_c
 800be850 00000094 800be850 0 draw__18daLiftAllHitDraw_cFv
 800be8f0 00000094 800be8f0 0 doDelete__18daLiftAllHitDraw_cFv
+800c04a0 0000006c 800c04a0 0 draw__23dLiftDownOnNormalDraw_cFRC6mMtx_c
+800c0510 0000004c 800c0510 0 setFrame__23dLiftDownOnNormalDraw_cFf
 800c0610 00000124 800c0610 0 modelset__23daLiftNormalModelDraw_cFv
 800c0740 000000f4 800c0740 0 repeat_set__23daLiftNormalModelDraw_cFv
 800c0840 0000002c 800c0840 0 center_pos_set__23daLiftNormalModelDraw_cFv
