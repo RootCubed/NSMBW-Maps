@@ -5930,6 +5930,7 @@
 800f9fa0 000000e4 800f9fa0 0 GetCourseTypeFromCourseNo__6dWmLibFi
 800fa090 0000003c 800fa090 0 IsCourseTypeStageFromCourseNo__6dWmLibFi
 800fa0d0 00000080 800fa0d0 0 GetPointTypeFromPointName__6dWmLibFPCc
+800fa150 00000064 800fa150 0 __searchMapObjFromName__6dWmLibFUsi
 800fa1c0 00000140 800fa1c0 0 SearchMapObjFromName__6dWmLibFPCc
 800fa300 0000003c 800fa300 0 SearchMapObjFromCourseNo__6dWmLibFii
 800fa490 00000074 800fa490 0 ConvertScreenPos__6dWmLibFPQ34nw4r4math4VEC3
