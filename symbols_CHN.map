@@ -5501,6 +5501,10 @@
 800e25e0 00000008 800e25e0 0 setFadeInFrame__8dScene_cFUs
 800e25f0 00000008 800e25f0 0 setFadeOutFrame__8dScene_cFUs
 800e2600 0000000c 800e2600 0 setFadeInOutFrame__8dScene_cFUs
+800e2610 00000118 800e2610 0 ScoreSet__11dScoreMng_cFR7mVec3_cUlii
+800e2730 0000017c 800e2730 0 ScoreSet__11dScoreMng_cFP8dActor_cUliff
+800e28b0 000000cc 800e28b0 0 ScoreSet2__11dScoreMng_cFR7mVec3_cUli
+800e2980 00000044 800e2980 0 ScoreSet2__11dScoreMng_cFP8dActor_cUliff
 800e2be0 00000024 800e2be0 0 getHeadTopPosP__7dAcPy_cFv
 800e2c10 00000170 800e2c10 0 GetScreenSize__7dScreenFv
 800e2d80 000000c4 800e2d80 0 GetScreenScale__7dScreenFffff
