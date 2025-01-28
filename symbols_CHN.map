@@ -4119,6 +4119,7 @@
 800aa150 0000004c 800aa150 0 deadProc__18dEnTorideKokoopa_cFv
 800aa1a0 000000bc 800aa1a0 0 calcJumpRate__18dEnTorideKokoopa_cFv
 800aa260 00000008 800aa260 0 getJumpDist__18dEnTorideKokoopa_cCFv
+800aa270 000000bc 800aa270 0 movelimitCheck__18dEnTorideKokoopa_cFf
 800aa330 000000d0 800aa330 0 moveRevise__18dEnTorideKokoopa_cFv
 800aa400 00000078 800aa400 0 wandCcCallback__18dEnTorideKokoopa_cFP5dCc_cP5dCc_c
 800aa480 000000cc 800aa480 0 calcAttackTarget__18dEnTorideKokoopa_cFv
@@ -7157,6 +7158,8 @@
 80136890 000001f0 80136890 0 KaniAction_Walk__7dAcPy_cFv
 80136a80 0000008c 80136a80 0 KaniAction_HangInit__7dAcPy_cFv
 80136b10 00000060 80136b10 0 KaniAction_JumpHangInit__7dAcPy_cFv
+80136b70 000000c4 80136b70 0 checkCliffHangFootGround__7dAcPy_cFv
+80136c40 000000e0 80136c40 0 checkCliffHangWater__7dAcPy_cFv
 80136d20 00000260 80136d20 0 KaniAction_Hang__7dAcPy_cFv
 80136f80 0000007c 80136f80 0 KaniAction_HangFall__7dAcPy_cFv
 80137000 00000078 80137000 0 KaniAction_HangUp__7dAcPy_cFv
