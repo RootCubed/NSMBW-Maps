@@ -3211,6 +3211,7 @@
 80087ec0 00000160 80087ec0 0 CopyPanelTexture__11dBgTexMng_cFPUsPUsiii
 80088020 00000054 80088020 0 SetKoopaStageFlag__11dBgTexMng_cFv
 80088080 00000004 80088080 0 drawXlu__11dBgTexMng_cFv
+800883c0 00000068 800883c0 0 YoshiDispOutDelete__11dBlockMng_cFv
 80088ee0 00000038 80088ee0 0 calcShake__10dBoatLog_cFv
 80088f20 000000ac 80088f20 0 init__10dBoatLog_cFv
 80088fd0 00000148 80088fd0 0 move__10dBoatLog_cFv
@@ -15253,6 +15254,10 @@
 802f2ab8 0000000c 802f2ab8 0 @LOCAL@createLayout__15dWarningOther_cFv@ANIME_INDEX_TBL@1
 802f2ac8 0000000c 802f2ac8 0 @LOCAL@createLayout__14dWarningYoKo_cFv@ANIME_INDEX_TBL@1
 802f2b00 00000010 802f2b00 0 @LOCAL@createLayout__12dWipeDokan_cFv@ANIME_INDEX_TBL@1
+802f2d00 0000000c 802f2d00 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_go_frame
+802f2d0c 0000000c 802f2d0c 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_ret_frame@0
+802f2d18 00000024 802f2d18 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_go_func@1
+802f2d3c 00000024 802f2d3c 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_ret_func@2
 802f2d90 00000018 802f2d90 0 @LOCAL@player_set__15daEnBlockMain_cFii@l_player_mode
 802f2e50 0000000c 802f2e50 0 l_bros_foot
 802f2e5c 0000000c 802f2e5c 0 l_bros_wall
@@ -16136,6 +16141,7 @@
 80329c44 000000d4 80329c44 0 __vt__8daMask_c
 80329d40 00000018 80329d40 0 @LOCAL@jump_common__7dAcPy_cFv@l_JumpActionProc
 8032a068 00000030 8032a068 0 @LOCAL@executeState_Swim__7dAcPy_cFv@l_SwimActionProc
+8032a178 00000054 8032a178 0 @LOCAL@executeState_Kani__7dAcPy_cFv@l_KaniActionProc
 8032a438 00000018 8032a438 0 @LOCAL@setChange__7dAcPy_cFi@l_changeInitProc
 8032a450 00000018 8032a450 0 @LOCAL@updateChange__7dAcPy_cFv@l_changeActionProc
 8032a468 0000002c 8032a468 0 l_cc_size_data
