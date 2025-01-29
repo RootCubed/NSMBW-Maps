@@ -2270,6 +2270,7 @@
 80054300 00000008 80054300 0 getHipAttackDamagePlayer__10daPlBase_cFv
 80054310 00000044 80054310 0 setHipAttackDamagePlayer__10daPlBase_cFP10daPlBase_c
 80054360 00000038 80054360 0 clearHipAttackDamagePlayer__10daPlBase_cFv
+800543a0 0000000c 800543a0 0 setNoHitObjBg__10daPlBase_cFP8dActor_ci
 800543e0 00000068 800543e0 0 setOldBGCross__10daPlBase_cFv
 80054450 00000068 80054450 0 clearBgCheckInfo__10daPlBase_cFv
 800544c0 000000fc 800544c0 0 bgCheck__10daPlBase_cFi
@@ -2417,6 +2418,7 @@
 8005c390 0000015c 8005c390 0 setHanabiEffect__13daPyDemoMng_cFv
 8005c4f0 000002dc 8005c4f0 0 executeGoalCastle__13daPyDemoMng_cFv
 8005c7d0 00000158 8005c7d0 0 calcGoalCenterPos__13daPyDemoMng_cFv
+8005c930 00000100 8005c930 0 setZoromeGoal__13daPyDemoMng_cFv
 8005ca30 000000a0 8005ca30 0 startControlDemoAll__13daPyDemoMng_cFv
 8005cad0 00000080 8005cad0 0 isAllPlayerControlDemo__13daPyDemoMng_cFv
 8005cb50 00000078 8005cb50 0 endControlDemoAll__13daPyDemoMng_cFi
@@ -4379,6 +4381,7 @@
 800b31e0 000000c0 800b31e0 0 calcXY__8dGameComFffs
 800b32a0 0000001c 800b32a0 0 getDispCenterX__8dGameComFv
 800b32c0 0000001c 800b32c0 0 getDispCenterY__8dGameComFv
+800b35b0 000000f8 800b35b0 0 getGlbPosToLyt__8dGameComFR7mVec3_c
 800b36b0 00000038 800b36b0 0 CreateBlueNumber__8dGameComFRC7mVec3_cii
 800b36f0 00000030 800b36f0 0 CreateRedNumber__8dGameComFRC7mVec3_ci
 800b3720 00000068 800b3720 0 CreateSmallScore__8dGameComFRC7mVec3_ciib
