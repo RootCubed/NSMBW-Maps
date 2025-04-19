@@ -1469,6 +1469,7 @@
 80037f40 0000000c 80037f40 0 baseID_WakeupReverse<10sStateID_c>__Fv_RC12sStateIDIf_c
 80037f50 0000000c 80037f50 0 baseID_WakeupTurn<10sStateID_c>__Fv_RC12sStateIDIf_c
 80037f60 00000144 80037f60 0 __ct__11daEnShell_cFv
+800380b0 00000040 800380b0 0 __dt__20UniqueFumiCheckInf_cFv
 800380f0 00000124 800380f0 0 __dt__11daEnShell_cFv
 80038220 000001a4 80038220 0 createShell__11daEnShell_cFPCcPCcPCcPCcf
 800383d0 000002fc 800383d0 0 calcShellMdl__11daEnShell_cFv
