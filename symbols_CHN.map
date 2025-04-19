@@ -1544,6 +1544,8 @@
 8003bff0 00000004 8003bff0 0 YoshiFumiScoreSet__11daEnShell_cFP8dActor_c
 8003c000 0000005c 8003c000 0 isSpinLiftUpEnable__11daEnShell_cFv
 8003c060 00000004 8003c060 0 boyonBegin__11daEnShell_cFv
+8003c070 00000010 8003c070 0 operate__20NonUniqueFumiCheck_cFRiP5dEn_cR12FumiCcInfo_c
+8003c080 00000040 8003c080 0 __dt__20NonUniqueFumiCheck_cFv
 8003c0c0 000005dc 8003c0c0 0 __sinit_\d_a_en_shell_cpp
 8003c6a0 00000058 8003c6a0 0 __dt__26sFStateID_c<11daEnShell_c>Fv
 8003c700 0000005c 8003c700 0 __dt__33sFStateVirtualID_c<11daEnShell_c>Fv
@@ -15693,6 +15695,7 @@
 8030a1e4 00000034 8030a1e4 0 __vt__28sFStateID_c<13daEnNetNoko_c>
 8030a44c 00000034 8030a44c 0 __vt__33sFStateID_c<18daEnObjCoinBlock_c>
 8030a490 00000300 8030a490 0 __vt__11daEnShell_c
+8030a790 00000010 8030a790 0 __vt__20NonUniqueFumiCheck_c
 8030a998 00000034 8030a998 0 __vt__33sFStateVirtualID_c<11daEnShell_c>
 8030a9cc 00000034 8030a9cc 0 __vt__26sFStateID_c<11daEnShell_c>
 8030aa00 0000000e 8030aa00 0 @STRING@kickEffect__11daEnShell_cF7mVec3_c
