@@ -3103,6 +3103,10 @@
 8007a800 000004b0 8007a800 0 calcScroll__5dBg_cFRC7mVec3_ci
 8007acb0 000000c4 8007acb0 0 calcMultiScroll__5dBg_cFi
 8007c030 000008e0 8007c030 0 initScroll__5dBg_cFv
+8007ca90 00000064 8007ca90 0 isRightPlayer__FP7dAcPy_cP7dAcPy_c
+8007cb00 00000064 8007cb00 0 isLeftPlayer__FP7dAcPy_cP7dAcPy_c
+8007cb70 00000018 8007cb70 0 isUpPlayer__FP7dAcPy_cP7dAcPy_c
+8007cb90 00000018 8007cb90 0 isDownPlayer__FP7dAcPy_cP7dAcPy_c
 8007e220 00000088 8007e220 0 getAreaUpLimitScroll__5dBg_cFv
 8007e2b0 0000000c 8007e2b0 0 __sinit_\d_bg_cpp
 8007e2c0 00000050 8007e2c0 0 __ct__17dBgActorManager_cFv
