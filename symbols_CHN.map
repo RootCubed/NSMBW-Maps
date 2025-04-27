@@ -3182,6 +3182,9 @@
 80081fd0 000000a4 80081fd0 0 __dt__14dBgParameter_cFv
 80082080 00000110 80082080 0 OnlyOneSetUp__14dBgParameter_cFv
 80082190 0000007c 80082190 0 OnlyOneDestroy__14dBgParameter_cFv
+80082210 0000004c 80082210 0 freeOneGetBuff__14dBgParameter_cFUsi
+80082260 00000020 80082260 0 getOneGetBuff__14dBgParameter_cFUsUsi
+80082280 00000020 80082280 0 setOneGetBuff__14dBgParameter_cFUsUsiUs
 800822a0 00000018 800822a0 0 clrSwData__14dBgParameter_cFv
 800822c0 00000054 800822c0 0 setNowScrollDir_X__14dBgParameter_cFv
 80082320 00000054 80082320 0 setNowScrollDir_Y__14dBgParameter_cFv
