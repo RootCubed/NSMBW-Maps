@@ -3079,6 +3079,8 @@
 80078720 0000008c 80078720 0 dBg_isCloudFlyPlayer__5dBg_cFv
 800787b0 00000110 800787b0 0 dBg_isCloudFlyPlayerMulti__5dBg_cFv
 800788c0 0000007c 800788c0 0 dBg_getUpLimitScroll__5dBg_cFUc
+80078940 00000030 80078940 0 dBg_getScrlAreaDataSize__5dBg_cFUc
+80078970 0000002c 80078970 0 dBg_getScrlAreaDataP__5dBg_cFUcUc
 80078ae0 000000c8 80078ae0 0 getMaxLeftPos__5dBg_cFv
 80078bb0 000000c8 80078bb0 0 getLeftLimit__5dBg_cFv
 80078c80 000000c8 80078c80 0 getMaxRightPos__5dBg_cFv
