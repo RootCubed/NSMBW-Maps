@@ -15268,9 +15268,12 @@
 802f2790 0000005c 802f2790 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@ANIME_INDEX_TBL@1
 802f27ec 0000000c 802f27ec 0 @LOCAL@createLayout__20dCourseSelectGuide_cFv@MESSAGE_DATA_TBL@5
 802f2840 00000030 802f2840 0 @LOCAL@execute__13dSmallScore_cFv@Proc_tbl
+802f2870 0000006c 802f2870 0 @LOCAL@MakeStart__13dSmallScore_cFv@SUB_ID_TBL
 802f28e0 0000002c 802f28e0 0 @LOCAL@createLayout__17dWarningBattery_cFv@ANIME_INDEX_TBL@1
 802f2910 00000020 802f2910 0 @LOCAL@createLayout__17dWarningBattery_cFv@MESSAGE_SUB_ID_DATA_TBL@5
 802f2998 00000050 802f2998 0 @LOCAL@createLayout__19dWarningErrorInfo_cFv@ANIME_INDEX_TBL@1
+802f29e8 0000001c 802f29e8 0 @LOCAL@initializeState_OpenAnimeEndWait__19dWarningErrorInfo_cFv@MESSAGE_MAIN_ID_TBL
+802f2a04 0000001c 802f2a04 0 @LOCAL@initializeState_OpenAnimeEndWait__19dWarningErrorInfo_cFv@MESSAGE_SUB_ID_TBL@0
 802f2a98 0000000c 802f2a98 0 @LOCAL@createLayout__17dWarningNunchuk_cFv@ANIME_INDEX_TBL@1
 802f2aa4 00000014 802f2aa4 0 @LOCAL@createLayout__17dWarningNunchuk_cFv@MESSAGE_SUB_ID_DATA_TBL@3
 802f2ab8 0000000c 802f2ab8 0 @LOCAL@createLayout__15dWarningOther_cFv@ANIME_INDEX_TBL@1
