@@ -42,7 +42,7 @@ with open('symbols_CHN.map') as f:
         if len(parts) != 5:
             print('Error: could not parse line: ' + line)
             continue
-        addr, size, _, align, name = parts
+        addr, size, _, _, name = parts
 
         if name.startswith('hash_'):
             continue
@@ -59,7 +59,7 @@ with open('symbols_CHN.map') as f:
         true_size = end_mapped_addr - start_mapped_addr + 1
         if true_size <= 0:
             continue
-        if start_mapped_addr >= start_addrs[curr_sec + 1][1]:
+        while start_mapped_addr >= start_addrs[curr_sec + 1][1]:
             curr_sec += 1
         sec_name = start_addrs[curr_sec][0]
         ty = 'function' if sec_name == '.text' or sec_name == '.init' else 'object'
