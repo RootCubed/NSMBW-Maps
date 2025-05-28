@@ -1,4 +1,3 @@
-import json
 import cw_demangler
 import subprocess
 
@@ -29,13 +28,17 @@ def main():
          'symbols_CHN.map', 'C', 'address-map.txt', 'maps',
          '--output-pattern', 'symbols_$VER$_dolphin.map']
     )
-         
+
     subprocess.check_output(
         ['python3', "./wii-code-tools/port_symbol_map.py",
          '--unmapped-address-behavior=drop',
          'symbols_CHN_rem.map', 'C', 'address-map.txt', 'maps',
          '--output-pattern', 'symbols_$VER$_rem_ghidra.map',
          '--output-format', 'ghidra']
+    )
+
+    subprocess.check_output(
+        ['python3', './make_objdiff_map.py']
     )
 
     print('Done!')
