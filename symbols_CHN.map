@@ -5204,6 +5204,7 @@
 800d64f0 000000e8 800d64f0 0 setBodyAnm__12dPyMdlBase_cFifff
 800d65e0 00000168 800d65e0 0 releaseBodyAnm__12dPyMdlBase_cFf
 800d6750 000000ec 800d6750 0 setCarryBodyAnm__12dPyMdlBase_cFf
+800d6840 00000044 800d6840 0 setSlopeBodyAnm__12dPyMdlBase_cFf
 800d68b0 00000004 800d68b0 0 setAnmBind__12dPyMdlBase_cFv
 800d68d0 00000244 800d68d0 0 setRideAnm__12dPyMdlBase_cFifff
 800d6c20 00000004 800d6c20 0 setTexAnmType__12dPyMdlBase_cFQ212dPyMdlBase_c12TexAnmType_e
