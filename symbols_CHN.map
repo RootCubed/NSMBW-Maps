@@ -2552,6 +2552,7 @@
 80060910 00000060 80060910 0 startMissBGM__9daPyMng_cFi
 80060970 00000024 80060970 0 startYoshiBGM__9daPyMng_cFv
 800609a0 00000078 800609a0 0 stopYoshiBGM__9daPyMng_cFv
+80060a20 00000088 80060a20 0 checkLastAlivePlayer__9daPyMng_cFv
 80060ab0 00000098 80060ab0 0 executeLastPlayer__9daPyMng_cFv
 80060b50 00000098 80060b50 0 executeLastAll__9daPyMng_cFv
 80060bf0 00000158 80060bf0 0 deleteCullingYoshi__9daPyMng_cFv
