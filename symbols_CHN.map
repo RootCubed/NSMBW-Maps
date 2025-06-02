@@ -15760,6 +15760,7 @@
 8030c450 00000128 8030c450 0 __vt__17daObjMoveOnBase_c
 8030c5b0 000000d4 8030c5b0 0 __vt__15daObjPipeBase_c
 8030c688 000000ec 8030c688 0 __vt__20daObjSpinChildBase_c
+8030c794 00000054 8030c794 0 @LOCAL@executeState_HipAttack__10daPlBase_cFv@l_HipActionProc
 8030d008 00000454 8030d008 0 __vt__10daPlBase_c
 8030d460 00000030 8030d460 0 __vt__49sFStateMgr_c<10daPlBase_c,20sStateMethodUsr_FI_c>
 8030d490 00000030 8030d490 0 __vt__79sStateMgr_c<10daPlBase_c,20sStateMethodUsr_FI_c,12sFStateFct_c,13sStateIDChk_c>
