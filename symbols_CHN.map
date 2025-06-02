@@ -3019,6 +3019,7 @@
 80071610 000002cc 80071610 0 checkDokanDown__5dBc_cFP7mVec3_cPi
 800718e0 000002b8 800718e0 0 checkDokanUp__5dBc_cFP7mVec3_cPi
 80071ba0 0000035c 80071ba0 0 checkDokanLR__5dBc_cFP7mVec3_cUcPiff
+80072a00 00000300 80072a00 0 checkRoofPlayer__5dBc_cFPC7mVec3_cPf
 80072d00 000000f0 80072d00 0 checkFootEnm__5dBc_cFv
 80072df0 0000004c 80072df0 0 checkWallEnm__5dBc_cFPf
 80072e40 000000a4 80072e40 0 setObjBgCheckFunc__5dBc_cFi
