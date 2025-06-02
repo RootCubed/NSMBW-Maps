@@ -1967,6 +1967,7 @@
 80048c80 00000004 80048c80 0 finalizeState_Turn__10daPlBase_cFv
 80048c90 00000004 80048c90 0 executeState_Turn__10daPlBase_cFv
 80048ca0 00000008 80048ca0 0 setHipAttackOnEnemy__10daPlBase_cFP7mVec3_c
+80048cb0 00000028 80048cb0 0 setVsPlHipAttackEffect__10daPlBase_cFv
 80048ce0 00000100 80048ce0 0 setHipAttackEffect__10daPlBase_cFv
 80048de0 00000098 80048de0 0 setHipAttackDropEffect__10daPlBase_cFv
 80048e80 00000024 80048e80 0 setHipBlockBreak__10daPlBase_cFv
