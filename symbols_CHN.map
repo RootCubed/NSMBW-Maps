@@ -19237,6 +19237,7 @@
 804310e8 00000004 804310e8 0 sc_MaxFallSpeed_Foot__10daPlBase_c
 804310ec 00000004 804310ec 0 sc_MaxFallDownSpeed__10daPlBase_c
 804310f0 00000004 804310f0 0 scTurnPowerUpRate__10daPlBase_c
+80431100 00000004 80431100 0 @LOCAL@getMukiAngle__10daPlBase_cFUc@scMukiAngle
 804311c0 00000004 804311c0 0 scDokanInSpeedX__10daPlBase_c
 804311c4 00000004 804311c4 0 scDokanInWidthX__10daPlBase_c
 804311c8 00000004 804311c8 0 scDokanInMoveSpeed__10daPlBase_c
