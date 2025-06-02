@@ -1958,6 +1958,7 @@
 80048480 00000098 80048480 0 setSlipAction_ToStoop__10daPlBase_cFv
 80048520 000000a0 80048520 0 setSlipAction_ToEnd__10daPlBase_cFv
 800485c0 00000048 800485c0 0 setSlipActionEnd__10daPlBase_cFv
+80048610 00000088 80048610 0 setSlipActionViewLimitEnd__10daPlBase_cFv
 800486a0 000002c0 800486a0 0 slipActionMove__10daPlBase_cFi
 80048ad0 00000124 80048ad0 0 checkTurn__10daPlBase_cFv
 80048c00 00000008 80048c00 0 isCarry__10daPlBase_cCFv
