@@ -2328,6 +2328,7 @@
 800578b0 00000040 800578b0 0 setZPositionDirect__10daPlBase_cFf
 800578f0 00000008 800578f0 0 offZPosSetNone__10daPlBase_cFv
 80057900 0000003c 80057900 0 setJumpAddSpeedF__10daPlBase_cFf
+800579b0 000000a4 800579b0 0 setDelayHelpJump__10daPlBase_cFv
 80057a60 00000040 80057a60 0 __dt__Q210daPlBase_c8jmpInf_cFv
 80057bb0 00000054 80057bb0 0 checkJumpTrigger__10daPlBase_cFv
 80057c10 00000008 80057c10 0 isNoDamage__10daPlBase_cFv
