@@ -15335,6 +15335,7 @@
 802f32ec 0000000c 802f32ec 0 l_fireball_head
 802f32f8 0000000c 802f32f8 0 l_fireball_wall
 802f3308 00000010 802f3308 0 l_cull_data
+802f3518 00000048 802f3518 0 @LOCAL@executeState_AnimePlay__10daPlBase_cFv@scDemoAnmFunc
 802f38a0 00000078 802f38a0 0 sc_player_mame__17dAcPy_HIO_Speed_c
 802f3918 00000078 802f3918 0 sc_player_mame_star__17dAcPy_HIO_Speed_c
 802f3990 00000078 802f3990 0 sc_player_normal__17dAcPy_HIO_Speed_c
