@@ -7240,6 +7240,7 @@
 80138df0 00000084 80138df0 0 initElecShock__7dAcPy_cFv
 80138e80 0000003c 80138e80 0 executeElecShock__7dAcPy_cFv
 80138ec0 000000a8 80138ec0 0 setElecEffect__7dAcPy_cFv
+80138f70 00000210 80138f70 0 setFlyDamageAction__7dAcPy_cFiP8dActor_c
 80139180 000002a4 80139180 0 initializeState_FlyDamage__7dAcPy_cFv
 80139430 0000006c 80139430 0 finalizeState_FlyDamage__7dAcPy_cFv
 801394a0 000003d0 801394a0 0 executeState_FlyDamage__7dAcPy_cFv
