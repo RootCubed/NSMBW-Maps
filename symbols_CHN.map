@@ -2043,6 +2043,7 @@
 8004b530 00000058 8004b530 0 getSakaMaxSpeedRatio__10daPlBase_cFUc
 8004b590 00000058 8004b590 0 getSakaStopAccele__10daPlBase_cFUc
 8004b5f0 00000058 8004b5f0 0 getSakaMoveAccele__10daPlBase_cFUc
+8004b650 00000058 8004b650 0 getIceSakaSlipOffSpeed__10daPlBase_cFv
 8004b6b0 000000e8 8004b6b0 0 setSandMoveSpeed__10daPlBase_cFv
 8004b7a0 00000270 8004b7a0 0 moveSpeedSet__10daPlBase_cFv
 8004ba10 000000b0 8004ba10 0 simpleMoveSpeedSet__10daPlBase_cFv
@@ -15336,6 +15337,10 @@
 802f32ec 0000000c 802f32ec 0 l_fireball_head
 802f32f8 0000000c 802f32f8 0 l_fireball_wall
 802f3308 00000010 802f3308 0 l_cull_data
+802f3418 0000003c 802f3418 0 l_sakaMaxSpeedRatio__29@unnamed@d_a_player_base_cpp@
+802f3454 0000003c 802f3454 0 l_sakaStopAccele__29@unnamed@d_a_player_base_cpp@
+802f3490 0000003c 802f3490 0 l_sakaMoveAccele__29@unnamed@d_a_player_base_cpp@
+802f34cc 0000003c 802f34cc 0 l_sakaSlipOffSpeed__29@unnamed@d_a_player_base_cpp@
 802f3518 00000048 802f3518 0 @LOCAL@executeState_AnimePlay__10daPlBase_cFv@scDemoAnmFunc
 802f38a0 00000078 802f38a0 0 sc_player_mame__17dAcPy_HIO_Speed_c
 802f3918 00000078 802f3918 0 sc_player_mame_star__17dAcPy_HIO_Speed_c
