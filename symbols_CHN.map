@@ -17612,6 +17612,7 @@
 8039b9c0 00000190 8039b9c0 0 Control
 8039bb60 00004000 8039bb60 0 ConfBuf
 8039fb60 00004000 8039fb60 0 ConfBufForFlush
+803a3b60 00000011 803a3b60 0 @LOCAL@SCGetProductModel__Fv@buf
 803a3b80 00000030 803a3b80 0 _wpadManageAlarm
 803a3bb0 00000010 803a3bb0 0 __rvl_p_wpadcb
 803a3bc0 00001000 803a3bc0 0 __wpadManageHandlerStack
