@@ -2274,6 +2274,7 @@
 800541b0 00000014 800541b0 0 setReductionBoyon__10daPlBase_cFv
 800541d0 000000c4 800541d0 0 calcReductionScale__10daPlBase_cFv
 800542a0 00000020 800542a0 0 getReductionModelScale__10daPlBase_cFv
+800542c0 0000000c 800542c0 0 setNoHitPlayer__10daPlBase_cFPC10daPlBase_ci
 800542d0 0000002c 800542d0 0 updateNoHitPlayer__10daPlBase_cFv
 80054300 00000008 80054300 0 getHipAttackDamagePlayer__10daPlBase_cFv
 80054310 00000044 80054310 0 setHipAttackDamagePlayer__10daPlBase_cFP10daPlBase_c
