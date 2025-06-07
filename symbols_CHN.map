@@ -2280,6 +2280,7 @@
 80054310 00000044 80054310 0 setHipAttackDamagePlayer__10daPlBase_cFP10daPlBase_c
 80054360 00000038 80054360 0 clearHipAttackDamagePlayer__10daPlBase_cFv
 800543a0 0000000c 800543a0 0 setNoHitObjBg__10daPlBase_cFP8dActor_ci
+800543b0 00000024 800543b0 0 calcNoHitObjBgTimer__10daPlBase_cFv
 800543e0 00000068 800543e0 0 setOldBGCross__10daPlBase_cFv
 80054450 00000068 80054450 0 clearBgCheckInfo__10daPlBase_cFv
 800544c0 000000fc 800544c0 0 bgCheck__10daPlBase_cFi
