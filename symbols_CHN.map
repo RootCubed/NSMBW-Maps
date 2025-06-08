@@ -14799,6 +14799,7 @@
 802d8e00 00000008 802d8e00 0 @248@__dt__Q23EGG14SimpleAudioMgrFv
 802d8e10 00000090 802d8e10 0 setupCallback__Q23EGG18AudioRmtSpeakerMgrFll
 802d8ea0 0000008c 802d8ea0 0 shutdownCallback__Q23EGG18AudioRmtSpeakerMgrFll
+802d8f30 00000084 802d8f30 0 add_task__Q23EGG18AudioRmtSpeakerMgrFlPFll_vb
 802d8fc0 0000007c 802d8fc0 0 doSetup__Q23EGG18AudioRmtSpeakerMgrFlPFll_v
 802d9040 00000048 802d9040 0 doShutdown__Q23EGG18AudioRmtSpeakerMgrFlPFll_v
 802d9090 000000c4 802d9090 0 calc__Q23EGG18AudioRmtSpeakerMgrFv
