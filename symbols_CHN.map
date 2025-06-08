@@ -1946,6 +1946,8 @@
 80047e10 00000004 80047e10 0 executeState_Land__10daPlBase_cFv
 80047e20 00000008 80047e20 0 checkCrouch__10daPlBase_cFv
 80047e30 00000120 80047e30 0 setCancelCrouch__10daPlBase_cFv
+80047f50 00000028 80047f50 0 checkStandUpRoofOnLift__10daPlBase_cFv
+80047f80 00000168 80047f80 0 checkStandUpRoof__10daPlBase_cFv
 800480f0 00000008 800480f0 0 getHeadBgPointData__10daPlBase_cFv
 80048100 00000008 80048100 0 getStandHeadBgPointY__10daPlBase_cFv
 80048110 00000004 80048110 0 initializeState_Crouch__10daPlBase_cFv
