@@ -5995,6 +5995,7 @@
 800fa150 00000064 800fa150 0 __searchMapObjFromName__6dWmLibFUsi
 800fa1c0 00000140 800fa1c0 0 SearchMapObjFromName__6dWmLibFPCc
 800fa300 0000003c 800fa300 0 SearchMapObjFromCourseNo__6dWmLibFii
+800fa3b0 0000007c 800fa3b0 0 SearchEnemy__6dWmLibFUsi
 800fa490 00000074 800fa490 0 ConvertScreenPos__6dWmLibFPQ34nw4r4math4VEC3
 800fa510 000000f0 800fa510 0 GetNormalizedScreenPos__6dWmLibFRC7mVec2_cRC7mVec2_cRC7mVec2_c
 800fa7d0 00000070 800fa7d0 0 CheckHalfAreaX__6dWmLibFRC7mVec3_c
