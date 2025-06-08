@@ -3874,6 +3874,13 @@
 8009f740 00000030 8009f740 0 initializeState__28sFStateID_c<13dEnemyCarry_c>CFR13dEnemyCarry_c
 8009f770 00000030 8009f770 0 executeState__28sFStateID_c<13dEnemyCarry_c>CFR13dEnemyCarry_c
 8009f7a0 00000030 8009f7a0 0 finalizeState__28sFStateID_c<13dEnemyCarry_c>CFR13dEnemyCarry_c
+8009f7d0 00000038 8009f7d0 0 calcPlFumiCnt__10dEnCombo_cFP8dActor_c
+8009f810 00000054 8009f810 0 calcPlStarCnt__10dEnCombo_cFP8dActor_c
+8009f870 00000038 8009f870 0 calcPlComboCnt__10dEnCombo_cFP8dActor_c
+8009f8b0 00000018 8009f8b0 0 getDamageScore__10dEnCombo_cCFv
+8009f8d0 00000014 8009f8d0 0 getQuakeScore__10dEnCombo_cCFi
+8009f8f0 00000060 8009f8f0 0 getComboScore__10dEnCombo_cFi
+8009f950 00000044 8009f950 0 setScore__10dEnCombo_cCFP8dActor_cii
 8009f9a0 0000000c 8009f9a0 0 baseID_DieFumi<10sStateID_c>__Fv_RC12sStateIDIf_c
 8009f9b0 0000000c 8009f9b0 0 baseID_DieFall<10sStateID_c>__Fv_RC12sStateIDIf_c
 8009f9c0 0000000c 8009f9c0 0 baseID_DieBigFall<10sStateID_c>__Fv_RC12sStateIDIf_c
