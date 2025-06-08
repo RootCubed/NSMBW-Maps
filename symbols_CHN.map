@@ -15758,6 +15758,7 @@
 8030a44c 00000034 8030a44c 0 __vt__33sFStateID_c<18daEnObjCoinBlock_c>
 8030a490 00000300 8030a490 0 __vt__11daEnShell_c
 8030a790 00000010 8030a790 0 __vt__20NonUniqueFumiCheck_c
+8030a7a0 00000010 8030a7a0 0 __vt__20UniqueFumiCheckInf_c
 8030a998 00000034 8030a998 0 __vt__33sFStateVirtualID_c<11daEnShell_c>
 8030a9cc 00000034 8030a9cc 0 __vt__26sFStateID_c<11daEnShell_c>
 8030aa00 0000000e 8030aa00 0 @STRING@kickEffect__11daEnShell_cF7mVec3_c
