@@ -15364,7 +15364,11 @@
 802f3454 0000003c 802f3454 0 l_sakaStopAccele__29@unnamed@d_a_player_base_cpp@
 802f3490 0000003c 802f3490 0 l_sakaMoveAccele__29@unnamed@d_a_player_base_cpp@
 802f34cc 0000003c 802f34cc 0 l_sakaSlipOffSpeed__29@unnamed@d_a_player_base_cpp@
+802f3508 0000000c 802f3508 0 @LOCAL@setHipAttackDropEffect__10daPlBase_cFv@sc_dropEffectScale
 802f3518 00000048 802f3518 0 @LOCAL@executeState_AnimePlay__10daPlBase_cFv@scDemoAnmFunc
+802f356c 0000000c 802f356c 0 @LOCAL@setSlipOnWaterEffect__10daPlBase_cFPQ23mEf13levelEffect_c@sc_runFootScale
+802f3578 0000000c 802f3578 0 @LOCAL@setTurnSmokeEffect__10daPlBase_cFv@sc_turnSmokeScale@1
+802f3584 0000000c 802f3584 0 @LOCAL@setRunFootEffect__10daPlBase_cFv@sc_runFootScale@0
 802f38a0 00000078 802f38a0 0 sc_player_mame__17dAcPy_HIO_Speed_c
 802f3918 00000078 802f3918 0 sc_player_mame_star__17dAcPy_HIO_Speed_c
 802f3990 00000078 802f3990 0 sc_player_normal__17dAcPy_HIO_Speed_c
@@ -19291,6 +19295,7 @@
 804311c8 00000004 804311c8 0 scDokanInMoveSpeed__10daPlBase_c
 804311cc 00000004 804311cc 0 scDokanWaitAnmFixFrame__10daPlBase_c
 804311d0 00000004 804311d0 0 scDokanOutTurnSpeed__29@unnamed@d_a_player_base_cpp@
+80431230 00000008 80431230 0 @LOCAL@isHitWallKinopioWalk__10daPlBase_cFi@scViewHitFlag
 80431340 00000004 80431340 0 smc_MAX_SPEED__13daSinkDokan_c
 80431388 00000004 80431388 0 smc_CULL_XLIMIT__8dActor_c
 8043138c 00000004 8043138c 0 smc_CULL_YLIMIT__8dActor_c
