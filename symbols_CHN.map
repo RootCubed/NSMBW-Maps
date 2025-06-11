@@ -15369,6 +15369,10 @@
 802f356c 0000000c 802f356c 0 @LOCAL@setSlipOnWaterEffect__10daPlBase_cFPQ23mEf13levelEffect_c@sc_runFootScale
 802f3578 0000000c 802f3578 0 @LOCAL@setTurnSmokeEffect__10daPlBase_cFv@sc_turnSmokeScale@1
 802f3584 0000000c 802f3584 0 @LOCAL@setRunFootEffect__10daPlBase_cFv@sc_runFootScale@0
+802f3590 0000001c 802f3590 0 @LOCAL@setSoundPlyMode__10daPlBase_cFv@scPlayerSound
+802f35e0 0000000c 802f35e0 0 @LOCAL@initDemoInDokanLR__10daPlBase_cFUc@l_dokanOffset
+802f35f0 00000010 802f35f0 0 @LOCAL@executeDemoGoal_KimePose__10daPlBase_cFv@scGoalCoin
+802f3620 0000000c 802f3620 0 @LOCAL@getWaterCheckPosY__10daPlBase_cFv@scWaterOffsetY
 802f38a0 00000078 802f38a0 0 sc_player_mame__17dAcPy_HIO_Speed_c
 802f3918 00000078 802f3918 0 sc_player_mame_star__17dAcPy_HIO_Speed_c
 802f3990 00000078 802f3990 0 sc_player_normal__17dAcPy_HIO_Speed_c
