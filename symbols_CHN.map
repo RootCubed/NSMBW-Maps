@@ -15492,6 +15492,7 @@
 802fa390 00000010 802fa390 0 scBcHead__23@unnamed@d_a_yoshi_cpp@
 802fa3a0 00000010 802fa3a0 0 scBcWall__23@unnamed@d_a_yoshi_cpp@
 802fa3b0 00000030 802fa3b0 0 scBgPointData_Normal
+802fa3e0 00000030 802fa3e0 0 scBgPointData_Squat
 802fa490 00000010 802fa490 0 @LOCAL@createLayout__14dGameDisplay_cFv@MESSAGE_DATA_TBL@6
 802fa528 0000002c 802fa528 0 @LOCAL@create__13Pausewindow_cFv@ANIME_INDEX_TBL@1
 802fa588 0000000c 802fa588 0 s_GameHeapNames__5mHeap
