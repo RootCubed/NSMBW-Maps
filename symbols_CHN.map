@@ -3994,6 +3994,7 @@
 800a4140 00000008 800a4140 0 getJr__16dEnJrClownBase_cCFv
 800a4150 00000008 800a4150 0 getPilot__16dEnJrClownBase_cCFv
 800a4160 000000b4 800a4160 0 addVerticalForce__16dEnJrClownBase_cFf
+800a4220 00000110 800a4220 0 addHorizontalForce__16dEnJrClownBase_cFffi
 800a4330 00000094 800a4330 0 setBoundSpeed__16dEnJrClownBase_cFRC7mVec2_c
 800a43d0 00000008 800a43d0 0 getWeight__16dEnJrClownBase_cCFv
 800a43e0 00000070 800a43e0 0 setBoundSpeedX__16dEnJrClownBase_cFf
