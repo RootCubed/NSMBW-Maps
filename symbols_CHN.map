@@ -4059,6 +4059,7 @@
 800a6a90 00000008 800a6a90 0 getAddVerticalForce__16dEnJrClownBase_cCFv
 800a6ad0 00000008 800a6ad0 0 getClownType__16dEnJrClownBase_cFv
 800a6ae0 00000014 800a6ae0 0 isStrongAttacking__16dEnJrClownBase_cCFv
+800a6b00 00000008 800a6b00 0 setHorizontalSpeed__16dEnJrClownBase_cFf
 800a6b10 00000008 800a6b10 0 setVerticalSpeed__16dEnJrClownBase_cFf
 800a6b20 000000a4 800a6b20 0 isDamaging__16dEnJrClownBase_cCFv
 800a6bd0 00000008 800a6bd0 0 getType__Q23m3d8anmVis_cCFv
