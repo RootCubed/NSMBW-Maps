@@ -2317,6 +2317,7 @@
 80056aa0 000001f0 80056aa0 0 checkInsideCrossBg__10daPlBase_cFf
 80056c90 00000008 80056c90 0 getFootBgPointData__10daPlBase_cFv
 80056cb0 0000004c 80056cb0 0 isMameAction__10daPlBase_cFv
+80056d00 00000008 80056d00 0 isLiftUpExceptMame__10daPlBase_cFv
 80056d10 00000034 80056d10 0 setStatus__10daPlBase_cFi
 80056d50 0000003c 80056d50 0 onStatus__10daPlBase_cFi
 80056d90 0000003c 80056d90 0 offStatus__10daPlBase_cFi
