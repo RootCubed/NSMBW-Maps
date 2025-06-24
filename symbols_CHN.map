@@ -4947,7 +4947,7 @@
 800b8200 000000f4 800b8200 0 __dt__14dHanaBigHead_cFv
 800b8300 000000b8 800b8300 0 __dt__14dHanaBigBody_cFv
 800b83c0 00000018 800b83c0 0 __sinit_\d_hana_body_cpp
-800b83e0 0000002c 800b83e0 0 hash_491C9E88_75D59223
+800b83e0 0000002c 800b83e0 0 init__13dIceEfMaker_cFiP13dIceEfScale_c
 800b8410 0000009c 800b8410 0 execute__13dIceEfMaker_cFv
 800b84b0 00000004 800b84b0 0 fin__13dIceEfMaker_cFv
 800b84c0 00000084 800b84c0 0 setEfScale__13dIceEfMaker_cFRC13dIceEfScale_c
