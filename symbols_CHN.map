@@ -4964,7 +4964,7 @@
 800b8bd0 0000005c 800b8bd0 0 setTime__9dIceMng_cFv
 800b8c30 0000007c 800b8c30 0 setNonMeltTime__9dIceMng_cFv
 800b8cb0 00000064 800b8cb0 0 checkMeltShake__9dIceMng_cCFv
-800b8d20 00000090 800b8d20 0 hash_0FD7D982_F1893C66
+800b8d20 00000090 800b8d20 0 checkInstantBreak__9dIceMng_cFi
 800b8db0 00000080 800b8db0 0 setMeltShake__9dIceMng_cFv
 800b8e30 00000080 800b8e30 0 stopMeltShake__9dIceMng_cFv
 800b8eb0 00000074 800b8eb0 0 breakEffect__9dIceMng_cFv
@@ -7638,7 +7638,7 @@
 8011d610 00000060 8011d610 0 initWeight__7daIce_cFv
 8011d670 00000314 8011d670 0 initCollision__7daIce_cFv
 8011d990 000000b0 8011d990 0 initEffect__7daIce_cF13dIceEfScale_c
-8011da40 0000006c 8011da40 0 hash_AF0B4329_1844B8C3
+8011da40 0000006c 8011da40 0 checkInstantBreak__7daIce_cFi
 8011dab0 0000015c 8011dab0 0 checkPlayerIn__7daIce_cFv
 8011dc10 000001d8 8011dc10 0 checkBgIn__7daIce_cFv
 8011ddf0 000001e4 8011ddf0 0 calcLandLine__7daIce_cFRf
