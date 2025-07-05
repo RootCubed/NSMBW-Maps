@@ -6341,7 +6341,7 @@
 800eb1c0 00000048 800eb1c0 0 executeWater__12dWaterDraw_cFv
 800eb210 00000054 800eb210 0 hash_5CBDFE72_C0BB435B
 800eb270 00000268 800eb270 0 drawWater__12dWaterDraw_cFUc
-800eb4e0 000000f4 800eb4e0 0 hash_BADA46CD_55AEB18B
+800eb4e0 000000f4 800eb4e0 0 color_insert__12dWaterDraw_cF11_GXTevRegID14_GXTevKColorIDUc
 800eb5e0 000000f4 800eb5e0 0 color_insert_heat__12dWaterDraw_cF11_GXTevRegID14_GXTevKColorIDUc
 800eb6e0 000000a8 800eb6e0 0 repeat_calc__12dWaterDraw_cFP7mVec3_cff
 800eb790 0000024c 800eb790 0 model_set__12dWaterDraw_cFUc
