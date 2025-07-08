@@ -4819,7 +4819,7 @@
 800b4350 0000013c 800b4350 0 SetSoftLight_Enemy__8dGameComFRQ23m3d6bmdl_ci
 800b4490 0000011c 800b4490 0 SetSoftLight_MapObj__8dGameComFRQ23m3d6bmdl_ci
 800b45b0 000000fc 800b45b0 0 SetSoftLight_Item__8dGameComFRQ23m3d6bmdl_ci
-800b46b0 00000064 800b46b0 0 hash_F609347B_5F619179
+800b46b0 00000064 800b46b0 0 SelectCursorSetup__8dGameComFPQ34nw4r3lyt4Paneib
 800b4720 00000060 800b4720 0 EasyPairingStop__8dGameComFv
 800b4780 00000050 800b4780 0 EasyPairingResume__8dGameComFv
 800b47d0 00000004 800b47d0 0 GetLanguageX__8dGameComFv
@@ -7278,8 +7278,8 @@
 8010d3a0 0000007c 8010d3a0 0 doDelete__15dSelectCursor_cFv
 8010d420 00000270 8010d420 0 PosSet__15dSelectCursor_cFi
 8010d690 0000006c 8010d690 0 Cancel__15dSelectCursor_cFi
-8010d700 000001b0 8010d700 0 hash_D912FD28_0C2928B0
-8010d8b0 00000030 8010d8b0 0 hash_F8B86F44_95E2F05C
+8010d700 000001b0 8010d700 0 SetPane__15dSelectCursor_cFPCQ34nw4r3lyt4Paneib
+8010d8b0 00000030 8010d8b0 0 SetAlpha__15dSelectCursor_cFPCQ34nw4r3lyt4Panei
 8010d8e0 00000030 8010d8e0 0 dSmallScoreManager_c_classInit__Fv
 8010d910 00000090 8010d910 0 __ct__20dSmallScoreManager_cFv
 8010d9a0 000000a4 8010d9a0 0 __dt__20dSmallScoreManager_cFv
