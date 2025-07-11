@@ -4333,7 +4333,7 @@
 800a4790 00000094 800a4790 0 startWink__16dEnJrClownBase_cFv
 800a4830 000000e4 800a4830 0 calcWink__16dEnJrClownBase_cFv
 800a4920 00000068 800a4920 0 startHitShake__16dEnJrClownBase_cFv
-800a4990 00000068 800a4990 0 hash_90E27539_B8A2FD3B
+800a4990 00000068 800a4990 0 startPoyonAnim__16dEnJrClownBase_cFv
 800a4a00 0000010c 800a4a00 0 getFireSpan__16dEnJrClownBase_cFv
 800a4b10 00000058 800a4b10 0 endFire__16dEnJrClownBase_cFv
 800a4b70 000000e4 800a4b70 0 createSpinEffect__16dEnJrClownBase_cFv
