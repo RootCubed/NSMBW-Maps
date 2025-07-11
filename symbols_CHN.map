@@ -7453,10 +7453,10 @@
 80113330 000000ac 80113330 0 createItem__19daEnHatenaBalloon_cFv
 801133e0 000000a0 801133e0 0 break_balloon__19daEnHatenaBalloon_cFs
 80113480 0000008c 80113480 0 player_set__19daEnHatenaBalloon_cFv
-80113510 0000028c 80113510 0 hash_590D8D81_EA5BC0FD
+80113510 0000028c 80113510 0 pointBgCheck__19daEnHatenaBalloon_cFRC7mVec3_cUlUlUl
 801137a0 0000003c 801137a0 0 goalpole_check__19daEnHatenaBalloon_cFv
 801137e0 00000214 801137e0 0 floor_check__19daEnHatenaBalloon_cFv
-80113a00 00000164 80113a00 0 hash_49CB9F1A_E5295166
+80113a00 00000164 80113a00 0 all_bgcheck__19daEnHatenaBalloon_cFRUc
 80113b70 000001ac 80113b70 0 fly_yspeed_set__19daEnHatenaBalloon_cFv
 80113d20 00000164 80113d20 0 fly_xspeed_set__19daEnHatenaBalloon_cFb
 80113e90 000000dc 80113e90 0 fly_ydisp_check__19daEnHatenaBalloon_cFb
