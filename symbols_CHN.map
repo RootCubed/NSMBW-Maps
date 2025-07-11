@@ -8151,7 +8151,7 @@
 80139180 000002a4 80139180 0 initializeState_FlyDamage__7dAcPy_cFv
 80139430 0000006c 80139430 0 finalizeState_FlyDamage__7dAcPy_cFv
 801394a0 000003d0 801394a0 0 executeState_FlyDamage__7dAcPy_cFv
-80139870 000001a0 80139870 0 hash_55CC5CF0_5F220A2A
+80139870 000001a0 80139870 0 setBreakBalloonJump__7dAcPy_cFUcs
 80139a10 00000094 80139a10 0 setDrawBalloonInPlayer__7dAcPy_cFR7mVec3_c
 80139ab0 00000038 80139ab0 0 isNotBalloonCourse__7dAcPy_cFv
 80139af0 00000200 80139af0 0 initializeState_Balloon__7dAcPy_cFv
