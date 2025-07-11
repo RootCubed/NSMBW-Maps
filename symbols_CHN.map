@@ -7312,7 +7312,7 @@
 8010e7d0 000000b0 8010e7d0 0 NunchukDispSetup__17dWarningManager_cFi
 8010e880 000000b0 8010e880 0 YoKoDispSetup__17dWarningManager_cFi
 8010e930 000000b0 8010e930 0 OtherDispSetup__17dWarningManager_cFi
-8010e9e0 00000058 8010e9e0 0 hash_8B40AE86_30184DE5
+8010e9e0 00000058 8010e9e0 0 HitAnyKey__17dWarningManager_cFv
 8010ea40 00000020 8010ea40 0 GotoWarningCheck__17dWarningManager_cFv
 8010ea60 0000003c 8010ea60 0 ForbidCheck__17dWarningManager_cFv
 8010eaa0 000000e4 8010eaa0 0 SaveErrorDispSetup__17dWarningManager_cFv
