@@ -6736,7 +6736,7 @@
 800fc560 0000003c 800fc560 0 procRestoreAllKinokoHouse__6dWmLibFv
 800fc5a0 0000007c 800fc5a0 0 isKinopioHouseUsed__6dWmLibFv
 800fc620 00000070 800fc620 0 procRestoreKinokoHouse__6dWmLibFi
-800fc690 0000005c 800fc690 0 hash_2C712833_9C1570B8
+800fc690 0000005c 800fc690 0 procClearCourseDataFlag__6dWmLibFiii
 800fc6f0 00000078 800fc6f0 0 getKoopaShipWorld__6dWmLibFv
 800fc770 00000040 800fc770 0 hash_55A6D472_2FF021E1
 800fc7b0 00000048 800fc7b0 0 isKoopaShipAnchor__6dWmLibFv
