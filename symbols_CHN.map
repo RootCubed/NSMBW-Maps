@@ -4423,7 +4423,7 @@
 800a7a40 00000030 800a7a40 0 setNoGetItemTimer__11dEnemyMng_cFi
 800a7a70 00000038 800a7a70 0 getNoGetItemTimer__11dEnemyMng_cFi
 800a7ab0 000000c4 800a7ab0 0 search_magkiller_line_check__11dEnemyMng_cFiUc
-800a7b80 00000244 800a7b80 0 hash_8E70D467_B5EBCD5D
+800a7b80 00000244 800a7b80 0 search_magkiller_entry__11dEnemyMng_cFfPfUc
 800a7dd0 0000000c 800a7dd0 0 clrQuakeComboCount__11dEnemyMng_cFv
 800a7de0 00000058 800a7de0 0 incQuakeComboCount__11dEnemyMng_cFi
 800a7e40 000000c4 800a7e40 0 breakdownSE__11dEnemyMng_cFiRC7mVec3_c
