@@ -5037,8 +5037,8 @@
 800bbed0 0000001c 800bbed0 0 SetMapEnemyInfo__7dInfo_cFiiii
 800bbef0 00000018 800bbef0 0 hash_0A406FBE_915302B4
 800bbf10 00000034 800bbf10 0 GetMapEnemyInfo__7dInfo_cFiiRQ27dInfo_c7enemy_s
-800bbf50 00000010 800bbf50 0 hash_2E37A2E4_57E23A56
-800bbf60 00000010 800bbf60 0 hash_9F1989F5_EA7B6447
+800bbf50 00000010 800bbf50 0 SetIbaraNow__7dInfo_cFiQ27dInfo_c11IbaraMode_e
+800bbf60 00000010 800bbf60 0 SetIbaraOld__7dInfo_cFiQ27dInfo_c11IbaraMode_e
 800bbf70 00000010 800bbf70 0 GetIbaraNow__7dInfo_cFi
 800bbf80 00000010 800bbf80 0 GetIbaraOld__7dInfo_cFi
 800bbf90 0000007c 800bbf90 0 __sinit_\d_info_cpp
