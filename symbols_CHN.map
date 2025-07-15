@@ -5091,8 +5091,8 @@
 800bda70 00000008 800bda70 0 setPropelRollSpeed__12dPlayerMdl_cFs
 800bda80 00000008 800bda80 0 getAnmResFile__12dPlayerMdl_cCFv
 800bda90 00000008 800bda90 0 getFaceJointIdx__12dPlayerMdl_cCFv
-800bdaa0 000001c4 800bdaa0 0 hash_BE5E1F24_49198566
-800bdc70 00000690 800bdc70 0 hash_3B6ACA82_34459000
+800bdaa0 000001c4 800bdaa0 0 toge_hline_texset__18daLiftAllHitDraw_cFiiff
+800bdc70 00000690 800bdc70 0 hline_texset__18daLiftAllHitDraw_cFiiff
 800be300 00000340 800be300 0 texset__18daLiftAllHitDraw_cFv
 800be640 00000050 800be640 0 init__18daLiftAllHitDraw_cFv
 800be690 000001b4 800be690 0 move__18daLiftAllHitDraw_cFR7mVec3_c
