@@ -6825,7 +6825,7 @@
 800fe790 00000070 800fe790 0 __sinit_\d_wm_player_base_cpp
 800fe800 0000001c 800fe800 0 __arraydtor$67275
 800fe820 00000008 800fe820 0 set__13dWmViewClip_cFffffRC6mMtx_c
-800fe830 00000008 800fe830 0 hash_06FDF373_B9701C93
+800fe830 00000008 800fe830 0 CheckClipSphere__13dWmViewClip_cFPC9mSphere_c
 800fe840 00000008 800fe840 0 getHeadP__6dWorldFv
 800fe850 000000a4 800fe850 0 link__6dWorldFv
 800fe900 000000ac 800fe900 0 unlink__6dWorldFv
