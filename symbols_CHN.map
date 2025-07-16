@@ -6566,7 +6566,7 @@
 800f6f60 000000fc 800f6f60 0 CalcShadow__14dWmDemoActor_cFffff
 800f7060 0000000c 800f7060 0 CalcShadow__14dWmDemoActor_cFff
 800f7070 00000020 800f7070 0 DrawShadow__14dWmDemoActor_cFb
-800f7090 000000a4 800f7090 0 hash_CC9E1156_2AE42B14
+800f7090 000000a4 800f7090 0 _initDemoJumpBaseCore__14dWmDemoActor_cFRC7mVec3_ciifffRCs
 800f7140 000000bc 800f7140 0 _initDemoJumpBase__14dWmDemoActor_cFRC7mVec3_ciifffRC7mVec3_c
 800f7200 0000009c 800f7200 0 _procDemoJumpBase__14dWmDemoActor_cFv
 800f72a0 000000e8 800f72a0 0 GetBgPosY__14dWmDemoActor_cFRC7mVec3_cRC7mVec3_ci
