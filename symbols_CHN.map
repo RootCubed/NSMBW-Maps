@@ -5135,8 +5135,8 @@
 800c0a50 00000060 800c0a50 0 move__23daLiftNormalModelDraw_cFRC7mVec3_cf
 800c0ab0 0000032c 800c0ab0 0 draw__23daLiftNormalModelDraw_cFv
 800c0de0 00000110 800c0de0 0 Init__6dLightFv
-800c0ef0 000000f8 800c0ef0 0 hash_55DC700C_DA6B51A6
-800c0ff0 00000080 800c0ff0 0 hash_81E43D9E_4FF1E29B
+800c0ef0 000000f8 800c0ef0 0 setFarLight__6dLightFiR6mColorR7mVec3_c
+800c0ff0 00000080 800c0ff0 0 setAmb__6dLightFiR6mColor
 800c1070 00000108 800c1070 0 __ct__10dLineMng_cFv
 800c1180 0000008c 800c1180 0 __dt__77sFStateStateMgr_c<10dLineMng_c,20sStateMethodUsr_FI_c,20sStateMethodUsr_FI_c>Fv
 800c1210 00000088 800c1210 0 __dt__91sStateStateMgr_c<10dLineMng_c,12sFStateMgr_c,20sStateMethodUsr_FI_c,20sStateMethodUsr_FI_c>Fv
