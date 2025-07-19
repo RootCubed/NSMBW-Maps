@@ -9439,10 +9439,10 @@
 8016ca60 00000038 8016ca60 0 init__12mAllocator_cFPQ23EGG4Heap
 8016caa0 0000003c 8016caa0 0 __ct__16mHeapAllocator_cFv
 8016cae0 0000006c 8016cae0 0 __dt__16mHeapAllocator_cFv
-8016cb50 00000084 8016cb50 0 hash_4E7B38A7_7BF4C1CA
+8016cb50 00000084 8016cb50 0 createFrmHeap__16mHeapAllocator_cFUlPQ23EGG4HeapPCcUlQ25mHeap13AllocOptBit_t
 8016cbe0 0000005c 8016cbe0 0 destroyHeap__16mHeapAllocator_cFv
 8016cc40 00000074 8016cc40 0 adjustFrmHeap__16mHeapAllocator_cFv
-8016ccc0 0000004c 8016ccc0 0 hash_F5EA5F95_43635438
+8016ccc0 0000004c 8016ccc0 0 createFrmHeapToCurrent__16mHeapAllocator_cFUlPQ23EGG4HeapPCcUlQ25mHeap13AllocOptBit_t
 8016cd10 00000064 8016cd10 0 adjustFrmHeapRestoreCurrent__16mHeapAllocator_cFv
 8016cd80 0000004c 8016cd80 0 __sinit_\m_angle_cpp
 8016cdd0 00000114 8016cdd0 0 hash_DA7FAFE8_28CB438F
