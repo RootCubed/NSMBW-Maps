@@ -26676,7 +26676,7 @@
 8042dfa0 00000006 8042dfa0 0 @65566
 8042dfa8 00000008 8042dfa8 0 l_stage_list__6dStage
 8042dfb0 00000004 8042dfb0 0 l_AspectRatio__6mVideo
-8042dfb8 00000008 8042dfb8 0 hash_2CB09D6B_20F518A7
+8042dfb8 00000008 8042dfb8 0 @LOCAL@createMdl__17dWanKusariPiece_cFR16mHeapAllocator_c@cs_mdl_name
 8042dfc0 00000007 8042dfc0 0 @63947
 8042dfc8 00000005 8042dfc8 0 @57730
 8042dfd0 00000004 8042dfd0 0 sc_AnimeRootNodeName__6dWmLib
