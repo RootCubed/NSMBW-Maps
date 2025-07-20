@@ -6384,7 +6384,7 @@
 800ef980 00000134 800ef980 0 isSwitchAnimStop__13dWmMapModel_cFv
 800efac0 000000b4 800efac0 0 playLoadToKoopaCastleAnim__13dWmMapModel_cFv
 800efb80 00000140 800efb80 0 isLoadToKoopaCastleAnimStop__13dWmMapModel_cFv
-800efcc0 0000018c 800efcc0 0 hash_07ED2624_BF2C77DB
+800efcc0 0000018c 800efcc0 0 setAntlion__13dWmMapModel_cFbib
 800efe50 00000068 800efe50 0 endAntlionEffect__13dWmMapModel_cFv
 800efec0 00000114 800efec0 0 __CreateBlendAnim__13dWmMapModel_cFP16mHeapAllocator_c
 800effe0 000000b0 800effe0 0 playColorAnim__13dWmMapModel_cFiff
@@ -6398,7 +6398,7 @@
 800f05b0 000000c4 800f05b0 0 __GetTranslateV__13dWmMapModel_cFPCc
 800f0680 000000dc 800f0680 0 SetTranslateV__13dWmMapModel_cFPCcf
 800f0760 00000080 800f0760 0 PlayMaskAnime__13dWmMapModel_cFPCcf
-800f07e0 000000d8 800f07e0 0 hash_4EF3021F_B02D975D
+800f07e0 000000d8 800f07e0 0 playExMaskRouteAnim__13dWmMapModel_cFPCcff
 800f08c0 00000034 800f08c0 0 IsMaskAnimeFinish__13dWmMapModel_cFPCc
 800f0900 00000104 800f0900 0 calcMaskRouteAnim__13dWmMapModel_cFPCcf
 800f0a10 000000b8 800f0a10 0 SetRouteClrAnim__13dWmMapModel_cFPCci
@@ -6406,7 +6406,7 @@
 800f0b90 000000d0 800f0b90 0 SetRouteChrAnim__13dWmMapModel_cFPCci
 800f0c60 00000070 800f0c60 0 getChrAnmIndex__13dWmMapModel_cFPCc
 800f0cd0 000000a4 800f0cd0 0 SetRouteMaskAnim__13dWmMapModel_cFPCcf
-800f0d80 000000fc 800f0d80 0 hash_0F5F7164_9F082306
+800f0d80 000000fc 800f0d80 0 setRate_ChrAnm__13dWmMapModel_cFPCcff
 800f0e80 000000c8 800f0e80 0 isStop_ChrAnm__13dWmMapModel_cFv
 800f0f50 00000060 800f0f50 0 isStop_ChrAnm__13dWmMapModel_cFPCc
 800f0fb0 00000178 800f0fb0 0 playCharaAnimSe__13dWmMapModel_cFPCc
