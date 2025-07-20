@@ -291,7 +291,7 @@
 800129e0 00000030 800129e0 0 initializeState__35sFStateID_c<20dCourseSelectGuide_c>CFR20dCourseSelectGuide_c
 80012a10 0000183c 80012a10 0 __sinit_\d_CourseSelectGuide_cpp
 80014250 0000001c 80014250 0 __arraydtor$64535
-80014270 00000040 80014270 0 hash_56FF48CF_94AB6917
+80014270 00000040 80014270 0 __dt__Q26dWmLib19ForceInCourseList_tFv
 800142b0 00000058 800142b0 0 __dt__35sFStateID_c<20dCourseSelectGuide_c>Fv
 80014310 00000088 80014310 0 isSameName__35sFStateID_c<20dCourseSelectGuide_c>CFPCc
 800143a0 0000000c 800143a0 0 __ct__13GXStateSave_cFv
