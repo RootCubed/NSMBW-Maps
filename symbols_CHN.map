@@ -5060,7 +5060,7 @@
 800bc8a0 00000028 800bc8a0 0 calc_mid_half_width__17dKinokoKasaDraw_cFff
 800bc8d0 000000d4 800bc8d0 0 hash_AAFE801E_A45BC727
 800bc9b0 00000298 800bc9b0 0 draw__17dKinokoKasaDraw_cFRC6mMtx_cf
-800bcc50 000000e8 800bcc50 0 hash_77D91659_58C9A732
+800bcc50 000000e8 800bcc50 0 createMdl__15dKinokoliftDr_cFP12mAllocator_cffUs
 800bcd40 00000018 800bcd40 0 calc__15dKinokoliftDr_cFfUs
 800bcd60 00000110 800bcd60 0 draw__15dKinokoliftDr_cFRC7mVec3_cR6mMtx_cs
 800bce70 00000010 800bce70 0 remove__15dKinokoliftDr_cFv
