@@ -9493,11 +9493,11 @@
 8016dcc0 00000054 8016dcc0 0 execute__15mDvd_callback_cFv
 8016dd20 00000058 8016dd20 0 __dt__22mDvd_mountMemArchive_cFv
 8016dd80 00000074 8016dd80 0 __ct__22mDvd_mountMemArchive_cFUc
-8016de00 0000016c 8016de00 0 hash_C5830F50_C48C5535
+8016de00 0000016c 8016de00 0 ConvertPathToEntrynumASD___4mDvdFPCcPUc
 8016df70 00000008 8016df70 0 setAutoStreamDecomp__4mDvdFb
 8016df80 00000008 8016df80 0 isAutoStreamDecomp__4mDvdFv
 8016df90 00000080 8016df90 0 ConvertPathToEntrynum__4mDvdFPCcPUc
-8016e010 00000004 8016e010 0 hash_68AD9F91_D5B0E774
+8016e010 00000004 8016e010 0 ConvertPathToEntrynumWithWarning__4mDvdFPCcPUc
 8016e020 000000a0 8016e020 0 create__22mDvd_mountMemArchive_cFPCcUcPQ23EGG4Heap
 8016e0c0 000000f8 8016e0c0 0 execute__22mDvd_mountMemArchive_cFv
 8016e1c0 00000018 8016e1c0 0 getArcBinary__22mDvd_mountMemArchive_cCFv
