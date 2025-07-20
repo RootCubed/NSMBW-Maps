@@ -7941,7 +7941,7 @@
 8012d2d0 000002a8 8012d2d0 0 setWalkActionAnm__7dAcPy_cFQ210daPlBase_c10AnmBlend_e
 8012d580 000003bc 8012d580 0 setWaitActionAnm__7dAcPy_cFQ210daPlBase_c10AnmBlend_e
 8012d940 00000060 8012d940 0 isIceSlipAnmPlay__7dAcPy_cFv
-8012d9a0 00000338 8012d9a0 0 hash_273E8969_B1543260
+8012d9a0 00000338 8012d9a0 0 setNormalWalkAnm__7dAcPy_cFQ210daPlBase_c10AnmBlend_ef
 8012dce0 00000028 8012dce0 0 walkActionInit_Wait__7dAcPy_cFQ210daPlBase_c10AnmBlend_e
 8012dd10 00000118 8012dd10 0 walkAction_Wait__7dAcPy_cFv
 8012de30 0000001c 8012de30 0 calcTimer<s>__4sLibFPs_s
