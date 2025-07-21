@@ -5677,7 +5677,7 @@
 800d3b90 00000184 800d3b90 0 play__12dPlayerMdl_cFv
 800d3d20 0000009c 800d3d20 0 draw__12dPlayerMdl_cFv
 800d3dc0 00000050 800d3dc0 0 setInitTexAnm__12dPlayerMdl_cFv
-800d3e10 000000d0 800d3e10 0 hash_C0D44117_A4887E5C
+800d3e10 000000d0 800d3e10 0 _setHeadTexAnm__12dPlayerMdl_cFRQ34nw4r3g3d12ResAnmTexPatQ23m3d10playMode_eff
 800d3ee0 0000008c 800d3ee0 0 setTexAnmType__12dPlayerMdl_cFQ212dPyMdlBase_c12TexAnmType_e
 800d3f70 00000028 800d3f70 0 resetTexAnmType__12dPlayerMdl_cFv
 800d3fa0 0000002c 800d3fa0 0 getHeadTexAnm__12dPlayerMdl_cFv
