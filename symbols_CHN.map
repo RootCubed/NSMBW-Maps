@@ -5857,7 +5857,7 @@
 800d9e20 00000028 800d9e20 0 setRideCheckFunc__5dRc_cFi
 800d9e50 0000001c 800d9e50 0 _setAngle__5dRc_cFsUs
 800d9e70 0000017c 800d9e70 0 _rideCheckNormal__5dRc_cFP11dRide_ctr_cUlUlUl
-800d9ff0 00000040 800d9ff0 0 hash_8D4966D7_464AEF1F
+800d9ff0 00000040 800d9ff0 0 lineLayerActorCheck__5dRc_cFP11dRide_ctr_c
 800da030 00000030 800da030 0 fakeColCheck__5dRc_cFUs
 800da060 000003b8 800da060 0 _rideCheckRoll__5dRc_cFP11dRide_ctr_cUlUlfUl
 800da420 00000518 800da420 0 _rideCheckRoll2__5dRc_cFP11dRide_ctr_cUlUlfUl
