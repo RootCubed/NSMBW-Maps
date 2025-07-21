@@ -36,6 +36,7 @@ jobs:
               uses: mknejp/delete-release-assets@v1
               with:
                 token: ${{ secrets.GITHUB_TOKEN }}
+                fail-if-no-release: false
                 tag: 'v1.0'
                 assets: 'NSMBW_Symbol_Maps_*.zip'
 
