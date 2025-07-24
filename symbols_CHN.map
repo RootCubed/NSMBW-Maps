@@ -4811,7 +4811,7 @@
 800b3d00 00000024 800b3d00 0 isWarning__17dWarningManager_cFv
 800b3d30 0000000c 800b3d30 0 isGameStop__8dGameComFUl
 800b3d40 0000007c 800b3d40 0 LayoutDispNumber__8dGameComFRCiRCiP12LytTextBox_cb
-800b3dc0 00000064 800b3dc0 0 hash_1EEBDDAC_6107024E
+800b3dc0 00000064 800b3dc0 0 LayoutDispNumberDigit__8dGameComFRCiP12LytTextBox_cb
 800b3e30 000001fc 800b3e30 0 hash_DF5E1941_05B361C1
 800b4030 000000fc 800b4030 0 SetSoftLight_Player__8dGameComFRQ23m3d6bmdl_ci
 800b4130 000000fc 800b4130 0 SetSoftLight_Map__8dGameComFRQ23m3d6bmdl_ci
