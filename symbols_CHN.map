@@ -6592,7 +6592,7 @@
 800f79c0 00000080 800f79c0 0 GetNextPointInfo__11dWmEnPath_cFb
 800f7a40 00000034 800f7a40 0 UpdatePoint__11dWmEnPath_cFv
 800f7a80 000000c4 800f7a80 0 isPointIn__11dWmEnPath_cFi
-800f7b50 00000094 800f7b50 0 hash_14234058_1085F8C5
+800f7b50 00000094 800f7b50 0 isEnemyWalk__8dWmEnemyFv
 800f7bf0 000000bc 800f7bf0 0 __dt__10dWmEnemy_cFv
 800f7cb0 00000200 800f7cb0 0 initializeBase__10dWmEnemy_cFPPCcib
 800f7eb0 0000000c 800f7eb0 0 getStartPoint__10dWmEnemy_cFv
