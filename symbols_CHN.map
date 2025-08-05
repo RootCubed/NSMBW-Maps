@@ -6921,7 +6921,7 @@
 801019f0 00000058 801019f0 0 checkOtherWaitAntlion__12daWmPlayer_cFv
 80101a50 00000054 80101a50 0 startStarSound__12daWmPlayer_cFv
 80101ab0 00000044 80101ab0 0 endStarSound__12daWmPlayer_cFv
-80101b00 000000b8 80101b00 0 hash_6908C826_A845FD39
+80101b00 000000b8 80101b00 0 setEnemyDieByStar__12daWmPlayer_cFP10dWmEnemy_c
 80101bc0 000000b4 80101bc0 0 attackMapEnemy__12daWmPlayer_cFb
 80101c80 00000138 80101c80 0 isWalkToAttackPoint__12daWmPlayer_cFv
 80101dc0 00000150 80101dc0 0 __sinit_\d_a_wm_player_static_cpp
