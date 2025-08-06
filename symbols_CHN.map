@@ -6241,7 +6241,7 @@
 800e7880 0000005c 800e7880 0 getPlayNumber__14TagProcessor_cFv
 800e78e0 0000000c 800e78e0 0 getOkCancellDisp__14TagProcessor_cFP8MsgRes_c
 800e78f0 00000020 800e78f0 0 getRedBlock__14TagProcessor_cFP8MsgRes_cPv
-800e7910 00000300 800e7910 0 hash_AA8BCEA1_90026166
+800e7910 00000300 800e7910 0 preProcess__14TagProcessor_cFPCwPwUlPilP16__va_list_structP8MsgRes_c
 800e7c10 00000008 800e7c10 0 __ct__13dTenCoinMng_cFv
 800e7c20 0000005c 800e7c20 0 __dt__13dTenCoinMng_cFv
 800e7c80 0000005c 800e7c80 0 execute__13dTenCoinMng_cFv
