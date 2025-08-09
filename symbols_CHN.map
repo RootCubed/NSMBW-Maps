@@ -4184,7 +4184,7 @@
 8009ed30 000000a0 8009ed30 0 setThrowSpeed__13dEnemyCarry_cFP8dActor_c
 8009edd0 00000020 8009edd0 0 setThrowChangeState__13dEnemyCarry_cFv
 8009edf0 00000020 8009edf0 0 setPutOnChangeState__13dEnemyCarry_cFv
-8009ee10 000000e0 8009ee10 0 hash_2A7923D5_925B0032
+8009ee10 000000e0 8009ee10 0 setDeathInfo_CarryBgIn__13dEnemyCarry_cFP8dActor_c
 8009eef0 00000094 8009eef0 0 initializeState_Carry__13dEnemyCarry_cFv
 8009ef90 00000074 8009ef90 0 finalizeState_Carry__13dEnemyCarry_cFv
 8009f010 0000015c 8009f010 0 executeState_Carry__13dEnemyCarry_cFv
