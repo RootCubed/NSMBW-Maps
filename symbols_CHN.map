@@ -15646,10 +15646,10 @@
 802cd530 000005ec 802cd530 0 SetBinaryInner__Q23EGG11LightObjectFRCQ33EGG28IBinary<Q23EGG11LightObject>3BinRCQ33EGG28IBinary<Q23EGG11LightObject>3Binf
 802cdb20 00000008 802cdb20 0 GetBinaryType__Q23EGG29IBinary<Q23EGG12LightTexture>Fv
 802cdb30 00000008 802cdb30 0 GetVersion__Q23EGG29IBinary<Q23EGG12LightTexture>Fv
-802cdb40 0000009c 802cdb40 0 hash_DE95623A_91593B34
-802cdbe0 0000013c 802cdbe0 0 hash_8A8E174D_2F3DC2AB
-802cdd20 000001b4 802cdd20 0 hash_C37A16DD_1359B433
-802cdee0 00000180 802cdee0 0 hash_B0A31847_BF43FC69
+802cdb40 0000009c 802cdb40 0 setMaterialCommon__29@unnamed@eggLightTexture_cpp@Fv
+802cdbe0 0000013c 802cdbe0 0 setMaterialAmbient__29@unnamed@eggLightTexture_cpp@FRC8_GXColor
+802cdd20 000001b4 802cdd20 0 setMaterialNormalSphere__29@unnamed@eggLightTexture_cpp@Fv
+802cdee0 00000180 802cdee0 0 setMaterialCrossOver__29@unnamed@eggLightTexture_cpp@Fv
 802ce060 00000264 802ce060 0 initialize__Q23EGG12LightTextureFUsPQ23EGG4Heap
 802ce2d0 00000204 802ce2d0 0 __ct__Q23EGG12LightTextureFPCcPCQ23EGG19LightTextureManager
 802ce4e0 00000090 802ce4e0 0 __dt__Q23EGG12LightTextureFv
