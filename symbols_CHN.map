@@ -1971,7 +1971,7 @@
 80045f60 00000028 80045f60 0 doDelete__20daObjSpinChildBase_cFv
 80045f90 00000008 80045f90 0 init_move__20daObjSpinChildBase_cFv
 80045fa0 00000008 80045fa0 0 post_execute_state__20daObjSpinChildBase_cFv
-80045fb0 000000b4 80045fb0 0 hash_C11F6B7C_3F821775
+80045fb0 000000b4 80045fb0 0 obj_bg_init__20daObjSpinChildBase_cFRC7mVec2_cRC7mVec2_c
 80046070 00000070 80046070 0 __dt__20daObjSpinChildBase_cFv
 800460e0 00000058 800460e0 0 __dt__17daSpinChildBase_cFv
 80046140 0000033c 80046140 0 __ct__10daPlBase_cFv
