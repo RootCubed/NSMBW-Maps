@@ -9417,8 +9417,8 @@
 8016c650 00000044 8016c650 0 __ct__Q23m3d6smdl_cFv
 8016c6a0 00000058 8016c6a0 0 __dt__Q23m3d6smdl_cFv
 8016c700 000000b4 8016c700 0 create__Q23m3d6smdl_cFQ34nw4r3g3d6ResMdlP12mAllocator_cUliPUl
-8016c7c0 00000008 8016c7c0 0 hash_89B5838D_A9FC4266
-8016c7d0 00000004 8016c7d0 0 hash_9CE0676B_C8FFDE02
+8016c7c0 00000008 8016c7c0 0 AllocatorAllocForDummyHeap__21mAllocatorDummyHeap_cFP12MEMAllocatorUl
+8016c7d0 00000004 8016c7d0 0 AllocatorFreeForDummyHeap__21mAllocatorDummyHeap_cFP12MEMAllocatorPv
 8016c7e0 00000048 8016c7e0 0 __ct__21mAllocatorDummyHeap_cFv
 8016c830 00000058 8016c830 0 __dt__21mAllocatorDummyHeap_cFv
 8016c890 00000008 8016c890 0 getHeapKind__21mAllocatorDummyHeap_cCFv
