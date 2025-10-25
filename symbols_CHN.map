@@ -2975,8 +2975,8 @@
 80068060 00000088 80068060 0 isSameName__33sFStateID_c<18dActorMultiState_c>CFPCc
 800680f0 00000088 800680f0 0 isSameName__28sFStateID_c<13dActorState_c>CFPCc
 80068180 00000024 80068180 0 ActorCreateInfoClear__17dActorCreateMng_cFv
-800681b0 0000002c 800681b0 0 hash_BC01FB2E_6EE36B03
-800681e0 00000004 800681e0 0 hash_B7533E32_0510341F
+800681b0 0000002c 800681b0 0 ScroolAreaInCheck__17dActorCreateMng_cFiiiiii
+800681e0 00000004 800681e0 0 ScroolAreaInLoopCheck__17dActorCreateMng_cFiiiiii
 800681f0 0000008c 800681f0 0 setMapActorCreate__17dActorCreateMng_cFv
 80068280 000000ac 80068280 0 setMapActorCreate_next__17dActorCreateMng_cFv
 80068330 00000040 80068330 0 MapActorInital_set__17dActorCreateMng_cFv
