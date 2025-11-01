@@ -16416,7 +16416,7 @@
 802f2d0c 0000000c 802f2d0c 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_ret_frame@0
 802f2d18 00000024 802f2d18 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_go_func@1
 802f2d3c 00000024 802f2d3c 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_ret_func@2
-802f2d60 00000010 802f2d60 0 hash_7308BC01_3935F2E6
+802f2d60 00000010 802f2d60 0 @LOCAL@isYossyColor__15daEnBlockMain_cFUs@l_yoshi_color
 802f2d70 00000010 802f2d70 0 hash_FACD8E69_FACD8E69
 802f2d80 00000010 802f2d80 0 hash_A5C1E37B_A5C1E37B
 802f2d90 00000018 802f2d90 0 @LOCAL@player_set__15daEnBlockMain_cFii@l_player_mode
