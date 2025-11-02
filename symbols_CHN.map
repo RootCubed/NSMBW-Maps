@@ -4597,7 +4597,7 @@
 800ac650 000000e0 800ac650 0 initializeState_AttackSearch__18dEnTorideKokoopa_cFv
 800ac730 00000004 800ac730 0 finalizeState_AttackSearch__18dEnTorideKokoopa_cFv
 800ac740 00000200 800ac740 0 executeState_AttackSearch__18dEnTorideKokoopa_cFv
-800ac940 00000004 800ac940 0 hash_FFE3A135_F58882F9
+800ac940 00000004 800ac940 0 blitzchargeSE__18dEnTorideKokoopa_cFv
 800ac950 00000008 800ac950 0 createBlitz__18dEnTorideKokoopa_cFv
 800ac960 00000008 800ac960 0 hash_9EF68BBB_83A4DBF7
 800ac970 00000008 800ac970 0 getAtkSearchTime__18dEnTorideKokoopa_cFv
