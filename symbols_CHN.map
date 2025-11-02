@@ -4526,7 +4526,7 @@
 800aa6d0 00000040 800aa6d0 0 changeKokoopa__18dEnTorideKokoopa_cFv
 800aa710 00000004 800aa710 0 setKokoopaCc__18dEnTorideKokoopa_cFv
 800aa720 0000008c 800aa720 0 setAtkCnt__18dEnTorideKokoopa_cFv
-800aa7b0 00000008 800aa7b0 0 hash_31DB4B5F_E72C7753
+800aa7b0 00000008 800aa7b0 0 getTorideFunfareTime__18dEnTorideKokoopa_cFv
 800aa7c0 00000034 800aa7c0 0 getTurnSpeed__18dEnTorideKokoopa_cFv
 800aa800 0000006c 800aa800 0 calcDirAngle__18dEnTorideKokoopa_cFs
 800aa870 00000008 800aa870 0 defaultDirAngle__18dEnTorideKokoopa_cFv
