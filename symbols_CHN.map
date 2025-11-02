@@ -4682,8 +4682,8 @@
 800aedf0 00000004 800aedf0 0 finalizeState_DemoEscape_St__18dEnTorideKokoopa_cFv
 800aee00 00000004 800aee00 0 executeState_DemoEscape_St__18dEnTorideKokoopa_cFv
 800aee10 00000054 800aee10 0 setBattleReady__18dEnTorideKokoopa_cFv
-800aee70 00000024 800aee70 0 hash_41E66B54_332CC658
-800aeea0 0000000c 800aeea0 0 hash_F039C6FB_AFC0ACB7
+800aee70 00000024 800aee70 0 tenmetsuFin__18dEnTorideKokoopa_cFv
+800aeea0 0000000c 800aeea0 0 tenmetsuProc__18dEnTorideKokoopa_cFv
 800aeeb0 00000008 800aeeb0 0 getShellOnFrm__18dEnTorideKokoopa_cCFv
 800aeec0 00000008 800aeec0 0 getKokoopaOffFrm__18dEnTorideKokoopa_cCFv
 800aeed0 0000000c 800aeed0 0 isStarInvalid__18dEnTorideKokoopa_cCFv
