@@ -4074,7 +4074,7 @@
 8009b0e0 00000040 8009b0e0 0 __dt__Q220dEnBossKoopaJrBase_c14nodeCallback_cFv
 8009b120 00000130 8009b120 0 __dt__20dEnBossKoopaJrBase_cFv
 8009b250 00000360 8009b250 0 createModel__20dEnBossKoopaJrBase_cFv
-8009b5b0 00000024 8009b5b0 0 hash_15149A5A_25F5059D
+8009b5b0 00000024 8009b5b0 0 tenmetsuFin__20dEnBossKoopaJrBase_cFv
 8009b5e0 000000dc 8009b5e0 0 createInit__20dEnBossKoopaJrBase_cFv
 8009b6c0 00000060 8009b6c0 0 preExecute__20dEnBossKoopaJrBase_cFv
 8009b720 00000054 8009b720 0 execute__20dEnBossKoopaJrBase_cFv
@@ -4134,7 +4134,7 @@
 8009d090 00000008 8009d090 0 getDrawScale__20dEnBossKoopaJrBase_cFv
 8009d0a0 00000004 8009d0a0 0 finalizeState_FumiHitRot__20dEnBossKoopaJrBase_cFv
 8009d0b0 0000011c 8009d0b0 0 executeState_FumiHitRot__20dEnBossKoopaJrBase_cFv
-8009d1d0 00000020 8009d1d0 0 hash_59C39AF5_96D77852
+8009d1d0 00000020 8009d1d0 0 tenmetsuProc__20dEnBossKoopaJrBase_cFv
 8009d1f0 0000007c 8009d1f0 0 initializeState_FumiHitRotDamp__20dEnBossKoopaJrBase_cFv
 8009d270 00000004 8009d270 0 finalizeState_FumiHitRotDamp__20dEnBossKoopaJrBase_cFv
 8009d280 000000e8 8009d280 0 executeState_FumiHitRotDamp__20dEnBossKoopaJrBase_cFv
