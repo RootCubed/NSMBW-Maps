@@ -16724,8 +16724,8 @@
 802f7ac4 0000000f 802f7ac4 0 sc_MessageManagerHeapName__7dSystem
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
 802f7af8 000002c4 802f7af8 0 hash_EDFD8E9F_E8A7E255
-802f7dc0 0000003c 802f7dc0 0 hash_6AA53F8C_905E3322
-802f7dfc 00000014 802f7dfc 0 hash_5310E6BD_5C93E5A3
+802f7dc0 0000003c 802f7dc0 0 @LOCAL@isLoadToKoopaCastleAnimStop__13dWmMapModel_cFv@sc_EffectFrame
+802f7dfc 00000014 802f7dfc 0 @LOCAL@playCharaAnimSe__13dWmMapModel_cFPCc@sc_frameList
 802f7e10 0000004c 802f7e10 0 hash_1A5C6421_107FB04C
 802f7e60 0000000a 802f7e60 0 sc_EnemyProfName__8dWmEnemy
 802f7e6c 0000003c 802f7e6c 0 @LOCAL@execute__10dWmEnemy_cFv@Proc_tbl
