@@ -6637,7 +6637,7 @@
 800f8de0 000000a8 800f8de0 0 procDemoLoseBase__10dWmEnemy_cFs
 800f8e90 0000003c 800f8e90 0 isNextThroughPoint__10dWmEnemy_cFv
 800f8ed0 00000050 800f8ed0 0 isThroughPoint__10dWmEnemy_cFi
-800f8f20 00000020 800f8f20 0 hash_C5D3D098_A088699C
+800f8f20 00000020 800f8f20 0 isMainCast__10dWmEnemy_cFv
 800f8f40 0000003c 800f8f40 0 isDead__10dWmEnemy_cFv
 800f8f80 00000154 800f8f80 0 ModelCalc__10dWmEnemy_cFPQ23m3d5mdl_cfff
 800f90e0 000000f0 800f90e0 0 updatePathInfo__10dWmEnemy_cFb
