@@ -1524,7 +1524,7 @@
 80036b20 000001e0 80036b20 0 block_collisionCheck__18daEnObjCoinBlock_cFv
 80036d00 000000a8 80036d00 0 coin_objbg_set__18daEnObjCoinBlock_cFUlUc
 80036db0 000000d8 80036db0 0 block_objbg_set__18daEnObjCoinBlock_cFUlUc
-80036e90 00000234 80036e90 0 hash_F8737B0A_48DDEF46
+80036e90 00000234 80036e90 0 swich_on_check__18daEnObjCoinBlock_cFv
 800370d0 000000ac 800370d0 0 rail_serchID__18daEnObjCoinBlock_cFv
 80037180 00000080 80037180 0 objpol_serchID__18daEnObjCoinBlock_cFv
 80037200 00000084 80037200 0 watermove_serchID__18daEnObjCoinBlock_cFv
