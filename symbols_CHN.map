@@ -27660,7 +27660,7 @@
 8042f8e0 00000004 8042f8e0 0 s_EffectManagerHeap1__7dSystem
 8042f8e4 00000004 8042f8e4 0 s_EffectManagerHeap2__7dSystem
 8042f8e8 00000004 8042f8e8 0 s_MainThread
-8042f8ec 00000004 8042f8ec 0 hash_D1BC7924_4402C404
+8042f8ec 00000004 8042f8ec 0 sConfiguration__Q23EGG126TSystem<Q23EGG5Video,Q23EGG12AsyncDisplay,Q23EGG10XfbManager,Q23EGG14SimpleAudioMgr,Q23EGG12SceneManager,Q23EGG12ProcessMeter>
 8042f8f0 00000004 8042f8f0 0 ms_RootHeapMem1__6dSys_c
 8042f8f4 00000004 8042f8f4 0 ms_RootHeapMem2__6dSys_c
 8042f8f8 00000004 8042f8f8 0 s_FontManagerHeap__7dSystem
