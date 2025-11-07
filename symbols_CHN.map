@@ -16732,7 +16732,7 @@
 802f7ea8 00000014 802f7ea8 0 hash_E7DE7317_6E9E5E29
 802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
 802f7ee0 0000001c 802f7ee0 0 sc_KinokoHouseCourseNo__6dWmLib
-802f7f00 00000014 802f7f00 0 hash_C9F46385_F419A319
+802f7f00 00000014 802f7f00 0 @LOCAL@GetNextSceneNo__9daWmMap_cFiPc@l_checkFlag
 802f7f18 00000100 802f7f18 0 smc_demo_default_clr__11dCsSeqMng_c
 802f8018 00000068 802f8018 0 smc_demo_default_fail__11dCsSeqMng_c
 802f8080 00000098 802f8080 0 smc_demo_enemy_clr__11dCsSeqMng_c
