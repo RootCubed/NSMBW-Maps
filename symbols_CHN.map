@@ -16476,7 +16476,7 @@
 802f32ec 0000000c 802f32ec 0 l_fireball_head
 802f32f8 0000000c 802f32f8 0 l_fireball_wall
 802f3308 00000010 802f3308 0 l_cull_data
-802f3318 000000d0 802f3318 0 hash_42930237_B5A53CF1
+802f3318 000000d0 802f3318 0 smc_figure_data__17daIceAshibaBase_c
 802f33e8 00000030 802f33e8 0 hash_5DCBAC5B_F807EB65
 802f3418 0000003c 802f3418 0 l_sakaMaxSpeedRatio__29@unnamed@d_a_player_base_cpp@
 802f3454 0000003c 802f3454 0 l_sakaStopAccele__29@unnamed@d_a_player_base_cpp@
