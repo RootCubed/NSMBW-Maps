@@ -8510,7 +8510,7 @@
 8014e0d0 00000054 8014e0d0 0 setJumpCommonBase__9daYoshi_cFv
 8014e130 000000d8 8014e130 0 setJumpSpeed__9daYoshi_cFv
 8014e210 0000011c 8014e210 0 setJumpAnm__9daYoshi_cFv
-8014e330 00000094 8014e330 0 hash_74DCB8C3_AF39279F
+8014e330 00000094 8014e330 0 setFunbariJumpEffect__9daYoshi_cFv
 8014e3d0 00000254 8014e3d0 0 calcYoshiJump__9daYoshi_cFv
 8014e630 000001cc 8014e630 0 updateJumpAction__9daYoshi_cFv
 8014e800 00000124 8014e800 0 initializeState_Jump__9daYoshi_cFv
