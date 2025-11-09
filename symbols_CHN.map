@@ -2109,7 +2109,7 @@
 80049c20 000000b4 80049c20 0 executeState_JumpDai__10daPlBase_cFv
 80049ce0 000000ec 80049ce0 0 setPlayerJumpDai__10daPlBase_cFP10daPlBase_c
 80049dd0 00000008 80049dd0 0 getHeadTopPosP__10daPlBase_cFv
-80049de0 00000094 80049de0 0 hash_E5816F48_7E73328C
+80049de0 00000094 80049de0 0 setPlayerJumoDaiPos__10daPlBase_cFv
 80049e80 00000134 80049e80 0 initializeState_PlayerJumpDai__10daPlBase_cFv
 80049fc0 00000044 80049fc0 0 finalizeState_PlayerJumpDai__10daPlBase_cFv
 8004a010 0000026c 8004a010 0 executeState_PlayerJumpDai__10daPlBase_cFv
