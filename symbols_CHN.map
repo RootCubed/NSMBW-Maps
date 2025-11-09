@@ -3263,7 +3263,7 @@
 80076cf0 00000004 80076cf0 0 __sinit_\d_bc_cpp
 80076d00 00000028 80076d00 0 BeansKuriboClrRandamCount__17dBeansKuriboMng_cFv
 80076d30 00000174 80076d30 0 BeansKuriboInfoAllClear__17dBeansKuriboMng_cFv
-80076eb0 00000050 80076eb0 0 hash_9D8B1E78_4352A01C
+80076eb0 00000050 80076eb0 0 setBeansKuriboInfo__17dBeansKuriboMng_cF9fBaseID_eSc
 80076f00 000001f0 80076f00 0 hash_7A9109F6_E7369395
 800770f0 0000001c 800770f0 0 deleteBeansKuriboInfo__17dBeansKuriboMng_cFUs
 80077110 00000044 80077110 0 bg_createHeap__5dBg_cFv
