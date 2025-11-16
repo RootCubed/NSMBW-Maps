@@ -8867,7 +8867,7 @@
 8015cf70 00000030 8015cf70 0 myDylinkInitPhase_2e__22@unnamed@d_s_boot_cpp@FPv
 8015cfa0 00000030 8015cfa0 0 myDylinkInitPhase_3a__22@unnamed@d_s_boot_cpp@FPv
 8015cfd0 00000030 8015cfd0 0 myDylinkInitPhase_3b__22@unnamed@d_s_boot_cpp@FPv
-8015d000 00000048 8015d000 0 hash_862C69AF_C12AC8F0
+8015d000 00000048 8015d000 0 myCreate_linkWaitProc__FPv
 8015d050 00000044 8015d050 0 hash_EE3E2974_17BB32AB
 8015d0a0 00000028 8015d0a0 0 myCreate_LogoScreen__FPv
 8015d0d0 00000044 8015d0d0 0 hash_5013987A_4A9A0DA5
