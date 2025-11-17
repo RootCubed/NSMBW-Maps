@@ -2679,7 +2679,7 @@
 8005fcb0 00000014 8005fcb0 0 getYoshiDirectP__9daPyMng_cFi
 8005fcd0 00000050 8005fcd0 0 getCtrlPlayer__9daPyMng_cFi
 8005fd20 00000040 8005fd20 0 getCourseInPlayerModelType__9daPyMng_cFUc
-8005fd60 0000001c 8005fd60 0 hash_4BE8A5DA_C334957E
+8005fd60 0000001c 8005fd60 0 setCarryOverYoshiInfo__9daPyMng_cFUcUci
 8005fd80 0000000c 8005fd80 0 getYoshiColor__9daPyMng_cFUc
 8005fd90 00000014 8005fd90 0 getYoshiFruit__9daPyMng_cFUc
 8005fdb0 000000a8 8005fdb0 0 getActScrollInfo__9daPyMng_cFv
