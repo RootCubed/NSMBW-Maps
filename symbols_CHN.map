@@ -16675,7 +16675,7 @@
 802f5c20 0000000b 802f5c20 0 sc_BANNER_FILE__27@unnamed@d_nand_thread_cpp@
 802f5c2c 0000000c 802f5c2c 0 sc_GAME_FILE__27@unnamed@d_nand_thread_cpp@
 802f5c38 00000054 802f5c38 0 @LOCAL@execute__14PauseManager_cFv@MainProc_tbl
-802f5c90 00000030 802f5c90 0 hash_D7561266_FF599703
+802f5c90 00000030 802f5c90 0 @LOCAL@_hitCheck__5dPc_cFP11dPole_ctr_ci@hitCheckFuncTbl
 802f5cc0 00000030 802f5cc0 0 @LOCAL@move__5dPc_cFf@moveFuncTbl
 802f5cf0 000000e0 802f5cf0 0 scTexAnmData__12dPlayerMdl_c
 802f5dd0 0000001c 802f5dd0 0 hash_53417BC7_6EF01EAA
