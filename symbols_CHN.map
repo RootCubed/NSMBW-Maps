@@ -5811,7 +5811,7 @@
 800d8570 0000001c 800d8570 0 create__14dPropelParts_cFP8dActor_c
 800d8590 00000178 800d8590 0 update__14dPropelParts_cFRC6mMtx_c
 800d8710 000000d0 800d8710 0 setSpinEffect__14dPropelParts_cFRC6mMtx_c
-800d87e0 00000014 800d87e0 0 hash_946C3676_582B6464
+800d87e0 00000014 800d87e0 0 isMode__14dPropelParts_cFQ214dPropelParts_c6Mode_e
 800d8800 00000028 800d8800 0 finalizePropelFly__14dPropelParts_cFs
 800d8830 00000088 800d8830 0 __dt__14dPropelParts_cFv
 800d88c0 00000014 800d88c0 0 __ct__13dPSwManager_cFv
