@@ -5888,7 +5888,7 @@
 800db910 000000cc 800db910 0 calc__13dRide2Point_cFv
 800db9e0 00000044 800db9e0 0 __ct__13dRideCircle_cFv
 800dba30 00000088 800dba30 0 set__13dRideCircle_cFP8dActor_cfffffsiiUcUc
-800dbac0 0000002c 800dbac0 0 hash_1BC152F2_2BE3DC77
+800dbac0 0000002c 800dbac0 0 setInfo__13dRideCircle_cFfffffi
 800dbaf0 000001cc 800dbaf0 0 calc__13dRideCircle_cFv
 800dbcc0 00000220 800dbcc0 0 revisePos__13dRideCircle_cFv
 800dbee0 00000004 800dbee0 0 hash_3FA75997_8F32154F
