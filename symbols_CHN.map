@@ -4393,8 +4393,8 @@
 800a6a80 00000008 800a6a80 0 getAddVerticalSearchSpan__16dEnJrClownBase_cCFv
 800a6a90 00000008 800a6a90 0 getAddVerticalForce__16dEnJrClownBase_cCFv
 800a6aa0 00000008 800a6aa0 0 hash_B294896E_85F398AC
-800a6ab0 00000010 800a6ab0 0 hash_B6E159E7_D5FA818B
-800a6ac0 00000010 800a6ac0 0 hash_50EEE744_546B58A8
+800a6ab0 00000010 800a6ab0 0 setBrokenB_Visibility__16dEnJrClownBase_cFb
+800a6ac0 00000010 800a6ac0 0 setBrokenA_Visibility__16dEnJrClownBase_cFb
 800a6ad0 00000008 800a6ad0 0 getClownType__16dEnJrClownBase_cFv
 800a6ae0 00000014 800a6ae0 0 isStrongAttacking__16dEnJrClownBase_cCFv
 800a6b00 00000008 800a6b00 0 setHorizontalSpeed__16dEnJrClownBase_cFf
