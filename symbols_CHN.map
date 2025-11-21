@@ -5075,8 +5075,8 @@
 800bd3f0 00000014 800bd3f0 0 getBodyMdl__12dPlayerMdl_cFv
 800bd410 000000c4 800bd410 0 setTexAnmType__13dKinopioMdl_cFQ212dPyMdlBase_c12TexAnmType_e
 800bd4e0 0000002c 800bd4e0 0 getBodyTexAnm__13dKinopioMdl_cFv
-800bd510 00000368 800bd510 0 hash_485D50AD_193F174E
-800bd880 00000094 800bd880 0 hash_F8EAE8FE_17D1D88B
+800bd510 00000368 800bd510 0 setPersonalAnm__13dKinopioMdl_cFiPQ34nw4r3g3d9ResAnmChri
+800bd880 00000094 800bd880 0 setPersonalRideAnm__13dKinopioMdl_cFiPQ34nw4r3g3d9ResAnmChr
 800bd920 00000074 800bd920 0 hash_139A8CE7_0F1C7660
 800bd9a0 0000002c 800bd9a0 0 callbackTimingA__13dKinopioMdl_cFPQ34nw4r3g3d12ChrAnmResultQ34nw4r3g3d7ResNode
 800bd9d0 00000004 800bd9d0 0 updateBonusCap__12dPyMdlBase_cFv
@@ -5369,7 +5369,7 @@
 800ca860 0000006c 800ca860 0 draw__11dMarioMdl_cFv
 800ca8d0 000001d0 800ca8d0 0 setColorType__11dMarioMdl_cFUc
 800caaa0 00000004 800caaa0 0 setTexAnmType__11dMarioMdl_cFQ212dPyMdlBase_c12TexAnmType_e
-800caab0 00000218 800caab0 0 hash_05954A02_F50F1623
+800caab0 00000218 800caab0 0 setPersonalAnm__11dMarioMdl_cFiPQ34nw4r3g3d9ResAnmChri
 800cacd0 0000004c 800cacd0 0 hash_19B15E04_380C5DE2
 800cad20 0000005c 800cad20 0 hash_1FE12A4C_C8016F49
 800cad80 00000090 800cad80 0 hash_E7038668_F2EE2E2D
@@ -5681,8 +5681,8 @@
 800d3ee0 0000008c 800d3ee0 0 setTexAnmType__12dPlayerMdl_cFQ212dPyMdlBase_c12TexAnmType_e
 800d3f70 00000028 800d3f70 0 resetTexAnmType__12dPlayerMdl_cFv
 800d3fa0 0000002c 800d3fa0 0 getHeadTexAnm__12dPlayerMdl_cFv
-800d3fd0 00000208 800d3fd0 0 hash_D99402D9_DC544FAD
-800d41e0 00000164 800d41e0 0 hash_7C7D826A_085738A8
+800d3fd0 00000208 800d3fd0 0 setPersonalRideAnm__12dPlayerMdl_cFiPQ34nw4r3g3d9ResAnmChr
+800d41e0 00000164 800d41e0 0 setPersonalAnm__12dPlayerMdl_cFiPQ34nw4r3g3d9ResAnmChri
 800d4350 00000088 800d4350 0 hash_425EA9EE_E5B8C34B
 800d43e0 00000148 800d43e0 0 copyAnm__12dPlayerMdl_cFv
 800d4530 000001a0 800d4530 0 _setFootAnm__12dPlayerMdl_cFRQ34nw4r3g3d9ResAnmChrQ23m3d10playMode_efff
@@ -5739,9 +5739,9 @@
 800d6890 00000004 800d6890 0 _setFootAnm__12dPyMdlBase_cFRQ34nw4r3g3d9ResAnmChrQ23m3d10playMode_efff
 800d68a0 00000004 800d68a0 0 _setBodyAnm__12dPyMdlBase_cFRQ34nw4r3g3d9ResAnmChrQ23m3d10playMode_efff
 800d68b0 00000004 800d68b0 0 setAnmBind__12dPyMdlBase_cFv
-800d68c0 00000008 800d68c0 0 hash_41F55CD6_948B9922
+800d68c0 00000008 800d68c0 0 setPersonalRideAnm__12dPyMdlBase_cFiPQ34nw4r3g3d9ResAnmChr
 800d68d0 00000244 800d68d0 0 setRideAnm__12dPyMdlBase_cFifff
-800d6b20 00000008 800d6b20 0 hash_D791C105_10AAC647
+800d6b20 00000008 800d6b20 0 setPersonalAnm__12dPyMdlBase_cFiPQ34nw4r3g3d9ResAnmChri
 800d6b30 000000f0 800d6b30 0 hash_CEA36DC1_24DED584
 800d6c20 00000004 800d6c20 0 setTexAnmType__12dPyMdlBase_cFQ212dPyMdlBase_c12TexAnmType_e
 800d6c30 00000064 800d6c30 0 copyLinkAnm__12dPyMdlBase_cFf
@@ -6843,7 +6843,7 @@
 800ff0e0 000000e4 800ff0e0 0 play__11dYoshiMdl_cFv
 800ff1d0 000000a8 800ff1d0 0 draw__11dYoshiMdl_cFv
 800ff280 00000004 800ff280 0 setAnm__11dYoshiMdl_cFifff
-800ff290 00000094 800ff290 0 hash_A068FF3E_551EFA9F
+800ff290 00000094 800ff290 0 setPersonalAnm__11dYoshiMdl_cFiPQ34nw4r3g3d9ResAnmChri
 800ff330 000000d0 800ff330 0 _setFootAnm__11dYoshiMdl_cFRQ34nw4r3g3d9ResAnmChrQ23m3d10playMode_efff
 800ff400 000001b8 800ff400 0 _setBodyAnm__11dYoshiMdl_cFRQ34nw4r3g3d9ResAnmChrQ23m3d10playMode_efff
 800ff5c0 000000fc 800ff5c0 0 releaseBodyAnm__11dYoshiMdl_cFf
