@@ -5077,7 +5077,7 @@
 800bd4e0 0000002c 800bd4e0 0 getBodyTexAnm__13dKinopioMdl_cFv
 800bd510 00000368 800bd510 0 setPersonalAnm__13dKinopioMdl_cFiPQ34nw4r3g3d9ResAnmChri
 800bd880 00000094 800bd880 0 setPersonalRideAnm__13dKinopioMdl_cFiPQ34nw4r3g3d9ResAnmChr
-800bd920 00000074 800bd920 0 hash_139A8CE7_0F1C7660
+800bd920 00000074 800bd920 0 getAimMotionShareScale__13dKinopioMdl_cFv
 800bd9a0 0000002c 800bd9a0 0 callbackTimingA__13dKinopioMdl_cFPQ34nw4r3g3d12ChrAnmResultQ34nw4r3g3d7ResNode
 800bd9d0 00000004 800bd9d0 0 updateBonusCap__12dPyMdlBase_cFv
 800bd9e0 00000010 800bd9e0 0 offStarEffect__12dPyMdlBase_cFv
@@ -5372,7 +5372,7 @@
 800caab0 00000218 800caab0 0 setPersonalAnm__11dMarioMdl_cFiPQ34nw4r3g3d9ResAnmChri
 800cacd0 0000004c 800cacd0 0 hash_19B15E04_380C5DE2
 800cad20 0000005c 800cad20 0 hash_1FE12A4C_C8016F49
-800cad80 00000090 800cad80 0 hash_E7038668_F2EE2E2D
+800cad80 00000090 800cad80 0 getAimMotionShareScale__11dMarioMdl_cFv
 800cae10 00000008 800cae10 0 updateBonusCap__11dMarioMdl_cFv
 800cae20 00000020 800cae20 0 hash_DF575746_33A01CFB
 800cae40 0000017c 800cae40 0 hash_6BA49346_D1C160D3
@@ -5668,7 +5668,7 @@
 800d3360 00000068 800d3360 0 __dt__Q212dPlayerMdl_c9mdl_inf_cFv
 800d33d0 00000124 800d33d0 0 __dt__12dPlayerMdl_cFv
 800d3500 00000060 800d3500 0 createModel__12dPlayerMdl_cFv
-800d3560 00000008 800d3560 0 hash_90357D80_1ADF1906
+800d3560 00000008 800d3560 0 getAimMotionShareScale__12dPlayerMdl_cFv
 800d3570 00000070 800d3570 0 initialize__12dPlayerMdl_cFv
 800d35e0 00000084 800d35e0 0 getPlayerObjectRes__12dPlayerMdl_cFv
 800d3670 0000035c 800d3670 0 createPlayerModel__12dPlayerMdl_cFv
