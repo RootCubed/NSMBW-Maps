@@ -4427,7 +4427,7 @@
 800a7dd0 0000000c 800a7dd0 0 clrQuakeComboCount__11dEnemyMng_cFv
 800a7de0 00000058 800a7de0 0 incQuakeComboCount__11dEnemyMng_cFi
 800a7e40 000000c4 800a7e40 0 breakdownSE__11dEnemyMng_cFiRC7mVec3_c
-800a7f10 00000044 800a7f10 0 hash_0769EFC4_879ACE21
+800a7f10 00000044 800a7f10 0 clrTogemetComboCount__11dEnemyMng_cFv
 800a7f60 00000018 800a7f60 0 search_magkiller_delete__11dEnemyMng_cFi
 800a7f80 0000000c 800a7f80 0 baseID_Ice<10sStateID_c>__Fv_RC12sStateIDIf_c
 800a7f90 0000000c 800a7f90 0 baseID_HitSpin<10sStateID_c>__Fv_RC12sStateIDIf_c
