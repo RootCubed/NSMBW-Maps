@@ -4545,7 +4545,7 @@
 800aabf0 00000068 800aabf0 0 hitFireLoopEffect__18dEnTorideKokoopa_cFv
 800aac60 00000068 800aac60 0 hitFireDamageEffect__18dEnTorideKokoopa_cFv
 800aacd0 00000080 800aacd0 0 shellChangeEffect__18dEnTorideKokoopa_cFv
-800aad50 00000008 800aad50 0 hash_300AFB3E_67EF1994
+800aad50 00000008 800aad50 0 getShellChangeEffectOffsetY__18dEnTorideKokoopa_cCFv
 800aad60 00000068 800aad60 0 shellBumMarEffect__18dEnTorideKokoopa_cFv
 800aadd0 00000178 800aadd0 0 shellAtkEffect__18dEnTorideKokoopa_cFv
 800aaf50 00000070 800aaf50 0 downFallEffect__18dEnTorideKokoopa_cFv
