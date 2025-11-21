@@ -4084,7 +4084,7 @@
 8009b960 00000064 8009b960 0 draw__20dEnBossKoopaJrBase_cFv
 8009b9d0 0000005c 8009b9d0 0 createBossLife__20dEnBossKoopaJrBase_cFv
 8009ba30 00000088 8009ba30 0 updateCc__20dEnBossKoopaJrBase_cFv
-8009bac0 00000098 8009bac0 0 hash_1596B139_75A00AD8
+8009bac0 00000098 8009bac0 0 getMinNeckAngleZ__20dEnBossKoopaJrBase_cCFv
 8009bb60 00000058 8009bb60 0 calcDirAngle__20dEnBossKoopaJrBase_cFs
 8009bbc0 00000054 8009bbc0 0 getDirAngle__20dEnBossKoopaJrBase_cFv
 8009bc20 00000008 8009bc20 0 defaultDirAngle__20dEnBossKoopaJrBase_cFv
