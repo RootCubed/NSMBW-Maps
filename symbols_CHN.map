@@ -16823,7 +16823,7 @@
 802f9970 0000000c 802f9970 0 @LOCAL@setSpinJumpEffectSub__7dAcPy_cFi@scSpinJumpEffectScale
 802f997c 0000000c 802f997c 0 @LOCAL@setSpinJumpEffectSub__7dAcPy_cFi@scSpinJumpEffectScale_K@0
 802f9988 00000018 802f9988 0 @LOCAL@setWaitActionAnm__7dAcPy_cFQ210daPlBase_c10AnmBlend_e@scSakaCheckOffset
-802f99a0 0000000c 802f99a0 0 hash_EBDE661D_7699B2F7
+802f99a0 0000000c 802f99a0 0 @LOCAL@setWaterSurfaceSwimEffect__7dAcPy_cFv@sc_waterFaceEffectScale
 802f99ac 0000001c 802f99ac 0 hash_B8E68B3B_06D28841
 802f99c8 0000001c 802f99c8 0 hash_081F717E_06D28841
 802f99e4 0000001c 802f99e4 0 hash_010EDF78_7D2AA602
