@@ -27123,7 +27123,7 @@
 8042eca4 00000004 8042eca4 0 hash_7492B4BC_15E147EB
 8042eca8 00000004 8042eca8 0 m_rootUniqueID__7fBase_c
 8042ecb0 00000004 8042ecb0 0 m_nowLoopProc__10fManager_c
-8042ecb8 00000004 8042ecb8 0 hash_F6F89275_55815605
+8042ecb8 00000004 8042ecb8 0 m_UnionObjectBuffer__Q24mDvd16UncompressInfo_c
 8042ecbc 00000004 8042ecbc 0 hash_AAF52A42_857517BE
 8042ecc0 00000001 8042ecc0 0 l_DefaultDirection__4mDvd
 8042ecc4 00000004 8042ecc4 0 l_StreamReadBufferSize__4mDvd
