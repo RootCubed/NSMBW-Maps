@@ -27087,11 +27087,11 @@
 8042eba0 00000007 8042eba0 0 @75706
 8042eba8 00000004 8042eba8 0 @81933
 8042ebb0 00000008 8042ebb0 0 g_profile_LASTACTOR
-8042ebb8 00000008 8042ebb8 0 hash_BEF3F514_A23411F2
-8042ebc0 00000008 8042ebc0 0 hash_9FBA7B9D_6259D04A
-8042ebc8 00000008 8042ebc8 0 hash_F2C48AAE_7AD5DB21
-8042ebd0 00000008 8042ebd0 0 hash_7FA26258_78683A48
-8042ebd8 00000008 8042ebd8 0 hash_D3626A3C_F119A898
+8042ebb8 00000008 8042ebb8 0 @LOCAL@setSpinJumpEffectSub__7dAcPy_cFi@sc_spinEffectID@1
+8042ebc0 00000008 8042ebc0 0 @LOCAL@setRunOnWaterEffect__7dAcPy_cFv@sc_waterRunEffectID
+8042ebc8 00000008 8042ebc8 0 @LOCAL@setKaniCliffCatchEffect__7dAcPy_cFv@scCliffCatchEffectID
+8042ebd0 00000008 8042ebd0 0 @LOCAL@setQuakeNumbEffect__7dAcPy_cFv@sc_QuakeEffectID@0
+8042ebd8 00000008 8042ebd8 0 @LOCAL@setElecEffect__7dAcPy_cFv@sc_elecEffectID
 8042ebe0 00000007 8042ebe0 0 @68129
 8042ebe8 00000004 8042ebe8 0 scIceMdlName__28@unnamed@d_a_player_ice_cpp@
 8042ebec 00000004 8042ebec 0 scIceAnmName__28@unnamed@d_a_player_ice_cpp@
