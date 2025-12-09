@@ -8272,7 +8272,7 @@
 8013f990 00000090 8013f990 0 setEatDieHide__7dAcPy_cFv
 8013fa20 00000084 8013fa20 0 setEatDieFadeOut__7dAcPy_cFv
 8013fab0 00000070 8013fab0 0 setEatDieSpitOut__7dAcPy_cFv
-8013fb20 00000088 8013fb20 0 hash_101BC2D6_80FF7544
+8013fb20 00000088 8013fb20 0 setEatDieScreamVoice__7dAcPy_cFv
 8013fbb0 000000cc 8013fbb0 0 searchDoorActor__7dAcPy_cFv
 8013fc80 00000108 8013fc80 0 initializeState_DemoInDoor__7dAcPy_cFv
 8013fd90 00000018 8013fd90 0 finalizeState_DemoInDoor__7dAcPy_cFv
