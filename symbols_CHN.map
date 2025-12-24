@@ -654,7 +654,7 @@
 8001cd80 00000008 8001cd80 0 doDelete__12daBossDemo_cFv
 8001cd90 0000008c 8001cd90 0 setBattleResult__12daBossDemo_cFv
 8001ce20 00000048 8001ce20 0 setMultiCourseClear__12daBossDemo_cFv
-8001ce70 00000034 8001ce70 0 hash_D423898A_4F51B5CC
+8001ce70 00000034 8001ce70 0 abandonRetryAfterOtehonClear__12daBossDemo_cFv
 8001ceb0 00000014 8001ceb0 0 retryAfterOtehonClear__12daBossDemo_cFv
 8001ced0 0000007c 8001ced0 0 checkStartRetry__12daBossDemo_cFb
 8001cf50 00000070 8001cf50 0 hash_1C9B8473_7967E673
