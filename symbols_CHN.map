@@ -112,7 +112,7 @@
 8000e030 00000030 8000e030 0 acm_l_len_total__Q23d3d14rtexMovePipe_cCFv
 8000e060 000007e0 8000e060 0 drawTexMovePipe__Q23d3d14rtexMovePipe_cCFv
 8000e840 000000cc 8000e840 0 create__Q23d3d14rtexMovePipe_cFRCQ23EGG7ResTIMGiiP12mAllocator_c
-8000e910 000002dc 8000e910 0 hash_6C79490E_44682E4C
+8000e910 000002dc 8000e910 0 drawScreenSetup__3d3dFbbfQ34nw4r4math4VEC2Q34nw4r4math4VEC2
 8000ebf0 000001e0 8000ebf0 0 drawQuad___3d3dFbb
 8000edd0 00000014 8000edd0 0 drawScreenEnd__3d3dFv
 8000edf0 000000c0 8000edf0 0 drawScreen__3d3dFbbf
