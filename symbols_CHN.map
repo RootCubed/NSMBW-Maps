@@ -6961,7 +6961,7 @@
 80102c30 00000018 80102c30 0 isNowReplay__10dScStage_cFv
 80102c50 00000050 80102c50 0 createReplayDataHeap__10dScStage_cFPQ23EGG4HeapUli
 80102ca0 00000034 80102ca0 0 ReplayEnd__10dScStage_cFv
-80102ce0 00000278 80102ce0 0 hash_9D1A0985_D4FB5D84
+80102ce0 00000278 80102ce0 0 setNextScene__10dScStage_cFUsiQ210dScStage_c6Exit_eQ28dFader_c12fader_type_e
 80102f60 000000d8 80102f60 0 createReplayPath__10dScStage_cFPcPCciii
 80103040 00000020 80103040 0 calcTitleSwitchCount__10dScStage_cFv
 80103060 00000020 80103060 0 calcTitleCount__10dScStage_cFv
