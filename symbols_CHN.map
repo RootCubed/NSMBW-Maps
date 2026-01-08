@@ -15655,7 +15655,7 @@
 802ce4e0 00000090 802ce4e0 0 __dt__Q23EGG12LightTextureFv
 802ce570 00000050 802ce570 0 configure__Q23EGG12LightTextureFv
 802ce5c0 00000184 802ce5c0 0 initDrawSetting__Q23EGG12LightTextureFUsUsUsUs
-802ce750 0000004c 802ce750 0 hash_6B5F2BCF_CCBED986
+802ce750 0000004c 802ce750 0 getRequiredPosAndSize__Q23EGG12LightTextureFPUsPUsPUsPUsUs
 802ce7a0 00000424 802ce7a0 0 draw__Q23EGG12LightTextureFi
 802cebd0 000000f0 802cebd0 0 beginDebugDraw__Q23EGG12LightTextureFv
 802cecc0 000001bc 802cecc0 0 debugDraw__Q23EGG12LightTextureFi
