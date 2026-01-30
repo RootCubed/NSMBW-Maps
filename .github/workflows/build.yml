@@ -37,6 +37,7 @@ jobs:
               with:
                 token: ${{ secrets.GITHUB_TOKEN }}
                 fail-if-no-release: false
+                fail-if-no-assets: false
                 tag: 'v1.0'
                 assets: 'NSMBW_Symbol_Maps_*.zip'
 
