@@ -5622,7 +5622,7 @@
 800d0e50 00000090 800d0e50 0 ProcMainInit__14PauseManager_cFv
 800d0ee0 0000000c 800d0ee0 0 ProcMainPauseOn__14PauseManager_cFv
 800d0ef0 000000a8 800d0ef0 0 SelectSoundSet__14PauseManager_cFi
-800d0fa0 00000194 800d0fa0 0 hash_B30F62F8_CCE67E78
+800d0fa0 00000194 800d0fa0 0 KeyChack__14PauseManager_cFv
 800d1140 00000034 800d1140 0 ProcMainPause__14PauseManager_cFv
 800d1180 00000090 800d1180 0 ProcMainPauseOffInit__14PauseManager_cFv
 800d1210 000000b4 800d1210 0 ProcMainPauseOff__14PauseManager_cFv
