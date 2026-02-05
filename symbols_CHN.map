@@ -16409,9 +16409,9 @@
 802f2b10 00000024 802f2b10 0 @LOCAL@calc__12dWipeDokan_cFv@Proc_tbl
 802f2b38 00000024 802f2b38 0 @LOCAL@calc__12dWipeKuppa_cFv@Proc_tbl
 802f2b60 00000024 802f2b60 0 @LOCAL@calc__12dWipeMario_cFv@Proc_tbl
-802f2b88 00000060 802f2b88 0 hash_0DD16426_0DD16426
-802f2be8 00000036 802f2be8 0 hash_15F918D0_15F918D0
-802f2c20 000000e0 802f2c20 0 hash_848E8692_848E8692
+802f2b88 00000060 802f2b88 0 l_step_target_normal
+802f2be8 00000036 802f2be8 0 l_step_target_quick
+802f2c20 000000e0 802f2c20 0 l_step_target_slow
 802f2d00 0000000c 802f2d00 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_go_frame
 802f2d0c 0000000c 802f2d0c 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_ret_frame@0
 802f2d18 00000024 802f2d18 0 @LOCAL@initMove__13daEnBigPile_cFv@cs_go_func@1
