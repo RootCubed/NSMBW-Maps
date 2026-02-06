@@ -16525,7 +16525,7 @@
 802f3d78 00000010 802f3d78 0 hash_DDC9C168_EF486686
 802f3d88 00000010 802f3d88 0 hash_DDC9C5A8_EF486686
 802f3d98 00000010 802f3d98 0 @77211
-802f3da8 00000010 802f3da8 0 hash_100DA52A_D0BBB228
+802f3da8 00000010 802f3da8 0 @LOCAL@getCourseInPlayerModelType__9daPyMng_cFUc@scModelTypeDt
 802f3db8 0000000c 802f3db8 0 @LOCAL@draw__13daSinkDokan_cFv@cs_root_ofs
 802f3dc8 0000000c 802f3dc8 0 @LOCAL@setSearchNearPlayerFunc__8dActor_cFi@searchFunc
 802f3dd4 0000000c 802f3dd4 0 @LOCAL@setGetTrgToSrcDirFunc__8dActor_cFi@getdirFunc
