@@ -2319,7 +2319,7 @@
 80050eb0 00000004 80050eb0 0 finalizeState_DemoDown__10daPlBase_cFv
 80050ec0 00000004 80050ec0 0 executeState_DemoDown__10daPlBase_cFv
 80050ed0 00000060 80050ed0 0 isEnableGoalDemo__10daPlBase_cFv
-80050f30 0000021c 80050f30 0 hash_31C8A391_D7F2B725
+80050f30 0000021c 80050f30 0 setDemoGoal__10daPlBase_cFR7mVec3_cfUc
 80051150 00000070 80051150 0 setHideNotGoalPlayer__10daPlBase_cFv
 800511c0 000000a4 800511c0 0 stopGoalOther__10daPlBase_cFv
 80051270 00000098 80051270 0 playGoalOther__10daPlBase_cFv
@@ -8302,7 +8302,7 @@
 80140ea0 0000006c 80140ea0 0 initializeState_DemoDokanCannon__7dAcPy_cFv
 80140f10 0000003c 80140f10 0 finalizeState_DemoDokanCannon__7dAcPy_cFv
 80140f50 000000e4 80140f50 0 executeState_DemoDokanCannon__7dAcPy_cFv
-80141040 0000008c 80141040 0 hash_4D4D9824_7F86BA86
+80141040 0000008c 80141040 0 setDemoGoal__7dAcPy_cFR7mVec3_cfUc
 801410d0 0000008c 801410d0 0 setOffYoshiInGoal__7dAcPy_cFP10daPlBase_c
 80141160 00000078 80141160 0 setHideNotGoalPlayer__7dAcPy_cFv
 801411e0 000000e8 801411e0 0 initDemoGoalBase__7dAcPy_cFv
@@ -8669,7 +8669,7 @@
 80153ea0 000000ec 80153ea0 0 setBalloonInDispOut__9daYoshi_cFi
 80153f90 0000005c 80153f90 0 changeNextScene__9daYoshi_cFi
 80153ff0 00000070 80153ff0 0 isEnableDokanInStatus__9daYoshi_cFv
-80154060 000000e8 80154060 0 hash_D185ECA4_864B9748
+80154060 000000e8 80154060 0 setDemoGoal__9daYoshi_cFR7mVec3_cfUc
 80154150 00000058 80154150 0 setHideNotGoalPlayer__9daYoshi_cFv
 801541b0 00000004 801541b0 0 initDemoGoalBase__9daYoshi_cFv
 801541c0 0000015c 801541c0 0 executeDemoGoal_Run__9daYoshi_cFv
