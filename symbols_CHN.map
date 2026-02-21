@@ -7209,7 +7209,7 @@
 8010b9a0 00000004 8010b9a0 0 drawBg2_drawEnd__6dNitroFv
 8010b9b0 00000214 8010b9b0 0 drawBg2_setupAnimePanel__6dNitroFv
 8010bbd0 00000034 8010bbd0 0 drawBg2_cleanupAnimePanel__6dNitroFv
-8010bc10 000001ec 8010bc10 0 hash_D582467E_6DD50163
+8010bc10 000001ec 8010bc10 0 drawBg2_updateAnimePanel__6dNitroFPvUlPvUl
 8010be00 00000048 8010be00 0 __sinit_\d_nitro_bg2_cpp
 8010be50 00000030 8010be50 0 dGoalManager_c_classInit__Fv
 8010be80 000000a0 8010be80 0 __ct__14dGoalManager_cFv
