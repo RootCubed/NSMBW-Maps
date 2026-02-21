@@ -7200,7 +7200,7 @@
 8010b5d0 000000ec 8010b5d0 0 drawBg2_sub_ex__6dNitroFUlUlUl
 8010b6c0 000000f0 8010b6c0 0 drawBg2_sub_ex2__6dNitroFUlfff
 8010b7b0 00000108 8010b7b0 0 drawBg2_sub_ex4__6dNitroFUlfffi
-8010b8c0 0000007c 8010b8c0 0 hash_028F87F4_2C0BCC9D
+8010b8c0 0000007c 8010b8c0 0 drawBg2_drawSetup__6dNitroFPvPvPvb
 8010b940 0000000c 8010b940 0 drawBg2_drawCleanup__6dNitroFv
 8010b950 00000014 8010b950 0 drawBg2_drawBegin__6dNitroFUl
 8010b970 00000004 8010b970 0 drawBg2_drawPanel__6dNitroFUlUlUl
