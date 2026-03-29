@@ -27865,7 +27865,7 @@
 8042fc54 00000004 8042fc54 0 l_lightMgr_pp__Q23m3d8internal
 8042fc58 00000004 8042fc58 0 l_numFogMgr__Q23m3d8internal
 8042fc5c 00000004 8042fc5c 0 l_fogMgr_pp__Q23m3d8internal
-8042fc60 00000004 8042fc60 0 hash_10B20216_005CCF30
+8042fc60 00000004 8042fc60 0 ms_DefaultAllocOptBit__Q23m3d6banm_c
 8042fc68 00000004 8042fc68 0 m_instance__21mAllocatorDummyHeap_c
 8042fc70 00000006 8042fc70 0 Zero__7mAng3_c
 8042fc78 00000006 8042fc78 0 Ex__7mAng3_c
