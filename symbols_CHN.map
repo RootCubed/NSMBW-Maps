@@ -16720,7 +16720,7 @@
 802f7a78 0000000f 802f7a78 0 sc_EffectManagerHeap1Name__7dSystem
 802f7a88 00000013 802f7a88 0 sc_EffectManagerHeap2Name__7dSystem
 802f7a9c 0000000d 802f7a9c 0 sc_FontManagerHeapName__7dSystem
-802f7aac 00000016 802f7aac 0 hash_EC44FA44_6617CF6B
+802f7aac 00000016 802f7aac 0 @LOCAL@initialize__Q33EGG126TSystem<Q23EGG5Video,Q23EGG12AsyncDisplay,Q23EGG10XfbManager,Q23EGG14SimpleAudioMgr,Q23EGG12SceneManager,Q23EGG12ProcessMeter>13ConfigurationFv@s_PadInfoBp
 802f7ac4 0000000f 802f7ac4 0 sc_MessageManagerHeapName__7dSystem
 802f7ad8 0000001c 802f7ad8 0 l_bufferoption
 802f7af8 000002c4 802f7af8 0 hash_EDFD8E9F_E8A7E255
