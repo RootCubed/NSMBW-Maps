@@ -5160,7 +5160,7 @@
 800c1a40 00000038 800c1a40 0 is_unit_circle4x4__10dLineMng_cFUl
 800c1a80 0000001c 800c1a80 0 change_dir__10dLineMng_cFv
 800c1aa0 00000068 800c1aa0 0 getLineUnitNo__10dLineMng_cFff
-800c1b10 00000094 800c1b10 0 hash_DC3CE209_57BD5ECD
+800c1b10 00000094 800c1b10 0 init_term_ck_pos__10dLineMng_cFv
 800c1bb0 00000124 800c1bb0 0 check_term__10dLineMng_cFv
 800c1ce0 00000058 800c1ce0 0 line_cross_slope_check__10dLineMng_cFRC7mVec2_cRC7mVec2_cRfRf
 800c1d40 0000004c 800c1d40 0 line_cross_range_check__10dLineMng_cFfff
