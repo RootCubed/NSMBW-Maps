@@ -16651,7 +16651,7 @@
 802f57f0 0000000c 802f57f0 0 hash_DE39B391_C76EE971
 802f5800 0000000c 802f5800 0 hash_DA874DAA_6F3EF20C
 802f5810 00000010 802f5810 0 @LOCAL@createMdl__15dKinokoliftDr_cFP12mAllocator_cffUs@sc_data
-802f5820 00000038 802f5820 0 hash_A1988BF5_A1988BF5
+802f5820 00000038 802f5820 0 scArcDt
 802f5858 00000010 802f5858 0 @LOCAL@getAimMotionShareScale__13dKinopioMdl_cFv@scKinopioHipScale
 802f5868 00000010 802f5868 0 @LOCAL@getAimMotionShareScale__13dKinopioMdl_cFv@scKinopioOrgHipScale@0
 802f5878 00000010 802f5878 0 @LOCAL@getAimMotionShareScale__13dKinopioMdl_cFv@scKinopioHangCliffScale@1
@@ -16662,8 +16662,8 @@
 802f5a88 00000010 802f5a88 0 @LOCAL@is_unit_circle2x2__10dLineMng_cFUl@d_unit
 802f5a98 00000020 802f5a98 0 @LOCAL@is_unit_circle4x4__10dLineMng_cFUl@d_unit
 802f5ab8 00000064 802f5ab8 0 @62055
-802f5b20 00000070 802f5b20 0 hash_A1988BF5_A1988BF5
-802f5b90 00000010 802f5b90 0 hash_A784CEA7_A784CEA7
+802f5b20 00000070 802f5b20 0 scArcDt
+802f5b90 00000010 802f5b90 0 scArcCapDt
 802f5ba0 00000010 802f5ba0 0 @LOCAL@getAimMotionShareScale__11dMarioMdl_cFv@scMarioHipScale
 802f5bb0 00000010 802f5bb0 0 @LOCAL@getAimMotionShareScale__11dMarioMdl_cFv@scMarioHangCliffScale@0
 802f5bc0 00000010 802f5bc0 0 @LOCAL@getAimMotionShareScale__11dMarioMdl_cFv@scLuigiHipScale@1
