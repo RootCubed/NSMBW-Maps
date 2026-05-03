@@ -6703,7 +6703,7 @@
 800fb120 000001a4 800fb120 0 GetCurrentPlayResultStatus__6dWmLibFiii
 800fb2d0 000001a0 800fb2d0 0 GetCurrentPlayResultStatus__6dWmLibFv
 800fb470 00000024 800fb470 0 IsCourseOpened__6dWmLibFii
-800fb4a0 00000020 800fb4a0 0 hash_D6E1D3FD_D7231A38
+800fb4a0 00000020 800fb4a0 0 IsCourseOpened__6dWmLibFQ26dWmLib10SttsOpen_e
 800fb4c0 00000044 800fb4c0 0 IsCourseOmoteClear__6dWmLibFii
 800fb510 0000005c 800fb510 0 IsCourseUraClear__6dWmLibFii
 800fb570 00000060 800fb570 0 IsCourseOtasukeClear__6dWmLibFii
