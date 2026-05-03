@@ -6748,7 +6748,7 @@
 800fca90 0000009c 800fca90 0 hash_4E5C756D_4AC89A25
 800fcb30 00000014 800fcb30 0 isSpecialWorld__6dWmLibFv
 800fcb50 00000070 800fcb50 0 getMaxCollectionCoinNum__6dWmLibFi
-800fcbc0 00000070 800fcbc0 0 hash_A3139551_2AC7BD5A
+800fcbc0 00000070 800fcbc0 0 isCollectionCoinPerfect__6dWmLibFi
 800fcc30 00000004 800fcc30 0 isSpecialWorldCourseOpen__6dWmLibFi
 800fcc40 0000006c 800fcc40 0 hash_67FB4F4F_CB51A7F4
 800fccb0 00000068 800fccb0 0 getModelNodePos__6dWmLibFPCQ23m3d6bmdl_cPCc
