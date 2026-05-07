@@ -16712,8 +16712,8 @@
 802f7980 00000028 802f7980 0 @74103
 802f79a8 00000028 802f79a8 0 @LOCAL@ScoreSet2__11dScoreMng_cFR7mVec3_cUli@l_combo_score_name_dt
 802f79d0 00000028 802f79d0 0 @LOCAL@ScoreSet2__11dScoreMng_cFR7mVec3_cUli@l_combo_add_score_dt@0
-802f79f8 00000028 802f79f8 0 hash_57A6255C_C56A2BEE
-802f7a20 00000028 802f7a20 0 hash_B192262A_C56A2BEE
+802f79f8 00000028 802f79f8 0 @LOCAL@UnKnownScoreCreate__11dScoreMng_cFR7mVec3_cUl@l_score_name_dt
+802f7a20 00000028 802f7a20 0 @LOCAL@UnKnownScoreCreate__11dScoreMng_cFR7mVec3_cUl@l_add_score_dt@0
 802f7a48 00000010 802f7a48 0 hash_A59FFC24_C1F1E9D2
 802f7a58 00000010 802f7a58 0 @LOCAL@GetScreenSize__7dScreenFv@l_div_add
 802f7a68 00000010 802f7a68 0 @LOCAL@GetScreenCaptureSize__7dScreenFv@l_div_add
