@@ -16678,7 +16678,7 @@
 802f5c90 00000030 802f5c90 0 @LOCAL@_hitCheck__5dPc_cFP11dPole_ctr_ci@hitCheckFuncTbl
 802f5cc0 00000030 802f5cc0 0 @LOCAL@move__5dPc_cFf@moveFuncTbl
 802f5cf0 000000e0 802f5cf0 0 scTexAnmData__12dPlayerMdl_c
-802f5dd0 0000001c 802f5dd0 0 hash_53417BC7_6EF01EAA
+802f5dd0 0000001c 802f5dd0 0 @LOCAL@setPlayerMode__12dPlayerMdl_cFi@l_player_model_dt
 802f5df0 000018e4 802f5df0 0 scPyAnmData__12dPyMdlBase_c
 802f76d8 00000010 802f76d8 0 hash_AAC1DD85_E842065F
 802f76e8 00000010 802f76e8 0 smc_speed_data__21dPosGoAndComeExeFrm_c
