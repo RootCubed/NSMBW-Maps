@@ -16729,7 +16729,7 @@
 802f7e10 0000004c 802f7e10 0 @LOCAL@ReadAction__10dCsvData_cFPcRi@l_actionType@1
 802f7e60 0000000a 802f7e60 0 sc_EnemyProfName__8dWmEnemy
 802f7e6c 0000003c 802f7e6c 0 @LOCAL@execute__10dWmEnemy_cFv@Proc_tbl
-802f7ea8 00000014 802f7ea8 0 hash_E7DE7317_6E9E5E29
+802f7ea8 00000014 802f7ea8 0 @LOCAL@IsExecEnable__10dWmEnemy_cFv@sc_ExecEnableDemo
 802f7ec0 00000020 802f7ec0 0 sc_LastCourse__6dWmLib
 802f7ee0 0000001c 802f7ee0 0 sc_KinokoHouseCourseNo__6dWmLib
 802f7f00 00000014 802f7f00 0 @LOCAL@GetNextSceneNo__9daWmMap_cFiPc@l_checkFlag
