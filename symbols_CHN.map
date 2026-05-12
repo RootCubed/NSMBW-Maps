@@ -16802,8 +16802,8 @@
 802f9700 00000040 802f9700 0 hash_3FA0F97F_3FA0F97F
 802f9740 00000010 802f9740 0 @LOCAL@GetZoomMagnif__9daFarBG_cFv@l_zoom_magnif_table
 802f9750 00000024 802f9750 0 l_fball_cc_data
-802f9778 00000028 802f9778 0 hash_7CF806FD_7EE150FA
-802f97a0 00000028 802f97a0 0 hash_9B15AD8C_7EE150FA
+802f9778 00000028 802f9778 0 @LOCAL@setSakaSpeed__19daFireBall_Player_cFUcUc@cs_saka_speed_x
+802f97a0 00000028 802f97a0 0 @LOCAL@setSakaSpeed__19daFireBall_Player_cFUcUc@cs_saka_speed_y@0
 802f97c8 00000010 802f97c8 0 l_float_speed
 802f97d8 00000010 802f97d8 0 l_toge_float_speed
 802f97e8 00000010 802f97e8 0 l_attach_float_speed
