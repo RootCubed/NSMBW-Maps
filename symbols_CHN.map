@@ -16439,7 +16439,7 @@
 802f2f74 0000000c 802f2f74 0 l_objcoinft_wall
 802f2f80 00000010 802f2f80 0 l_bound_yspd__14daEnCoinMain_c
 802f2f90 00000010 802f2f90 0 @LOCAL@neckChase__14daEnDfpakkun_cFi@cs_dest_frame
-802f2fa0 00000010 802f2fa0 0 hash_419D5066_91845823
+802f2fa0 00000010 802f2fa0 0 @LOCAL@initializeState_Attack__14daEnDfpakkun_cFv@cs_shoot_num
 802f2fb0 00000024 802f2fb0 0 smc_cc_dat__17daEnDpakkunBase_c
 802f2fd8 00000020 802f2fd8 0 @75629
 802f2ff8 00000020 802f2ff8 0 @75636
