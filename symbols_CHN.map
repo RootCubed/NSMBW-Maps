@@ -5430,7 +5430,7 @@
 800ccbf0 000000b8 800ccbf0 0 create__11dCaveMask_cFP16mHeapAllocator_cQ25dMask9TexName_e
 800cccb0 00000098 800cccb0 0 execute__11dCaveMask_cFv
 800ccd50 00000028 800ccd50 0 draw__11dCaveMask_cFv
-800ccd80 00000008 800ccd80 0 hash_D0237988_335466C0
+800ccd80 00000008 800ccd80 0 SetTexture__11dCaveMask_cFQ25dMask9TexName_e
 800ccd90 000000b8 800ccd90 0 create__18dCircleLightMask_cFP16mHeapAllocator_cQ25dMask9TexName_e
 800cce50 000000ac 800cce50 0 execute__18dCircleLightMask_cFv
 800ccf00 00000048 800ccf00 0 draw__18dCircleLightMask_cFv
