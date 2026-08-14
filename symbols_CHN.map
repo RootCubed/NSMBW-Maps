@@ -5655,11 +5655,11 @@
 800d2aa0 00000234 800d2aa0 0 revisePos__11dPoleRope_cCFv
 800d2ce0 00000060 800d2ce0 0 __ct__11dPyEffect_cFv
 800d2d40 00000064 800d2d40 0 __dt__11dPyEffect_cFv
-800d2db0 000000d0 800d2db0 0 hash_4EB72C06_D8875F8A
+800d2db0 000000d0 800d2db0 0 setEffect__11dPyEffect_cFQ211dPyEffect_c6Type_eR7mVec3_cfUc
 800d2e80 00000090 800d2e80 0 update__11dPyEffect_cFv
 800d2f10 0000005c 800d2f10 0 __ct__14dPyEffectMng_cFv
 800d2f70 00000068 800d2f70 0 __dt__14dPyEffectMng_cFv
-800d2fe0 00000088 800d2fe0 0 hash_957BFB67_0D45F02E
+800d2fe0 00000088 800d2fe0 0 setEffect__14dPyEffectMng_cFQ211dPyEffect_c6Type_eR7mVec3_cfUc
 800d3070 0000004c 800d3070 0 update__14dPyEffectMng_cFv
 800d30c0 000001d8 800d30c0 0 __ct__12dPlayerMdl_cFUc
 800d32a0 00000040 800d32a0 0 __dt__Q212dPlayerMdl_c14nodeCallback_cFv
