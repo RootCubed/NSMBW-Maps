@@ -4352,7 +4352,7 @@
 800a53a0 0000004c 800a53a0 0 accSE__16dEnJrClownBase_cFv
 800a53f0 00000214 800a53f0 0 calcSpinRising__16dEnJrClownBase_cFv
 800a5610 00000008 800a5610 0 getTurnSpeed__16dEnJrClownBase_cFv
-800a5620 00000014 800a5620 0 hash_332D2921_8A5FE2C3
+800a5620 00000014 800a5620 0 stopSpinForcely__16dEnJrClownBase_cFv
 800a5640 00000148 800a5640 0 tiredEffect__16dEnJrClownBase_cFf
 800a5790 00000008 800a5790 0 getRadius__16dEnJrClownBase_cCFv
 800a57a0 00000044 800a57a0 0 initializeState_DemoWait__16dEnJrClownBase_cFv
