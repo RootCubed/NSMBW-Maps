@@ -6753,7 +6753,7 @@
 800fcc40 0000006c 800fcc40 0 hash_67FB4F4F_CB51A7F4
 800fccb0 00000068 800fccb0 0 getModelNodePos__6dWmLibFPCQ23m3d6bmdl_cPCc
 800fcd20 00000058 800fcd20 0 getModelNodePos__6dWmLibFPCQ23m3d6bmdl_ci
-800fcd80 00000228 800fcd80 0 hash_1AA03399_74546065
+800fcd80 00000228 800fcd80 0 calcPlayerCollision__6dWmLibFP7mVec3_cff
 800fcfb0 00000014 800fcfb0 0 IsAntlionWorld__6dWmLibFv
 800fcfd0 00000014 800fcfd0 0 IsKillerWorld__6dWmLibFv
 800fcff0 00000014 800fcff0 0 IsBubbleWorld__6dWmLibFv
