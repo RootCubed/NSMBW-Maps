@@ -6725,7 +6725,7 @@
 800fbb80 00000050 800fbb80 0 isStartPointKinokoHouseStar__6dWmLibFv
 800fbbd0 00000050 800fbbd0 0 isStartPointKinokoHouse1up__6dWmLibFv
 800fbc20 00000050 800fbc20 0 isStartPointKinokoHouseRed__6dWmLibFv
-800fbc70 000001b8 800fbc70 0 hash_E9A67234_B5F06F5B
+800fbc70 000001b8 800fbc70 0 makeMatNameByRouteName__6dWmLibFP13dWmMapModel_cPCcPc
 800fbe30 00000044 800fbe30 0 makeRouteNameByMaterialName__6dWmLibFPCcPc
 800fbe80 00000128 800fbe80 0 findRouteByMaterial__6dWmLibFPCciPc
 800fbfb0 00000104 800fbfb0 0 findShortMaterial__6dWmLibFPCciPc
