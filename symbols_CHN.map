@@ -6729,7 +6729,7 @@
 800fbe30 00000044 800fbe30 0 hash_E7F34464_C12136DF
 800fbe80 00000128 800fbe80 0 findRouteByMaterial__6dWmLibFPCciPc
 800fbfb0 00000104 800fbfb0 0 findShortMaterial__6dWmLibFPCciPc
-800fc0c0 0000008c 800fc0c0 0 hash_938AD3A7_8EE659D0
+800fc0c0 0000008c 800fc0c0 0 isMaterialAnimPlayEnd__6dWmLibFPCcci
 800fc150 0000004c 800fc150 0 checkIsAllPlayerWaitDemo__6dWmLibFv
 800fc1a0 0000034c 800fc1a0 0 hash_B2236CBA_5A0EE8E7
 800fc4f0 00000070 800fc4f0 0 procCourseGameOver__6dWmLibFb
