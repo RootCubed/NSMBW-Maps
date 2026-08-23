@@ -6160,7 +6160,7 @@
 800e4230 0000037c 800e4230 0 init2__16dSwitchFlagMng_cFUc
 800e45b0 000000ec 800e45b0 0 clearTime__16dSwitchFlagMng_cFv
 800e46a0 000001ac 800e46a0 0 execute__16dSwitchFlagMng_cFv
-800e4850 000002a4 800e4850 0 hash_B3DA6D3A_2E4C70B6
+800e4850 000002a4 800e4850 0 switchProc__16dSwitchFlagMng_cFUcUcUcUcii
 800e4b00 000000d4 800e4b00 0 switchBittoNo__16dSwitchFlagMng_cFUx
 800e4be0 00000034 800e4be0 0 WaterSwichYposEntry__16dSwitchFlagMng_cFiffScUx
 800e4c20 00000010 800e4c20 0 getWaterSwichYpos__16dSwitchFlagMng_cFi
