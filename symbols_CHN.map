@@ -4838,7 +4838,7 @@
 800b4b80 00000024 800b4b80 0 MiniGameCannonResultCloseRequest__8dGameComFv
 800b4bb0 00000028 800b4bb0 0 MiniGameWireTitle__8dGameComFv
 800b4be0 00000030 800b4be0 0 MiniGameWireStart__8dGameComFv
-800b4c10 0000002c 800b4c10 0 hash_71636FC0_C70BA13D
+800b4c10 0000002c 800b4c10 0 MiniGameWireStartKuupaJr__8dGameComFv
 800b4c40 00000070 800b4c40 0 MiniGameWireResult__8dGameComFPCi
 800b4cb0 00000028 800b4cb0 0 MiniGameWireEndCheck__8dGameComFv
 800b4ce0 00000024 800b4ce0 0 MiniGameWireTitleCloseRequest__8dGameComFv
