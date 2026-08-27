@@ -1045,7 +1045,7 @@
 80027720 00000060 80027720 0 bound_non_collision_check__14daEnCoinMain_cFv
 80027780 00000084 80027780 0 setWaterSpeed__14daEnCoinMain_cFv
 80027810 00000244 80027810 0 model_set__14daEnCoinMain_cFi
-80027a60 00000064 80027a60 0 hash_CFC20393_68447C13
+80027a60 00000064 80027a60 0 awa_anm_play__14daEnCoinMain_cFv
 80027ad0 00000010 80027ad0 0 angle_add__14daEnCoinMain_cFv
 80027ae0 00000084 80027ae0 0 FootBgInCheck__14daEnCoinMain_cFv
 80027b70 00000200 80027b70 0 drop_bgcheck__14daEnCoinMain_cFUcUcf
