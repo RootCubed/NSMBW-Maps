@@ -27582,7 +27582,7 @@
 8042f740 00000001 8042f740 0 @GUARD@initSpeed__14dEffWanChain_cFv@cs_speed_tbl
 8042f748 00000004 8042f748 0 m_instance__14dEffActorMng_c
 8042f750 00000008 8042f750 0 ms_linkManager__14dEffActorMng_c
-8042f758 00000001 8042f758 0 hash_65B37628_65B37628
+8042f758 00000001 8042f758 0 s_effctManager
 8042f759 00000001 8042f759 0 m_firstCalc__15EffectManager_c
 8042f760 00000001 8042f760 0 @GUARD@fumiSE__5dEn_cFP8dActor_c@cs_combo_se
 8042f761 00000001 8042f761 0 @GUARD@spinfumiSE__5dEn_cFP8dActor_c@cs_combo_se
