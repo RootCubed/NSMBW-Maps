@@ -6140,7 +6140,7 @@
 800e3a30 00000018 800e3a30 0 setKeyT__12SquareRail_cFfffff
 800e3a50 00000184 800e3a50 0 getPos__12SquareRail_cCFf
 800e3be0 00000064 800e3be0 0 getPos__12SquareRail_cCFff
-800e3c50 0000003c 800e3c50 0 hash_E6437BF8_AAE4A88C
+800e3c50 0000003c 800e3c50 0 getManageableRangeT__12SquareRail_cCFf
 800e3c90 00000040 800e3c90 0 __dt__12SquareRail_cFv
 800e3cd0 00000020 800e3cd0 0 getHeadP__6dStageFUc
 800e3cf0 000000ac 800e3cf0 0 link__6dStageFv
