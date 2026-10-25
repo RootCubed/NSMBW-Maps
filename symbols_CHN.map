@@ -7448,7 +7448,7 @@
 80112fd0 0000010c 80112fd0 0 item_draw_calc__19daEnHatenaBalloon_cFP7mVec3_c
 801130e0 000000cc 801130e0 0 anm_set__19daEnHatenaBalloon_cFi
 801131b0 000000a8 801131b0 0 pause_check__19daEnHatenaBalloon_cFv
-80113260 00000088 80113260 0 hash_9055A381_3A83830C
+80113260 00000088 80113260 0 getLoopScrollDispPosXBK__19daEnHatenaBalloon_cFv
 801132f0 00000034 801132f0 0 shake_disp_check__19daEnHatenaBalloon_cFv
 80113330 000000ac 80113330 0 createItem__19daEnHatenaBalloon_cFv
 801133e0 000000a0 801133e0 0 break_balloon__19daEnHatenaBalloon_cFs
