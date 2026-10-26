@@ -4342,7 +4342,7 @@
 800a4ca0 00000060 800a4ca0 0 fadeSpinEffect__16dEnJrClownBase_cFv
 800a4d00 000000e8 800a4d00 0 followSpinEffect__16dEnJrClownBase_cFv
 800a4df0 00000028 800a4df0 0 canSpin__16dEnJrClownBase_cCFv
-800a4e20 00000098 800a4e20 0 hash_D7B6D931_DF54BC7D
+800a4e20 00000098 800a4e20 0 damageReq__16dEnJrClownBase_cFUcQ216dEnJrClownBase_c12DamageType_e
 800a4ec0 00000078 800a4ec0 0 playClrAnm__16dEnJrClownBase_cFv
 800a4f40 0000000c 800a4f40 0 stopClrAnm__16dEnJrClownBase_cFv
 800a4f50 00000074 800a4f50 0 calcAtkTarget__16dEnJrClownBase_cFv
