@@ -2712,7 +2712,7 @@
 80060b50 00000098 80060b50 0 executeLastAll__9daPyMng_cFv
 80060bf0 00000158 80060bf0 0 deleteCullingYoshi__9daPyMng_cFv
 80060d50 000001a0 80060d50 0 setHipAttackQuake__9daPyMng_cFiUc
-80060ef0 00000138 80060ef0 0 hash_A66FB95E_0FF09A42
+80060ef0 00000138 80060ef0 0 setCombiHipAttackEffect__9daPyMng_cFv
 80061030 00000024 80061030 0 checkBonusNoCap__9daPyMng_cFv
 80061060 000000b8 80061060 0 initYoshiPriority__9daPyMng_cFP10daPlBase_c
 80061120 00000098 80061120 0 setYoshiPriority__9daPyMng_cFP10daPlBase_c
