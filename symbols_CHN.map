@@ -6745,7 +6745,7 @@
 800fc900 00000050 800fc900 0 getEnemyRevivalCount__6dWmLibFii
 800fc950 0000005c 800fc950 0 setEnemyRevivalCount__6dWmLibFiii
 800fc9b0 000000d4 800fc9b0 0 getPointDir__6dWmLibFRC7mVec3_cRC7mVec3_c
-800fca90 0000009c 800fca90 0 hash_4E5C756D_4AC89A25
+800fca90 0000009c 800fca90 0 getDirVec__6dWmLibFQ212dWmConnect_c9DirType_e
 800fcb30 00000014 800fcb30 0 isSpecialWorld__6dWmLibFv
 800fcb50 00000070 800fcb50 0 getMaxCollectionCoinNum__6dWmLibFi
 800fcbc0 00000070 800fcbc0 0 isCollectionCoinPerfect__6dWmLibFi
