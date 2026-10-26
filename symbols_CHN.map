@@ -2577,7 +2577,7 @@
 8005cd00 000000d0 8005cd00 0 startControlDemoLandPlayer__13daPyDemoMng_cFv
 8005cdd0 000000fc 8005cdd0 0 onBossDemoReq__13daPyDemoMng_cFQ213daPyDemoMng_c10BossDemo_e
 8005ced0 0000007c 8005ced0 0 isLandAll__13daPyDemoMng_cFv
-8005cf50 00000078 8005cf50 0 hash_2BAA1C5E_A0CD8E01
+8005cf50 00000078 8005cf50 0 setBossAnimeAll__13daPyDemoMng_cFQ211dPyAnmLabel9DemoAnm_e
 8005cfd0 000000d8 8005cfd0 0 executeStartToride__13daPyDemoMng_cFv
 8005d0b0 000000a0 8005d0b0 0 executeEndToride__13daPyDemoMng_cFv
 8005d150 00000040 8005d150 0 setCourseOutList__13daPyDemoMng_cFSc
