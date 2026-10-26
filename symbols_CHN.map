@@ -2364,7 +2364,7 @@
 80052950 0000007c 80052950 0 finalizeState_DemoControl__10daPlBase_cFv
 800529d0 000005c4 800529d0 0 executeState_DemoControl__10daPlBase_cFv
 80052fa0 0000001c 80052fa0 0 calcTimer<i>__4sLibFPi_i
-80052fc0 000000fc 80052fc0 0 hash_D8845940_A81ED025
+80052fc0 000000fc 80052fc0 0 changeSceneNextGotoBlock__10daPlBase_cFiiQ210daPlBase_c10FadeType_e
 800530c0 00000060 800530c0 0 initializeState_DemoNextGotoBlock__10daPlBase_cFv
 80053120 0000004c 80053120 0 finalizeState_DemoNextGotoBlock__10daPlBase_cFv
 80053170 0000008c 80053170 0 executeState_DemoNextGotoBlock__10daPlBase_cFv
