@@ -6631,7 +6631,7 @@
 800f8c20 00000080 800f8c20 0 initDemoAnger__10dWmEnemy_cFv
 800f8ca0 000000a0 800f8ca0 0 procDemoAnger__10dWmEnemy_cFv
 800f8d40 00000004 800f8d40 0 initDemoLose__10dWmEnemy_cFv
-800f8d50 00000028 800f8d50 0 hash_641B2293_5A06C548
+800f8d50 00000028 800f8d50 0 initDemoLoseBase__10dWmEnemy_cFRC7mVec3_cPCQ26dWmLib16JumpDemo_Param_tf
 800f8d80 00000008 800f8d80 0 procDemoLose__10dWmEnemy_cFv
 800f8d90 00000044 800f8d90 0 procDemoLoseEnd__10dWmEnemy_cFv
 800f8de0 000000a8 800f8de0 0 procDemoLoseBase__10dWmEnemy_cFs
