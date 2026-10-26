@@ -6527,8 +6527,8 @@
 800f5e50 00000028 800f5e50 0 GetOpenPointNum__10dCsvData_cCFbi
 800f5e80 00000038 800f5e80 0 GetOpenRouteName__10dCsvData_cCFbii
 800f5ec0 00000028 800f5ec0 0 GetOpenRouteNum__10dCsvData_cCFbi
-800f5ef0 00000014 800f5ef0 0 hash_245BD43F_4E26D63A
-800f5f10 00000014 800f5f10 0 hash_66C303EE_8A9EF76B
+800f5ef0 00000014 800f5ef0 0 CheckPointFlag__10dCsvData_cFiQ210dCsvData_c7Flag1_e
+800f5f10 00000014 800f5f10 0 CheckPointFlag2__10dCsvData_cFiQ210dCsvData_c7Flag2_e
 800f5f30 00000010 800f5f30 0 GetPointParam__10dCsvData_cFi
 800f5f40 00000014 800f5f40 0 GetRouteName__10dCsvData_cFi
 800f5f60 00000020 800f5f60 0 GetChildPointName__10dCsvData_cFii
