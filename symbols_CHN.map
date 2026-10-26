@@ -8571,7 +8571,7 @@
 801500b0 00000040 801500b0 0 executeState_EatNone__9daYoshi_cFv
 801500f0 00000080 801500f0 0 setHitTongueActor__9daYoshi_cFP8dActor_c
 80150170 000000d4 80150170 0 setEatAction__9daYoshi_cFv
-80150250 000000ac 80150250 0 hash_53D05495_D2177549
+80150250 000000ac 80150250 0 setFocedEatOutAction__9daYoshi_cFP8dActor_c
 80150300 00000010 80150300 0 getStateID__77sStateMgr_c<9daYoshi_c,20sStateMethodUsr_FI_c,12sFStateFct_c,13sStateIDChk_c>CFv
 80150310 00000108 80150310 0 setDamageSpitOut__9daYoshi_cFb
 80150420 000000a0 80150420 0 initializeState_Eat__9daYoshi_cFv
