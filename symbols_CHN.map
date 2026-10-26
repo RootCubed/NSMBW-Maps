@@ -5195,8 +5195,8 @@
 800c3350 0000011c 800c3350 0 lineRHLR_cross_chk__10dLineMng_cFRC7mVec2_c7mVec2_c7mVec2_c
 800c3470 00000894 800c3470 0 fall_on_line_ck__10dLineMng_cFv
 800c3d10 000000bc 800c3d10 0 circle_nextpos_set__10dLineMng_cFRC7mVec2_cf
-800c3dd0 0000003c 800c3dd0 0 hash_56D7D81B_2735F7DF
-800c3e10 0000003c 800c3e10 0 hash_6264449A_7A11D31E
+800c3dd0 0000003c 800c3dd0 0 correct_posx_unit_over__10dLineMng_cFv
+800c3e10 0000003c 800c3e10 0 correct_posy_unit_over__10dLineMng_cFv
 800c3e50 00000048 800c3e50 0 acm_rot_delta_u2u_prev__10dLineMng_cFUs
 800c3ea0 00000020 800c3ea0 0 acm_rot_delta_u2u_rev__10dLineMng_cFUs
 800c3ec0 0000006c 800c3ec0 0 calc_rotate_to_circle_rev__10dLineMng_cFUsb
