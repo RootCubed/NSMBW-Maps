@@ -4755,7 +4755,7 @@
 800b2620 00000010 800b2620 0 initializeState_Exit__16dfukidashiInfo_cFv
 800b2630 00000060 800b2630 0 executeState_Exit__16dfukidashiInfo_cFv
 800b2690 0000009c 800b2690 0 finalizeState_Exit__16dfukidashiInfo_cFv
-800b2730 000001c4 800b2730 0 hash_4E1D9D56_A815AF1A
+800b2730 000001c4 800b2730 0 CreateFuKiDaShi__16dfukidashiInfo_cFii
 800b2900 00000060 800b2900 0 build__32sFStateFct_c<16dfukidashiInfo_c>FRC12sStateIDIf_c
 800b2960 0000000c 800b2960 0 dispose__32sFStateFct_c<16dfukidashiInfo_c>FRP10sStateIf_c
 800b2970 0000001c 800b2970 0 initialize__29sFState_c<16dfukidashiInfo_c>Fv
