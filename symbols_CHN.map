@@ -5197,8 +5197,8 @@
 800c3d10 000000bc 800c3d10 0 circle_nextpos_set__10dLineMng_cFRC7mVec2_cf
 800c3dd0 0000003c 800c3dd0 0 hash_56D7D81B_2735F7DF
 800c3e10 0000003c 800c3e10 0 hash_6264449A_7A11D31E
-800c3e50 00000048 800c3e50 0 hash_3079926B_82942B90
-800c3ea0 00000020 800c3ea0 0 hash_3668217B_A84AF940
+800c3e50 00000048 800c3e50 0 acm_rot_delta_u2u_prev__10dLineMng_cFUs
+800c3ea0 00000020 800c3ea0 0 acm_rot_delta_u2u_rev__10dLineMng_cFUs
 800c3ec0 0000006c 800c3ec0 0 calc_rotate_to_circle_rev__10dLineMng_cFUsb
 800c3f30 0000006c 800c3f30 0 calc_rotate_to_circle_prev__10dLineMng_cFUsb
 800c3fa0 000003bc 800c3fa0 0 mov_to_rightupper__10dLineMng_cFUlRC7mVec2_cb
