@@ -5742,7 +5742,7 @@
 800d68c0 00000008 800d68c0 0 setPersonalRideAnm__12dPyMdlBase_cFiPQ34nw4r3g3d9ResAnmChr
 800d68d0 00000244 800d68d0 0 setRideAnm__12dPyMdlBase_cFifff
 800d6b20 00000008 800d6b20 0 setPersonalAnm__12dPyMdlBase_cFiPQ34nw4r3g3d9ResAnmChri
-800d6b30 000000f0 800d6b30 0 hash_CEA36DC1_24DED584
+800d6b30 000000f0 800d6b30 0 setJumpAnmVariation__12dPyMdlBase_cFiPci
 800d6c20 00000004 800d6c20 0 setTexAnmType__12dPyMdlBase_cFQ212dPyMdlBase_c12TexAnmType_e
 800d6c30 00000064 800d6c30 0 copyLinkAnm__12dPyMdlBase_cFf
 800d6ca0 00000078 800d6ca0 0 setLinkAnm__12dPyMdlBase_cFifff
