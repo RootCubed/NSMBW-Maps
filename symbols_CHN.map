@@ -8559,7 +8559,7 @@
 8014fd00 00000010 8014fd00 0 releaseFunsuiAction__9daYoshi_cFv
 8014fd10 00000018 8014fd10 0 getPlayerRideOn__9daYoshi_cCFv
 8014fd30 00000060 8014fd30 0 checkRideOffAble__9daYoshi_cFv
-8014fd90 00000144 8014fd90 0 hash_A5AA0EF2_B77AB9A0
+8014fd90 00000144 8014fd90 0 setRideOnPlayer__9daYoshi_cFP10daPlBase_cQ29daYoshi_c10RideType_e
 8014fee0 000000bc 8014fee0 0 setRideOffPlayer__9daYoshi_cFv
 8014ffa0 000000a0 8014ffa0 0 changePlrNo__9daYoshi_cFUc
 80150040 00000010 80150040 0 executeEatState__9daYoshi_cFv
