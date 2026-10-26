@@ -10445,7 +10445,7 @@
 801a0640 000001dc 801a0640 0 startPreparedBGM__9SndBgmMgrFv
 801a0820 00000228 801a0820 0 startGameStateBgm__9SndBgmMgrFv
 801a0a50 000000e4 801a0a50 0 changeBgmTrack__9SndBgmMgrFv
-801a0b40 00000020 801a0b40 0 hash_C7EF9FE1_91C43384
+801a0b40 00000020 801a0b40 0 changeBgmTrack__9SndBgmMgrFUcil
 801a0b60 000000d8 801a0b60 0 changeBgmWait__9SndBgmMgrFv
 801a0c40 0000005c 801a0c40 0 startGameStateBgmHurry__9SndBgmMgrFv
 801a0ca0 00000054 801a0ca0 0 pauseOffBgmSetting__9SndBgmMgrFv
