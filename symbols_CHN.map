@@ -5395,8 +5395,8 @@
 800cb940 00000038 800cb940 0 SetTexture__7dMask_cFQ25dMask9TexName_e
 800cb980 000000c4 800cb980 0 hash_27098AF4_90209519
 800cba50 00000014 800cba50 0 create__13texMaskCave_cFP12mAllocator_cP7shape_cPQ23EGG7ResTIMG
-800cba70 00000014 800cba70 0 hash_D5377DB1_2ECBA356
-800cba90 00000058 800cba90 0 hash_8E170DAA_8C887D46
+800cba70 00000014 800cba70 0 create__18texMaskCaveColor_cFP12mAllocator_cP7shape_cPQ23EGG7ResTIMG
+800cba90 00000058 800cba90 0 create__13texMaskDark_cFP12mAllocator_cP7shape_cPQ23EGG7ResTIMG
 800cbaf0 00000004 800cbaf0 0 drawOpa__13texMaskCave_cFv
 800cbb00 00000004 800cbb00 0 drawOpa__18texMaskCaveColor_cFv
 800cbb10 00000004 800cbb10 0 drawXlu__13texMaskDark_cFv
