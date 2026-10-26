@@ -5389,7 +5389,7 @@
 800cb540 000001f8 800cb540 0 calc__8spline_cFv
 800cb740 0000003c 800cb740 0 hash_7EAE646B_12CFC1E1
 800cb780 0000001c 800cb780 0 __ct__7dMask_cFv
-800cb7a0 00000118 800cb7a0 0 hash_50F6F16B_9203B759
+800cb7a0 00000118 800cb7a0 0 create__7dMask_cFP12mAllocator_cP7shape_cQ27dMask_c10MaskType_eQ25dMask9TexName_e
 800cb8c0 00000018 800cb8c0 0 execute__7dMask_cFv
 800cb8e0 00000058 800cb8e0 0 draw__7dMask_cFv
 800cb940 00000038 800cb940 0 SetTexture__7dMask_cFQ25dMask9TexName_e
