@@ -7978,7 +7978,7 @@
 8012f4a0 000000b0 8012f4a0 0 checkSpinLiftUpReserve__7dAcPy_cFP5dCc_c
 8012f550 0000016c 8012f550 0 setSpinLiftUpReserve__7dAcPy_cFv
 8012f6c0 000000a0 8012f6c0 0 checkSpinLiftUpRoofHeight__7dAcPy_cFv
-8012f760 00000108 8012f760 0 hash_2EA784C5_AB00278F
+8012f760 00000108 8012f760 0 checkCarry__7dAcPy_cFP8dActor_cQ27dAcPy_c11LiftUpOpt_e
 8012f870 00000090 8012f870 0 cancelCarry__7dAcPy_cFP8dActor_c
 8012f900 000000ac 8012f900 0 releaseCarryActor__7dAcPy_cFv
 8012f9b0 00000088 8012f9b0 0 setCarryOffFall__7dAcPy_cFPC7dAcPy_c
