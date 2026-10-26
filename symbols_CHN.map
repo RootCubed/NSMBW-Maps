@@ -8296,7 +8296,7 @@
 80140c20 00000090 80140c20 0 exeDemoOutDoor_WaitClose__7dAcPy_cFv
 80140cb0 00000050 80140cb0 0 exeDemoOutDoor_WaitEnter__7dAcPy_cFv
 80140d00 00000040 80140d00 0 executeState_DemoOutDoor__7dAcPy_cFv
-80140d40 000000b4 80140d40 0 hash_A8370FB0_7FB6C71F
+80140d40 000000b4 80140d40 0 setDemoDokanCannon__7dAcPy_cFR7mVec3_cQ27dAcPy_c15DemoDokanType_e
 80140e00 00000020 80140e00 0 endDemoDokanCannon__7dAcPy_cFR7mVec3_c
 80140e20 0000007c 80140e20 0 isDokanCannonIn__7dAcPy_cFv
 80140ea0 0000006c 80140ea0 0 initializeState_DemoDokanCannon__7dAcPy_cFv
