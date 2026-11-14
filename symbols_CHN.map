@@ -5375,7 +5375,7 @@
 800cad80 00000090 800cad80 0 getAimMotionShareScale__11dMarioMdl_cFv
 800cae10 00000008 800cae10 0 updateBonusCap__11dMarioMdl_cFv
 800cae20 00000020 800cae20 0 GetMaskTex__5dMaskFQ25dMask9TexName_e
-800cae40 0000017c 800cae40 0 hash_6BA49346_D1C160D3
+800cae40 0000017c 800cae40 0 drawShape__FR7mVec3_cPC7mVec3_cib
 800cafc0 00000070 800cafc0 0 drawSpline__FP9dSpline_cR7mVec3_cb
 800cb030 0000014c 800cb030 0 drawQuad__FP7mVec3_cfb
 800cb180 00000158 800cb180 0 drawQuad3D__FP7mVec3_cb
