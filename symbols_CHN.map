@@ -6692,7 +6692,7 @@
 800fa840 00000070 800fa840 0 CheckHalfAreaY__6dWmLibFRC7mVec3_c
 800fa8b0 00000074 800fa8b0 0 CheckOnCenterLineX__6dWmLibFRC7mVec3_c
 800fa930 00000074 800fa930 0 CheckOnCenterLineY__6dWmLibFRC7mVec3_c
-800fa9b0 000000dc 800fa9b0 0 hash_93AD302A_F7D696CB
+800fa9b0 000000dc 800fa9b0 0 SetNodeVisibility__6dWmLibFRQ34nw4r3g3d7ResNodei
 800faa90 00000020 800faa90 0 GetOpenStatus__6dWmLibFii
 800faab0 00000288 800faab0 0 GetOpenStatusCore__6dWmLibFiiRC10dCsvData_c
 800fad40 00000044 800fad40 0 OpenStatOverWrite__6dWmLibFQ26dWmLib10SttsOpen_eQ26dWmLib10SttsOpen_e
